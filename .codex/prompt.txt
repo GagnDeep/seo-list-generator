@@ -1,4 +1,10 @@
-# CODEX PROMPT: Build SEO-Optimized GitHub Awesome-List Repo
+# CODEX PROMPT: Build SEO-Optimized GitHub Awesome-List Repo (OPEN SOURCE ONLY)
+
+## CRITICAL CONSTRAINT
+- EVERY tool MUST have a github.com URL (no exceptions!)
+- NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
+- ONLY include tools that exist as public GitHub repositories with open source licenses
+- If a category has no good open source GitHub alternative, note that honestly
 
 ## CONTEXT
 You are building a complete, professional awesome-list repository for GitHub.
@@ -26,31 +32,35 @@ category: [primary-category]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Stars](https://img.shields.io/github/stars/GagnDeep/awesome-[SLUG]?style=social)
 
-> [Hook sentence - 2-3 sentences, primary keyword in first 100 words]
+> [Hook sentence - 2-3 sentences emphasizing open source, primary keyword in first 100 words]
 
 ## Table of Contents
 - [TL;DR](#tldr)
 - [Why This List](#why-this-list)
-- [Tools & Services](#tools--services)
+- [Open Source Tools](#open-source-tools)
 - [FAQ](#faq)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## TL;DR
-[3-5 bullet points of top recommendations]
+[3-5 bullet points of top open source recommendations with GitHub links]
 
 ## Why This List
-[2-3 paragraphs on why this topic matters now, include primary keyword naturally]
+[2-3 paragraphs on why open source tools matter for this topic, include primary keyword naturally]
 
-## Tools & Services
+## Open Source Tools
 
 ### [Category 1]
 
-#### [Tool Name](https://example.com)
-> **Description:** [80-150 words. Cover: what it does, key features, pricing context, what makes it special. Be specific and unique - no generic descriptions.]
+#### [Tool Name](https://github.com/username/repo)
+> **Description:** [80-150 words from the actual GitHub README - what it does, key features, how it's licensed. Include: stars count, primary language, license type, last commit date if available from GitHub.]
 
+- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
+- **Stars:** [number] ⭐
+- **Language:** [primary language]
+- **License:** [MIT/Apache/GPL/etc from GitHub]
+- **Last Commit:** [date or "Recently active"]
 - **Category:** [tag1, tag2, tag3]
-- **Pricing:** [Free/Paid/Freemium + starting price]
 - **Best for:** [specific use case]
 
 ---
@@ -68,16 +78,28 @@ category: [primary-category]
 [80-150 word answer...]
 
 ### How do I choose the right [topic] tool?
-[Answer with comparison criteria...]
+[Answer with comparison criteria, emphasizing open source benefits...]
 
-### Are there free options?
-[Answer listing free tiers/free tools...]
+### Are there free open source options?
+[Answer emphasizing the fully free and open source nature of listed tools...]
 
 ### How often is this list updated?
-[Answer mentioning active maintenance...]
+[Answer mentioning active maintenance and checking GitHub for latest commits...]
+
+### What's the difference between open source and free SaaS?
+[Explain that open source means you can self-host, audit code, modify, etc.]
+
+## GitHub Search Queries Used
+Include the gh search commands used to find these tools:
+```
+gh search repos "[topic] open source" --stars >50 --limit 20
+gh search repos "[specific tool]" --stars >25 --limit 10
+```
 
 ## Contributing
 Pull requests welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+**Note:** Only open source tools with public GitHub repositories will be accepted.
 
 ## License
 MIT © GagnDeep
@@ -116,23 +138,35 @@ Welcome! This list follows the [awesome manifesto](https://github.com/sindresorh
 
 ## Contribution Guidelines
 
-1. **Search first** - Ensure your suggestion isn't already in the list
-2. **Quality over quantity** - One great tool > ten mediocre ones
-3. **Include all fields** - Name, URL, description (80-150 words), category tags
-4. **Verify URLs** - Only submit working links
-5. **Unique descriptions** - Write original descriptions, don't copy marketing copy
+1. **Must have GitHub repo** - Only open source tools with public GitHub repositories will be accepted
+2. **Search first** - Ensure your suggestion isn't already in the list
+3. **Quality over quantity** - One great tool > ten mediocre ones
+4. **Include all fields** - GitHub URL, description (80-150 words), category tags, stars count
+5. **Verify URLs** - Only submit working GitHub links
+6. **Unique descriptions** - Write from the GitHub README, don't copy marketing copy
+
+## Contribution Format
+```markdown
+#### [Tool Name](https://github.com/username/repo)
+> **Description:** [80-150 words from GitHub README...]
+
+- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
+- **Stars:** [number] ⭐
+- **Language:** [language]
+- **License:** [MIT/Apache/GPL/etc]
+- **Category:** [tag1, tag2, tag3]
+- **Best for:** [use case]
+```
 
 ## How to Contribute
-
 1. Fork this repo
 2. Add your item to the appropriate category in README.md
-3. Follow the format: `#### [Tool Name](url)` with description block
+3. Follow the format above
 4. Submit a PR with a brief explanation
 
 ## Quality Standards
+- Must have a public GitHub repository URL
 - Description must be 80-150 words
-- Must have real, working URL
-- Must have category tags
 - Be objective - describe what it does, not just praise
 ```
 
@@ -143,22 +177,47 @@ Welcome! This list follows the [awesome manifesto](https://github.com/sindresorh
 4. **Unique descriptions** - No copied content, each 80-150 words
 5. **Proper meta description** - 150-160 chars in YAML frontmatter
 
+## OPEN SOURCE VERIFICATION REQUIREMENTS
+- **Every tool MUST have a github.com URL** (strict requirement)
+- Verify each tool has a real, public GitHub repository
+- Include stars count, primary language, and license from GitHub
+- Exclude any tool that is:
+  - Proprietary SaaS (Stripe, Calendly Pro, Notion, etc.)
+  - Cloud-only with no self-hosting option
+  - No public GitHub repository
+
 ## CONTENT REQUIREMENTS
 - **15-30 items** total across categories
-- **Every item needs**: Name, URL, 80-150 word description, category tags
-- **Categories**: Group related tools together (e.g., "Text & Writing", "Images", "Code", "Productivity")
-- **Real URLs only** - No dead links
+- **Every item needs**: 
+  - GitHub URL (required - no exceptions)
+  - 80-150 word description from README
+  - Stars count
+  - Primary language
+  - License type
+  - Category tags
+- **Categories**: Group related tools together
+- **Real GitHub repos only** - Verify each one exists
 
 ## EXECUTION STEPS
 1. Create README.md with full content
 2. Create LICENSE with MIT license
 3. Create CONTRIBUTING.md
-4. Verify structure: `ls -la`
-5. Verify README: `head -50 README.md`
-6. Report completion with repo URL
+4. Verify EVERY tool has a GitHub URL
+5. Verify structure: `ls -la`
+6. Verify README: `head -50 README.md`
+7. Report completion with repo URL
 
 ## RESEARCH DATA
 Use this for building accurate items:
 [RESEARCH_PLACEHOLDER]
+
+## EXAMPLE OPEN SOURCE TOOLS (for reference)
+When building lists, consider these types of open source alternatives:
+- Note-taking: Obsidian, AppFlowy, AFFiNE, Logseq
+- Design: Penpot, Pencil Project, Gravit Designer
+- Scheduling: Cal.com (self-hosted Calendly alternative)
+- CRM: Dolibarr, SuiteCRM, Odoo Community
+- Automation: n8n, Huginn, Activepieces
+- Payments: Note that Stripe/PayPal have no open source - suggest PicoPay or note honestly
 
 Start now. Create all files in the current directory.

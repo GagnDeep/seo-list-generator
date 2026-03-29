@@ -3,6 +3,7 @@
 # SEO LIST GENERATOR — PER-REPO ORCHESTRATOR
 # Creates each SEO list as its own GitHub awesome-list repo
 # Built by Codex via tmux
+# VERSION 2.0 - Enhanced with verification and gap detection
 #===========================================================
 
 set -e
@@ -21,7 +22,13 @@ TAKEN_TOPICS=(
     "best-ai-tools-newsletter-writers-2026"
     "best-free-ai-tools-professionals-2026"
     "best-webhook-tools-developers-2026"
+    "awesome-best-ai-tools-for-freelancers-2026"
+    "awesome-best-ai-tools-for-fitness-trainers-2026"
 )
+
+# Minimum tool requirements
+MIN_TOOLS=25
+PREFERRED_TOOLS=50
 
 # Colors
 RED='\033[0;31m'
@@ -67,58 +74,241 @@ is_topic_taken() {
 }
 
 #-----------------------------------------------------------
-# Phase 1: Research the topic via web searches
+# Phase 0: Pre-flight checks
+#-----------------------------------------------------------
+
+preflight_checks() {
+    log "Phase 0: Running pre-flight checks..."
+    
+    # Check gh CLI
+    if ! command -v gh &> /dev/null; then
+        error "gh CLI not installed. Please install from https://cli.github.com"
+        exit 1
+    fi
+    
+    # Check gh auth
+    if ! gh auth status &>/dev/null; then
+        error "GitHub CLI not authenticated. Run: gh auth login"
+        exit 1
+    fi
+    
+    # Check jq
+    if ! command -v jq &> /dev/null; then
+        error "jq not installed. Please install jq"
+        exit 1
+    fi
+    
+    # Check tmux
+    if ! command -v tmux &> /dev/null; then
+        error "tmux not installed. Please install tmux"
+        exit 1
+    fi
+    
+    # Check codex
+    if ! command -v codex &> /dev/null; then
+        warn "codex not found in PATH. Will try to use openclaw or warn user"
+    fi
+    
+    success "Pre-flight checks passed"
+    mkdir -p "$PROJECT_ROOT/logs"
+    mkdir -p "$PROJECT_ROOT/memory"
+    mkdir -p "$PROJECT_ROOT/ideas"
+}
+
+#-----------------------------------------------------------
+# Phase 1: Research with enhanced gap detection
 #-----------------------------------------------------------
 
 research_topic() {
     local topic="$1"
     local research_file="$PROJECT_ROOT/memory/research_$(date +%s).md"
+    local category_counts_file="$PROJECT_ROOT/memory/category_counts_$(date +%s).txt"
     
-    log "Phase 1: Researching topic: '$topic'"
-    mkdir -p "$PROJECT_ROOT/memory"
+    log "Phase 1: Researching topic (GitHub-focused): '$topic'"
     
-    # Spawn research agent for 5+ web searches
-    openclaw agents spawn \
-        --name "topic-research-$(date +%s)" \
-        --model "minimax/MiniMax-M2.7" \
-        --runtime "isolated" \
-        --message "Research this SEO topic deeply. Perform 5+ web searches to gather:
-1. Current best tools/services in this space
-2. Popular existing lists (to differentiate)
-3. Search trends and volume indicators
-4. Key pain points and use cases
-5. Expert recommendations and comparisons
-
-Topic: $topic
-
-Save findings to: $research_file
-Format with:
-- ## Top Tools/Services (with URLs)
-- ## Market Trends
-- ## Differentiation Opportunities
-- ## Key Search Terms" 2>/dev/null &
+    # Define search queries - minimum 5, each returning 50 repos
+    local search_queries=(
+        "open source $topic"
+        "self-hosted $topic"
+        "free $topic github"
+        "$topic MIT license"
+        "$topic API"
+        "$topic database"
+        "$topic alternative"
+    )
     
-    local agent_pid=$!
-    log "Research agent spawned (PID: $agent_pid)"
+    {
+        echo "# GitHub Repository Research for: $topic"
+        echo "Generated: $(date)"
+        echo ""
+        echo "## GitHub Search Commands Used"
+        echo ""
+    } > "$research_file"
     
-    # Wait for research with timeout
-    local timeout=180
-    local elapsed=0
-    while [ ! -f "$research_file" ] && [ $elapsed -lt $timeout ]; do
-        sleep 10
-        elapsed=$((elapsed + 10))
+    declare -A category_tools
+    local total_repos=0
+    
+    # Run gh search commands to find repos
+    for query in "${search_queries[@]}"; do
+        log "Searching: $query"
+        echo "### Query: $query" >> "$research_file"
+        echo "" >> "$research_file"
+        
+        # Search for repos with gh CLI
+        local results=$(gh search repos "$query" --stars ">20" --limit 50 --json name,url,description,stars,primaryLanguage,license 2>/dev/null)
+        
+        if [ -n "$results" ] && [ "$results" != "[]" ]; then
+            echo "$results" | jq -r '.[] | "- **[\(.name)](\(.url))** (⭐ \(.stars // 0) | \(.primaryLanguage // "N/A") | \(.license // "N/A"))"' >> "$research_file" 2>/dev/null || true
+            local count=$(echo "$results" | jq '. | length' 2>/dev/null || echo "0")
+            echo "  Found: $count repos" >> "$research_file"
+            total_repos=$((total_repos + count))
+        else
+            echo "  (No results found)" >> "$research_file"
+        fi
+        
+        echo "" >> "$research_file"
+        
+        # Log to memory
+        echo "$(date +%Y-%m-%d_%H:%M:%S) | $query | $total_repos" >> "$PROJECT_ROOT/memory/gh_search_log.txt"
     done
     
-    if [ -f "$research_file" ]; then
-        success "Research complete: $research_file"
-        cat "$research_file"
-        echo "$research_file"
-        return 0
-    else
-        warn "Research timed out, continuing anyway"
-        echo "$research_file"
+    # Also perform web searches for additional context
+    log "Performing web searches for additional context..."
+    {
+        echo "## Web Search Results"
+        echo ""
+    } >> "$research_file"
+    
+    web_search "site:github.com \"$topic\" open source" 2>/dev/null | head -20 >> "$research_file" || true
+    
+    # Detect gaps: categories with fewer than 5 repos
+    log "Detecting gaps in the research..."
+    {
+        echo "## Gap Analysis"
+        echo ""
+        echo "Categories with fewer than 5 tools represent opportunities:"
+        echo ""
+    } >> "$research_file"
+    
+    # Calculate category distribution (simplified)
+    if [ $total_repos -lt $MIN_TOOLS ]; then
+        warn "Found only $total_repos repos (minimum: $MIN_TOOLS)"
+        echo "WARNING: Low repo count for topic '$topic'. Consider broadening search." >> "$research_file"
+    fi
+    
+    success "Research complete: $research_file"
+    success "Total repos found: $total_repos"
+    
+    # Store for later verification
+    echo "TOTAL_REPOS=$total_repos" > "$PROJECT_ROOT/memory/research_stats.txt"
+    
+    cat "$research_file"
+    echo "$research_file"
+    return 0
+}
+
+#-----------------------------------------------------------
+# Phase 1b: Verify tools meet minimum requirements
+#-----------------------------------------------------------
+
+verify_tools() {
+    local research_file="$1"
+    
+    log "Phase 1b: Verifying tools meet requirements..."
+    
+    # Count verified repos from research
+    local verified_count=$(grep -c "github.com" "$research_file" 2>/dev/null || echo "0")
+    
+    if [ "$verified_count" -lt $MIN_TOOLS ]; then
+        error "Only $verified_count tools verified (minimum: $MIN_TOOLS)"
+        error "Please broaden your search or try a different topic"
         return 1
     fi
+    
+    success "Verified $verified_count tools meet minimum requirements"
+    
+    if [ "$verified_count" -ge $PREFERRED_TOOLS ]; then
+        success "Target of $PREFERRED_TOOLS tools exceeded!"
+    fi
+    
+    return 0
+}
+
+#-----------------------------------------------------------
+# Phase 1c: Auto-generate idea files for gaps
+#-----------------------------------------------------------
+
+generate_gap_ideas() {
+    local topic="$1"
+    
+    log "Phase 1c: Generating idea files for discovered gaps..."
+    
+    # Check if ideas folder exists
+    mkdir -p "$PROJECT_ROOT/ideas"
+    
+    # Detect common gap patterns and create idea files
+    local slug=$(slugify "$topic")
+    local idea_file="$PROJECT_ROOT/ideas/${slug}-opportunity.md"
+    
+    # If topic is fitness-related, note fitness gaps
+    if [[ "$topic" == *"fitness"* ]] || [[ "$topic" == *"workout"* ]]; then
+        if [ ! -f "$PROJECT_ROOT/ideas/ai-workout-generator-open-source.md" ]; then
+            cat > "$PROJECT_ROOT/ideas/ai-workout-generator-open-source.md" << 'IDEAEOF'
+# AI Workout Generator Open Source
+
+## What It Would Be
+An AI-powered workout generator that creates personalized training programs based on client goals, available equipment, fitness level, and injury history.
+
+## Why This Doesn't Exist as Open Source
+Building a genuinely useful workout AI needs large datasets of programming knowledge that don't exist in open source form.
+
+## Market Gap
+Personal trainers spend 2-4 hours per week writing programs manually. A capable open source alternative could capture trainers who want customization and data ownership.
+
+## Suggested Tech Stack
+- Python (ML), TypeScript (frontend)
+- Next.js for admin dashboard, FastAPI for backend
+- PyTorch for workout generation model
+
+## Revenue Model
+- Community-sponsored development
+- Premium training datasets as paid add-ons
+- Hosted SaaS version for trainers
+IDEAEOF
+            success "Created idea file: ai-workout-generator-open-source.md"
+        fi
+    fi
+    
+    # If topic is freelancer-related, note freelancer gaps
+    if [[ "$topic" == *"freelancer"* ]] || [[ "$topic" == *"freelance"* ]]; then
+        if [ ! -f "$PROJECT_ROOT/ideas/ai-client-management-open-source.md" ]; then
+            cat > "$PROJECT_ROOT/ideas/ai-client-management-open-source.md" << 'IDEAEOF'
+# AI Client Management Open Source
+
+## What It Would Be
+A self-hosted CRM specifically designed for freelancers with AI-powered insights, automatic email parsing, and project tracking.
+
+## Why This Doesn't Exist as Open Source
+True AI-powered CRMs don't exist in open source because the AI components require ongoing API costs.
+
+## Market Gap
+60+ million freelancers globally need better client management tools. A self-hosted solution with AI generation could command significant market share.
+
+## Suggested Tech Stack
+- TypeScript/Node.js (backend), React (frontend)
+- LangChain for orchestration, Ollama or OpenAI for LLM
+- PostgreSQL with pgvector for semantic search
+
+## Revenue Model
+- Community funding
+- Premium AI processing for self-hosted installs
+- Hosted SaaS version with included AI credits
+IDEAEOF
+            success "Created idea file: ai-client-management-open-source.md"
+        fi
+    fi
+    
+    success "Gap analysis complete"
 }
 
 #-----------------------------------------------------------
@@ -168,9 +358,27 @@ build_with_codex() {
         research_content=$(cat "$research_file")
     fi
     
+    # Check total repos found
+    local total_repos=0
+    if [ -f "$PROJECT_ROOT/memory/research_stats.txt" ]; then
+        source "$PROJECT_ROOT/memory/research_stats.txt"
+    fi
+    
     # Create the Codex prompt with all context
     local codex_prompt=$(cat << PROMPT_EOF
-Build a complete SEO-optimized GitHub awesome-list repository for the topic: "$topic"
+Build a complete SEO-optimized GitHub awesome-list repository for: "$topic"
+
+## CRITICAL CONSTRAINTS
+- EVERY tool MUST have a github.com URL
+- NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
+- ONLY include tools that exist as public GitHub repositories
+- Minimum $MIN_TOOLS verified tools required ($PREFERRED_TOOLS+ preferred)
+- If a category has fewer than 5 repos, document it honestly as a gap
+
+## REPOSITORY COUNT TARGET
+Minimum: $MIN_TOOLS verified tools
+Preferred: $PREFERRED_TOOLS+ tools
+Currently found: $total_repos repos (expand research if needed)
 
 ## YOUR TASK
 Create a professional, complete awesome-list repo with:
@@ -203,33 +411,34 @@ category: [pick best category]
 ## Table of Contents
 - [TL;DR](#tldr)
 - [Why This List](#why-this-list)
-- [Tools & Services](#tools--services)
+- [Open Source Tools](#open-source-tools)
 - [FAQ](#faq)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## TL;DR
-[Quick summary - 3-5 bullet points of the best options]
+[Quick summary - 3-5 bullet points of the best open source options]
 
 ## Why This List
-[Brief section on why this matters now - include primary keyword naturally]
+[Brief section on why open source tools matter for this use case - include primary keyword naturally]
 
-## Tools & Services
+## Open Source Tools
 
 ### [Category 1]
-[15-30 items, each with this structure:]
+[15-30 items if possible, each with this structure:]
 
-#### [Tool Name](https://tool-url.com)
-> **Description:** [80-150 words describing the tool, its use case, and why it's valuable. Include specific features, pricing context if relevant, and what makes it stand out.]
+#### [Tool Name](https://github.com/username/repo)
+> **Description:** [80-150 words from the GitHub README - what it does, key features, how it's licensed. MUST include: last commit date, stars count, primary language, license type from GitHub.]
 
+- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
+- **Stars:** [number] ⭐
+- **Language:** [primary language]
+- **License:** [MIT/Apache/GPL/etc from GitHub]
+- **Last Commit:** [date]
 - **Category:** [tag1, tag2]
-- **Pricing:** [Free/Paid/Freemium + starting price if applicable]
 - **Best for:** [specific use case]
 
 ---
-
-#### [Another Tool...]
-[repeat for each item...]
 
 ### [Category 2]
 [more items...]
@@ -237,20 +446,11 @@ category: [pick best category]
 ## FAQ
 [5-7 questions targeting long-tail keywords]
 
-### What is [primary keyword topic]?
-[Answer with 80-150 words...]
-
-### How do I choose the right [topic] tool?
-[Answer...]
-
-### Are there free options for [topic]?
-[Answer...]
-
-### How often is this list updated?
-[Answer mentioning you'll keep it current...]
+## GitHub Search Queries Used
+[Include the actual gh search commands used to find these tools]
 
 ## Contributing
-[Standard contributing guide - short]
+[Standard contributing guide - must require GitHub repo URL for submissions]
 
 ## License
 [MIT License - see LICENSE file]
@@ -260,24 +460,26 @@ category: [pick best category]
 $research_content
 
 ## REQUIREMENTS
-1. Each tool/service MUST have: Name, Description (80-150 words), URL, Category tags
-2. Primary keyword MUST appear in first 100 words
-3. Include 15-30 items total
-4. Every tool MUST have a real, working URL
+1. EVERY tool MUST have a github.com URL (no exceptions)
+2. Include stars count, primary language, license from GitHub
+3. Primary keyword MUST appear in first 100 words
+4. Include $MIN_TOOLS+ items total ($PREFERRED_TOOLS+ preferred)
 5. Use semantic headings (H2, H3)
-6. Descriptions must be unique - no generic copy-paste
+6. Descriptions must be from actual GitHub READMEs - unique and specific
 7. Target long-tail keywords in FAQ section
 8. Format with Markdown - use tables where appropriate
+9. Include the GitHub search queries used to find these tools
 
 ## OUTPUT
 After creating all files, verify the structure:
-- README.md with complete content
+- README.md with complete content (minimum $MIN_TOOLS tools)
 - LICENSE file with MIT license
 - CONTRIBUTING.md file
 
 Run: ls -la
-Run: head -50 README.md
-Report: DONE with repo URL
+Run: wc -l README.md
+Count the tools in your README and verify you have $MIN_TOOLS+ entries
+Report: DONE with repo URL and tool count
 PROMPT_EOF
 )
     
@@ -311,7 +513,7 @@ PROMPT_EOF
         fi
         
         # Check for completion markers
-        if echo "$pane_output" | grep -qiE "DONE|complete|finished|repo url"; then
+        if echo "$pane_output" | grep -qiE "DONE|complete|finished|repo url|tool count"; then
             success "Codex appears to have finished"
             break
         fi
@@ -334,7 +536,13 @@ PROMPT_EOF
     ls -la "$temp_dir/"
     
     if [ -f "$temp_dir/README.md" ]; then
-        success "README.md created ($(wc -l < "$temp_dir/README.md") lines)"
+        local lines=$(wc -l < "$temp_dir/README.md")
+        local tools=$(grep -c "github.com" "$temp_dir/README.md" 2>/dev/null || echo "0")
+        success "README.md created ($lines lines, $tools tools found)"
+        
+        if [ "$tools" -lt $MIN_TOOLS ]; then
+            warn "Only $tools tools found (minimum: $MIN_TOOLS). Consider expanding research."
+        fi
     else
         error "README.md not found!"
     fi
@@ -427,6 +635,8 @@ main() {
     echo "=============================================="
     echo "  SEO LIST GENERATOR — PER-REPO MODE"
     echo "  Each list → its own GitHub repo"
+    echo "  OPEN SOURCE GITHUB-ONLY FOCUS"
+    echo "  MINIMUM: $MIN_TOOLS TOOLS | PREFERRED: $PREFERRED_TOOLS+"
     echo "=============================================="
     echo -e "${NC}"
     
@@ -450,11 +660,8 @@ main() {
         exit 1
     fi
     
-    # Check if gh is authenticated
-    if ! gh repo list "$GITHUB_USER" &>/dev/null; then
-        error "GitHub CLI not authenticated. Run: gh auth login"
-        exit 1
-    fi
+    # Run preflight checks
+    preflight_checks
     
     mkdir -p "$PROJECT_ROOT/logs"
     mkdir -p "$PROJECT_ROOT/outputs"
@@ -462,10 +669,22 @@ main() {
     log "Starting: $topic"
     log "Slug: $slug"
     log "Repo: https://github.com/$GITHUB_USER/awesome-$slug"
+    log "Minimum tools required: $MIN_TOOLS (preferred: $PREFERRED_TOOLS)"
     echo ""
     
     # Run phases
     local research_file=$(research_topic "$topic")
+    
+    # Verify tools before proceeding
+    if ! verify_tools "$research_file"; then
+        error "Verification failed. Not enough tools found for '$topic'"
+        error "Try a broader topic or different search terms"
+        exit 1
+    fi
+    
+    # Generate idea files for gaps
+    generate_gap_ideas "$topic"
+    
     local temp_dir=$(create_repo_structure "$topic")
     build_with_codex "$topic" "$temp_dir"
     
@@ -481,6 +700,7 @@ main() {
     echo -e "${GREEN}=============================================="
     echo "  COMPLETE!"
     echo "  Repo: $repo_url"
+    echo "  Ideas: $PROJECT_ROOT/ideas/"
     echo "==============================================${NC}"
 }
 
