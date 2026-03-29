@@ -1,5 +1,5 @@
 # CODEX PROMPT: Build SEO-Optimized GitHub Awesome-List Repo (OPEN SOURCE ONLY)
-# VERSION 2.0 - Enhanced with minimum tool requirements and gap detection
+# VERSION 3.0 - Enhanced with strict topic relevance and link verification
 
 ## CRITICAL CONSTRAINTS
 - EVERY tool MUST have a github.com URL (no exceptions!)
@@ -8,6 +8,34 @@
 - **MINIMUM 25 VERIFIED TOOLS REQUIRED (50+ preferred)**
 - If a category has fewer than 5 tools, honestly document it as a gap
 - Check ideas/ folder for documented opportunities to mention
+
+## STRICT TOPIC RELEVANCE RULE
+**IMPORTANT: Only include tools that are DIRECTLY relevant to [TOPIC].**
+
+A tool is topic-relevant ONLY if:
+- It's specifically about the topic (e.g., fitness tools for fitness lists)
+- OR it's an API/database specifically for that topic
+- OR it's a tracking/monitoring tool directly related to the topic
+
+### EXAMPLES OF WHAT TO EXCLUDE (Fitness Topics):
+- n8n (automation - NOT fitness-specific)
+- Cal.com (scheduling - NOT fitness-specific)
+- Dolibarr (CRM - NOT fitness-specific)
+- Nextcloud (storage - NOT fitness-specific)
+- Kimai (time tracking - NOT fitness-specific)
+- Crater (invoicing - NOT fitness-specific)
+- Formbricks/Typebot (forms - NOT fitness-specific)
+- Ollama/OpenWebUI/LocalAI (general AI - NOT fitness-specific)
+
+### EXAMPLES OF WHAT TO EXCLUDE (All Topics):
+- Enterprise-only tools that don't have self-hosted options
+- Tools that are loosely related but not directly used for the stated topic
+- General productivity tools that aren't specifically adapted for the industry
+
+### THE RELEVANCE TEST:
+Before adding ANY tool, ask: "Would a [fitness trainer/freelancer/etc.] specifically use this for their work?"
+
+If the answer is "anyone could use this" or "it's a general tool", DON'T include it.
 
 ## REPOSITORY COUNT ENFORCEMENT
 Before completing, count the tools in your README and verify:
@@ -135,6 +163,8 @@ Before reporting DONE, verify:
 6. Every tool has stars count, language, and license from GitHub
 7. Primary keyword appears in first 100 words
 8. No proprietary SaaS tools included
+9. **EVERY tool passes the relevance test** - would a [topic professional] specifically use this?
+10. **NO general business tools included** unless specifically adapted for the topic
 
 ## OUTPUT FORMAT
 After creating all files:

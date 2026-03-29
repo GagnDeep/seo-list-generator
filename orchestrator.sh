@@ -549,7 +549,77 @@ PROMPT_EOF
 }
 
 #-----------------------------------------------------------
-# Phase 4: Create GitHub repo and push
+# Phase 4: Verify all GitHub links
+#-----------------------------------------------------------
+
+verify_links() {
+    local readme="$1"
+    local temp_results="/tmp/link_check_$$.txt"
+    local broken_count=0
+    local total_count=0
+    
+    log "Phase 4: Verifying all GitHub links in README..."
+    
+    # Create temp files
+    local working_file="/tmp/working_links_$$.txt"
+    local broken_file="/tmp/broken_links_$$.txt"
+    > "$working_file"
+    > "$broken_file"
+    
+    # Extract all unique GitHub URLs
+    local urls=$(grep -oE 'https://github\.com/[a-zA-Z0-9_-]+/[a-zA-Z0-9_.-]+' "$readme" | sort -u)
+    total_count=$(echo "$urls" | wc -l)
+    
+    log "Found $total_count GitHub URLs to verify..."
+    
+    # Check each URL
+    echo "$urls" | while read -r url; do
+        local status=$(curl -s -o /dev/null -w "%{http_code}" -L --max-time 10 \
+            -H "User-Agent: Mozilla/5.0" "$url" 2>/dev/null || echo "000")
+        
+        if [ "$status" = "200" ]; then
+            echo "✅ $url" >> "$working_file"
+        else
+            echo "❌ $url (HTTP $status)" >> "$broken_file"
+            # Try to find replacement repo
+            local repo_path=$(echo "$url" | sed 's|https://github.com/||')
+            local new_url=$(gh api "repos/$repo_path" --jq '.html_url' 2>/dev/null || echo "")
+            
+            if [ -n "$new_url" ] && [ "$new_url" != "$url" ]; then
+                log "Found replacement: $new_url"
+                sed -i "s|$url|$new_url|g" "$readme"
+            fi
+        fi
+        
+        # Rate limiting
+        sleep 0.1
+    done
+    
+    # Count broken links
+    broken_count=$(wc -l < "$broken_file" 2>/dev/null || echo "0")
+    
+    log "Link verification complete:"
+    log "  ✅ Working: $(wc -l < "$working_file" 2>/dev/null || echo "0")"
+    log "  ❌ Broken: $broken_count"
+    
+    if [ "$broken_count" -gt 0 ]; then
+        warn "$broken_count broken links found and fixed"
+        log "Broken links:"
+        cat "$broken_file" | while read -r line; do
+            log "  $line"
+        done
+    else
+        success "All $total_count GitHub links verified working!"
+    fi
+    
+    # Cleanup temp files
+    rm -f "$working_file" "$broken_file" "$temp_results"
+    
+    return 0
+}
+
+#-----------------------------------------------------------
+# Phase 5: Create GitHub repo and push
 #-----------------------------------------------------------
 
 create_github_repo() {
@@ -558,7 +628,7 @@ create_github_repo() {
     local slug=$(slugify "$topic")
     local repo_name="awesome-$slug"
     
-    log "Phase 4: Creating GitHub repo: $repo_name"
+    log "Phase 5: Creating GitHub repo: $repo_name"
     
     cd "$temp_dir"
     
@@ -578,14 +648,14 @@ create_github_repo() {
 }
 
 #-----------------------------------------------------------
-# Phase 5: Commit aggregator update
+# Phase 6: Commit aggregator update
 #-----------------------------------------------------------
 
 commit_aggregator_update() {
     local topic="$1"
     local slug=$(slugify "$topic")
     
-    log "Phase 5: Committing aggregator update..."
+    log "Phase 6: Committing aggregator update..."
     
     cd "$PROJECT_ROOT"
     
@@ -606,14 +676,14 @@ commit_aggregator_update() {
 }
 
 #-----------------------------------------------------------
-# Phase 6: Cleanup
+# Phase 7: Cleanup
 #-----------------------------------------------------------
 
 cleanup() {
     local temp_dir="$1"
     local slug="$2"
     
-    log "Phase 6: Cleaning up temp directory..."
+    log "Phase 7: Cleaning up temp directory..."
     
     if [ -d "$temp_dir" ]; then
         rm -rf "$temp_dir"
@@ -687,6 +757,9 @@ main() {
     
     local temp_dir=$(create_repo_structure "$topic")
     build_with_codex "$topic" "$temp_dir"
+    
+    # Verify all GitHub links before pushing
+    verify_links "$temp_dir/README.md"
     
     local repo_url=""
     if create_github_repo "$topic" "$temp_dir"; then
