@@ -372,3 +372,19 @@
 2026-03-29_18:48:14 | ai tools database stars:>20 | 195
 2026-03-29_18:48:16 | ai tools alternative stars:>20 | 211
 2026-03-29_18:48:17 | ai tools workflow automation stars:>20 | 253
+2026-03-29_20:16:41 | open source ai tools for lawyers stars:>20 | 0
+2026-03-29_20:16:41 | self-hosted ai tools for lawyers stars:>20 | 0
+2026-03-29_20:16:42 | free ai tools for lawyers github stars:>20 | 0
+2026-03-29_20:16:42 | ai tools for lawyers MIT license stars:>20 | 0
+2026-03-29_20:16:42 | ai tools for lawyers API stars:>20 | 0
+2026-03-29_20:16:43 | ai tools for lawyers database stars:>20 | 0
+2026-03-29_20:16:43 | ai tools for lawyers alternative stars:>20 | 0
+2026-03-29_20:16:44 | ai tools for lawyers workflow automation stars:>20 | 0
+2026-03-29_20:23:39 | open source ai tools for lawyers stars:>20 | 0
+2026-03-29_20:23:39 | self-hosted ai tools for lawyers stars:>20 | 0
+2026-03-29_20:23:40 | free ai tools for lawyers github stars:>20 | 0
+2026-03-29_20:23:40 | ai tools for lawyers MIT license stars:>20 | 0
+2026-03-29_20:23:41 | ai tools for lawyers API stars:>20 | 0
+2026-03-29_20:23:41 | ai tools for lawyers database stars:>20 | 0
+2026-03-29_20:23:42 | ai tools for lawyers alternative stars:>20 | 0
+2026-03-29_20:23:42 | ai tools for lawyers workflow automation stars:>20 | 0
