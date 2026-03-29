@@ -24,6 +24,7 @@ TAKEN_TOPICS=(
     "best-webhook-tools-developers-2026"
     "awesome-best-ai-tools-for-freelancers-2026"
     "awesome-best-ai-tools-for-fitness-trainers-2026"
+    "best-open-source-ai-tools-2026"
 )
 
 # Minimum tool requirements

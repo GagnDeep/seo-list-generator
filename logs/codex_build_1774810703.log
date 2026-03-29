@@ -1,0 +1,1508 @@
+cd ^[[0;34m[2026-03-29 18:48:17]^[[0m Phase 2: Creating repo structure for 'best
+-open-source-ai-tools-2026'
+Initialized empty Git repository in /tmp/awesome-best-open-source-ai-tools-2026-
+1035410/.git/
+/tmp/awesome-best-open-source-ai-tools-2026-1035410 && cat '/root/Projects/seo-l
+ist-generator/.codex/prompt.txt' | codex exec -
+root@openclaw:~# cd ;34m[2026-03-29 18:48:17]m Phase 2: Creating repo structure
+for 'best-open-source-ai-tools-2026'
+34m[2026-03-29: command not found
+root@openclaw:~# Initialized empty Git repository in /tmp/awesome-best-open-sour
+ce-ai-tools-2026-1035410/.git/
+Initialized: command not found
+root@openclaw:~# /tmp/awesome-best-open-source-ai-tools-2026-1035410 && cat '/ro
+ot/Projects/seo-list-generator/.codex/prompt.txt' | codex exec -
+-bash: /tmp/awesome-best-open-source-ai-tools-2026-1035410: Is a directory
+root@openclaw:~# cd /tmp/awesome-best-open-source-ai-tools-2026-1035410 && cat '
+/root/Projects/seo-list-generator/.codex/prompt.txt' | codex exec --dangerously-
+bypass-approvals-and-sandbox -
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-open-source-ai-tools-2026-1035410
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: none
+reasoning summaries: none
+session id: 019d3af0-bdab-7b21-b34e-9e2e91838c8c
+--------
+user
+Build a complete SEO-optimized GitHub awesome-list repository for: "best-open-so
+urce-ai-tools-2026"
+
+## CRITICAL CONSTRAINTS
+- EVERY tool MUST have a github.com URL
+- NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
+- ONLY include tools that exist as public GitHub repositories
+- Minimum 25 verified tools required (50+ preferred)
+- If a category has fewer than 5 repos, document it honestly as a gap
+
+## REPOSITORY COUNT TARGET
+Minimum: 25 verified tools
+Preferred: 50+ tools
+Currently found: 0 repos (expand research if needed)
+
+## YOUR TASK
+Create a professional, complete awesome-list repo with:
+- README.md (main content - see format below)
+- LICENSE (MIT)
+- CONTRIBUTING.md
+
+## REPO STRUCTURE
+Work in this directory: [2026-03-29 18:48:17] Phase 2: Creating repo structure f
+or 'best-open-source-ai-tools-2026'
+Initialized empty Git repository in /tmp/awesome-best-open-source-ai-tools-2026-
+1035410/.git/
+/tmp/awesome-best-open-source-ai-tools-2026-1035410
+The repo name should be: awesome-best-open-source-ai-tools-2026
+GitHub URL will be: https://github.com/GagnDeep/awesome-best-open-source-ai-tool
+s-2026
+
+## README.md FORMAT (MUST FOLLOW EXACTLY)
+
+---
+title: "best-open-source-ai-tools-2026"
+description: "[150-160 char description for SEO - make it compelling and keyword
+-rich]"
+icon: 📋
+category: [pick best category]
+---
+
+# [H1 Title - Primary Keyword]
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.sv
+g)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://o
+pensource.org/licenses/MIT)
+![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-open-source-
+ai-tools-2026?style=social)
+
+> [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
+
+## Table of Contents
+- [TL;DR](#tldr)
+- [Why This List](#why-this-list)
+- [Open Source Tools](#open-source-tools)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [License](#license)
+
+## TL;DR
+[Quick summary - 3-5 bullet points of the best open source options]
+
+## Why This List
+[Brief section on why open source tools matter for this use case - include prima
+ry keyword naturally]
+
+## Open Source Tools
+
+### [Category 1]
+[15-30 items if possible, each with this structure:]
+
+#### [Tool Name](https://github.com/username/repo)
+> **Description:** [80-150 words from the GitHub README - what it does, key feat
+ures, how it's licensed. MUST include: last commit date, stars count, primary la
+nguage, license type from GitHub.]
+
+- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
+- **Stars:** [number] ⭐
+- **Language:** [primary language]
+- **License:** [MIT/Apache/GPL/etc from GitHub]
+- **Last Commit:** [date]
+- **Category:** [tag1, tag2]
+- **Best for:** [specific use case]
+
+---
+
+### [Category 2]
+[more items...]
+
+## FAQ
+[5-7 questions targeting long-tail keywords]
+
+## GitHub Search Queries Used
+[Include the actual gh search commands used to find these tools]
+
+## Contributing
+[Standard contributing guide - must require GitHub repo URL for submissions]
+
+## License
+[MIT License - see LICENSE file]
+---
+
+## RESEARCH DATA (use this to build accurate items)
+# GitHub Repository Research for: best-open-source-ai-tools-2026
+Generated: Sun Mar 29 18:48:05 UTC 2026
+
+## GitHub Search Commands Used
+
+### Query: open source ai tools stars:>20
+
+- **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-pr
+ompts-and-models-of-ai-tools)** (⭐ 133626 |  | {"key":"gpl-3.0","name":"GNU Gen
+eral Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** (⭐ 37683 | JavaScript | {"k
+ey":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://ap
+i.github.com/licenses/agpl-3.0"})
+- **[openkore](https://github.com/OpenKore/openkore)** (⭐ 1456 | Perl | {"key":
+"other","name":"Other","url":""})
+- **[awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai
+)** (⭐ 1900 |  | {"key":"other","name":"Other","url":""})
+- **[E2B](https://github.com/e2b-dev/E2B)** (⭐ 11491 | Python | {"key":"apache-
+2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2
+.0"})
+- **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starte
+r-kit)** (⭐ 14490 |  | {"key":"apache-2.0","name":"Apache License 2.0","url":"h
+ttps://api.github.com/licenses/apache-2.0"})
+- **[onlook](https://github.com/onlook-dev/onlook)** (⭐ 24977 | TypeScript | {"
+key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/lice
+nses/apache-2.0"})
+- **[blinko](https://github.com/blinkospace/blinko)** (⭐ 9921 | TypeScript | {"
+key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.githu
+b.com/licenses/gpl-3.0"})
+- **[ui](https://github.com/creativetimofficial/ui)** (⭐ 11782 | TypeScript | {
+"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data
+-annotation)** (⭐ 689 |  | {"key":"mit","name":"MIT License","url":"https://api
+.github.com/licenses/mit"})
+- **[awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-i
+mage-synthesis)** (⭐ 1789 |  | {"key":"","name":"","url":""})
+- **[Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO)** (⭐ 646 | C#
+ | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.
+github.com/licenses/gpl-3.0"})
+- **[awesome-ai](https://github.com/hades217/awesome-ai)** (⭐ 540 |  | {"key":"
+mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[slideflow](https://github.com/slideflow/slideflow)** (⭐ 357 | Python | {"k
+ey":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licen
+ses/apache-2.0"})
+- **[FunClip](https://github.com/modelscope/FunClip)** (⭐ 5431 | Python | {"key
+":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[53AIHub](https://github.com/53AI/53AIHub)** (⭐ 9168 | Go | {"key":"other",
+"name":"Other","url":""})
+- **[awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)** (⭐ 841
+ |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/m
+it"})
+- **[awesome-healthcare-ai](https://github.com/medtorch/awesome-healthcare-ai)**
+ (⭐ 314 |  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","ur
+l":"https://api.github.com/licenses/cc0-1.0"})
+- **[awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data
+-centric-ai)** (⭐ 733 |  | {"key":"cc-by-4.0","name":"Creative Commons Attribut
+ion 4.0 International","url":"https://api.github.com/licenses/cc-by-4.0"})
+- **[deer-flow](https://github.com/bytedance/deer-flow)** (⭐ 52374 | Python | {
+"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)** (⭐ 2408
+| TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://ap
+i.github.com/licenses/apache-2.0"})
+- **[taranis-ai](https://github.com/taranis-ai/taranis-ai)** (⭐ 982 | Python |
+{"key":"eupl-1.2","name":"European Union Public License 1.2","url":"https://api.
+github.com/licenses/eupl-1.2"})
+- **[comflowyspace](https://github.com/6174/comflowyspace)** (⭐ 2356 | TypeScri
+pt | {"key":"other","name":"Other","url":""})
+- **[PyRIT](https://github.com/microsoft/PyRIT)** (⭐ 3641 | Python | {"key":"mi
+t","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[relaticle](https://github.com/relaticle/relaticle)** (⭐ 1217 | PHP | {"key
+":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.
+github.com/licenses/agpl-3.0"})
+- **[compose-for-agents](https://github.com/docker/compose-for-agents)** (⭐ 892
+ | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://a
+pi.github.com/licenses/apache-2.0"})
+- **[openpencil](https://github.com/ZSeven-W/openpencil)** (⭐ 1863 | TypeScript
+ | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"
+})
+- **[rpaframework](https://github.com/robocorp/rpaframework)** (⭐ 1485 | Python
+ | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com
+/licenses/apache-2.0"})
+- **[metis](https://github.com/arm/metis)** (⭐ 494 | Python | {"key":"apache-2.
+0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0
+"})
+- **[RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation)** (
+⭐ 475 | C# | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"h
+ttps://api.github.com/licenses/gpl-3.0"})
+- **[OpenFlux](https://github.com/EDEAI/OpenFlux)** (⭐ 204 | TypeScript | {"key
+":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agenthub-be](https://github.com/timothy-odofin/agenthub-be)** (⭐ 338 | Pyt
+hon | {"key":"","name":"","url":""})
+- **[AutomanTools](https://github.com/tier4/AutomanTools)** (⭐ 66 | JavaScript
+| {"key":"","name":"","url":""})
+- **[awesome-AI-toolkit](https://github.com/balavenkatesh3322/awesome-AI-toolkit
+)** (⭐ 204 |  | {"key":"","name":"","url":""})
+- **[ai](https://github.com/intel/ai)** (⭐ 74 |  | {"key":"other","name":"Other
+","url":""})
+- **[aci](https://github.com/aipotheosis-labs/aci)** (⭐ 4751 | Python | {"key":
+"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/
+apache-2.0"})
+- **[awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/aweso
+me-data-centric-ai)** (⭐ 345 | Jupyter Notebook | {"key":"mit","name":"MIT Lice
+nse","url":"https://api.github.com/licenses/mit"})
+- **[system-prompts-and-models-of-ai-tools](https://github.com/mhar-andal/system
+-prompts-and-models-of-ai-tools)** (⭐ 141 |  | {"key":"","name":"","url":""})
+- **[Dough](https://github.com/banodoco/Dough)** (⭐ 506 | Python | {"key":"othe
+r","name":"Other","url":""})
+- **[global-agent-hackathon-may-2025](https://github.com/global-agent-hackathon/
+global-agent-hackathon-may-2025)** (⭐ 245 |  | {"key":"","name":"","url":""})
+- **[wairz](https://github.com/digitalandrew/wairz)** (⭐ 117 | Python | {"key":
+"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.gi
+thub.com/licenses/agpl-3.0"})
+- **[getcito-worlds-first-open-source-aio-aeo-or-geo-tool](https://github.com/ai
+-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool)** (⭐ 69 | Ty
+peScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licen
+ses/mit"})
+- **[ramalama](https://github.com/containers/ramalama)** (⭐ 2673 | Python | {"k
+ey":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[open-assistant-api](https://github.com/MLT-OSS/open-assistant-api)** (⭐ 35
+9 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/lic
+enses/mit"})
+- **[studio](https://github.com/decocms/studio)** (⭐ 356 | TypeScript | {"key":
+"other","name":"Other","url":""})
+- **[AIYOU_open-ai-video-drama-generator](https://github.com/yubowen123/AIYOU_op
+en-ai-video-drama-generator)** (⭐ 96 | TypeScript | {"key":"other","name":"Othe
+r","url":""})
+- **[kitops](https://github.com/kitops-ml/kitops)** (⭐ 1324 | Go | {"key":"apac
+he-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apach
+e-2.0"})
+- **[aiAgentStudio](https://github.com/iamsonal/aiAgentStudio)** (⭐ 54 | Apex |
+ {"key":"mpl-2.0","name":"Mozilla Public License 2.0","url":"https://api.github.
+com/licenses/mpl-2.0"})
+- **[altimate-code](https://github.com/AltimateAI/altimate-code)** (⭐ 435 | Typ
+eScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licens
+es/mit"})
+- **[fsi-samples](https://github.com/NVIDIA/fsi-samples)** (⭐ 310 | Jupyter Not
+ebook | {"key":"","name":"","url":""})
+  Found: 50 repos
+
+### Query: self-hosted ai tools stars:>20
+
+- **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starte
+r-kit)** (⭐ 14490 |  | {"key":"apache-2.0","name":"Apache License 2.0","url":"h
+ttps://api.github.com/licenses/apache-2.0"})
+- **[blinko](https://github.com/blinkospace/blinko)** (⭐ 9921 | TypeScript | {"
+key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.githu
+b.com/licenses/gpl-3.0"})
+- **[RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst)** (⭐ 1612
+5 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.
+github.com/licenses/apache-2.0"})
+- **[relaticle](https://github.com/relaticle/relaticle)** (⭐ 1217 | PHP | {"key
+":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.
+github.com/licenses/agpl-3.0"})
+- **[n8n-install](https://github.com/kossakovsky/n8n-install)** (⭐ 785 | Shell
+| {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/
+licenses/apache-2.0"})
+- **[coolify-mcp](https://github.com/StuMason/coolify-mcp)** (⭐ 273 | TypeScrip
+t | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit
+"})
+- **[awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)** (⭐ 841
+ |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/m
+it"})
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** (⭐ 37683 | JavaScript | {"k
+ey":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://ap
+i.github.com/licenses/agpl-3.0"})
+- **[logwhisperer](https://github.com/binary-knight/logwhisperer)** (⭐ 246 | Py
+thon | {"key":"other","name":"Other","url":""})
+- **[SwanLab](https://github.com/SwanHubX/SwanLab)** (⭐ 3745 | Python | {"key":
+"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/
+apache-2.0"})
+- **[RSSbrew](https://github.com/yinan-c/RSSbrew)** (⭐ 276 | Python | {"key":"a
+gpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.gith
+ub.com/licenses/agpl-3.0"})
+- **[awesome-private-ai](https://github.com/tdi/awesome-private-ai)** (⭐ 160 |
+ | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https:/
+/api.github.com/licenses/cc0-1.0"})
+- **[blink](https://github.com/coder/blink)** (⭐ 136 | TypeScript | {"key":"agp
+l-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github
+.com/licenses/agpl-3.0"})
+- **[deadend-cli](https://github.com/xoxruns/deadend-cli)** (⭐ 209 | Python | {
+"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://
+api.github.com/licenses/agpl-3.0"})
+- **[refact](https://github.com/smallcloudai/refact)** (⭐ 3527 | Rust | {"key":
+"bsd-3-clause","name":"BSD 3-Clause \"New\" or \"Revised\" License","url":"https
+://api.github.com/licenses/bsd-3-clause"})
+- **[open-assistant-api](https://github.com/MLT-OSS/open-assistant-api)** (⭐ 35
+9 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/lic
+enses/mit"})
+- **[compose-for-agents](https://github.com/docker/compose-for-agents)** (⭐ 892
+ | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://a
+pi.github.com/licenses/apache-2.0"})
+- **[spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground)** (⭐
+ 182 | Java | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api
+.github.com/licenses/apache-2.0"})
+- **[awesome-local-llm](https://github.com/rafska/awesome-local-llm)** (⭐ 1425
+|  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mi
+t"})
+- **[spring-ai-playground](https://github.com/spring-ai-community/spring-ai-play
+ground)** (⭐ 101 | Java | {"key":"apache-2.0","name":"Apache License 2.0","url"
+:"https://api.github.com/licenses/apache-2.0"})
+- **[forge](https://github.com/TensorBlock/forge)** (⭐ 365 | Python | {"key":"o
+ther","name":"Other","url":""})
+- **[AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI)** (⭐ 1476 | Pyth
+on | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"ht
+tps://api.github.com/licenses/agpl-3.0"})
+- **[pluggedin-app](https://github.com/VeriTeknik/pluggedin-app)** (⭐ 93 | Type
+Script | {"key":"mit","name":"MIT License","url":"https://api.github.com/license
+s/mit"})
+- **[crawl4ai-mcp-server](https://github.com/sadiuysal/crawl4ai-mcp-server)** (
+⭐ 68 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com
+/licenses/mit"})
+- **[codescan](https://github.com/codescan-ai/codescan)** (⭐ 52 | Python | {"ke
+y":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ai-agent-automation](https://github.com/vmDeshpande/ai-agent-automation)**
+(⭐ 123 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"ht
+tps://api.github.com/licenses/apache-2.0"})
+- **[allama](https://github.com/digitranslab/allama)** (⭐ 90 | Python | {"key":
+"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.gi
+thub.com/licenses/agpl-3.0"})
+- **[chibi](https://github.com/s-nagaev/chibi)** (⭐ 47 | Python | {"key":"mit",
+"name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ai-cmo](https://github.com/AICMO/ai-cmo)** (⭐ 24 | Vue | {"key":"mit","nam
+e":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ai-context](https://github.com/Tanq16/ai-context)** (⭐ 171 | Go | {"key":"
+mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[harbor](https://github.com/av/harbor)** (⭐ 2546 | TypeScript | {"key":"apa
+che-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apac
+he-2.0"})
+- **[.oh-my-comma](https://github.com/emu-sh/.oh-my-comma)** (⭐ 134 | Python |
+{"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://ap
+i.github.com/licenses/cc0-1.0"})
+- **[or-cli](https://github.com/centminmod/or-cli)** (⭐ 21 |  | {"key":"","name
+":"","url":""})
+- **[tiger_cowork](https://github.com/Sompote/tiger_cowork)** (⭐ 29 | TypeScrip
+t | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit
+"})
+- **[awesome-openclaw](https://github.com/alvinunreal/awesome-openclaw)** (⭐ 17
+6 |  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"htt
+ps://api.github.com/licenses/cc0-1.0"})
+- **[promptmask](https://github.com/cxumol/promptmask)** (⭐ 103 | Python | {"ke
+y":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[awesome-local-ai](https://github.com/ethicals7s/awesome-local-ai)** (⭐ 49
+|  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https
+://api.github.com/licenses/cc0-1.0"})
+- **[recallium](https://github.com/recallium-ai/recallium)** (⭐ 23 | Batchfile
+| {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/
+licenses/apache-2.0"})
+- **[LynxPrompt](https://github.com/GeiserX/LynxPrompt)** (⭐ 24 | TypeScript |
+{"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.git
+hub.com/licenses/gpl-3.0"})
+- **[imgcompress](https://github.com/karimz1/imgcompress)** (⭐ 150 | TypeScript
+ | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.
+github.com/licenses/gpl-3.0"})
+- **[TomoriBot](https://github.com/Bredrumb/TomoriBot)** (⭐ 31 | TypeScript | {
+"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://
+api.github.com/licenses/agpl-3.0"})
+- **[Qurio](https://github.com/havingautism/Qurio)** (⭐ 42 | JavaScript | {"key
+":"other","name":"Other","url":""})
+- **[langdag](https://github.com/aduermael/langdag)** (⭐ 24 | Go | {"key":"mit"
+,"name":"MIT License","url":"https://api.github.com/licenses/mit"})
+  Found: 43 repos
+
+### Query: free ai tools github stars:>20
+
+- **[awesome-ai](https://github.com/teodorgross/awesome-ai)** (⭐ 94 |  | {"key"
+:"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[copilot-api-pro](https://github.com/xianml/copilot-api-pro)** (⭐ 21 | Type
+Script | {"key":"mit","name":"MIT License","url":"https://api.github.com/license
+s/mit"})
+  Found: 2 repos
+
+### Query: ai tools MIT license stars:>20
+
+  (No results found)
+
+### Query: ai tools API stars:>20
+
+- **[ai-tools-mng](https://github.com/cubezhao/ai-tools-mng)** (⭐ 1106 | Vue |
+{"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[klavis](https://github.com/Klavis-AI/klavis)** (⭐ 5686 | Python | {"key":"
+apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/a
+pache-2.0"})
+- **[WritingTools](https://github.com/theJayTea/WritingTools)** (⭐ 2172 | Swift
+ | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.
+github.com/licenses/gpl-3.0"})
+- **[awesome-ai](https://github.com/openbestof/awesome-ai)** (⭐ 528 |  | {"key"
+:"","name":"","url":""})
+- **[apify-mcp-server](https://github.com/apify/apify-mcp-server)** (⭐ 977 | Ty
+peScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licen
+ses/mit"})
+- **[Tools4AI](https://github.com/vishalmysore/Tools4AI)** (⭐ 182 | Java | {"ke
+y":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[awesome-ai-tools](https://github.com/cporter202/awesome-ai-tools)** (⭐ 156
+ |  | {"key":"","name":"","url":""})
+- **[fsharp-ai-tools](https://github.com/fsprojects/fsharp-ai-tools)** (⭐ 211 |
+ F# | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/m
+it"})
+- **[FuzzyAI](https://github.com/cyberark/FuzzyAI)** (⭐ 1284 | Jupyter Notebook
+ | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com
+/licenses/apache-2.0"})
+- **[vibeproxy](https://github.com/automazeio/vibeproxy)** (⭐ 1983 | Swift | {"
+key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[relaticle](https://github.com/relaticle/relaticle)** (⭐ 1217 | PHP | {"key
+":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.
+github.com/licenses/agpl-3.0"})
+- **[aci](https://github.com/aipotheosis-labs/aci)** (⭐ 4751 | Python | {"key":
+"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/
+apache-2.0"})
+- **[apiflow](https://github.com/trueleaf/apiflow)** (⭐ 581 | TypeScript | {"ke
+y":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Predict
+ion-Market-Tools)** (⭐ 133 |  | {"key":"","name":"","url":""})
+- **[superglue](https://github.com/superglue-ai/superglue)** (⭐ 1996 | TypeScri
+pt | {"key":"other","name":"Other","url":""})
+- **[ruby_llm](https://github.com/crmne/ruby_llm)** (⭐ 3789 | Ruby | {"key":"mi
+t","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[intellij-aicoder](https://github.com/SimiaCryptus/intellij-aicoder)** (⭐ 6
+7 | Kotlin | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.
+github.com/licenses/apache-2.0"})
+- **[aix](https://github.com/projectdiscovery/aix)** (⭐ 313 | Go | {"key":"mit"
+,"name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools)** (⭐ 82
+|  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https
+://api.github.com/licenses/cc0-1.0"})
+- **[aimastering-tools](https://github.com/ai-mastering/aimastering-tools)** (⭐
+ 33 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licen
+ses/mit"})
+- **[APIAuto](https://github.com/TommyLemon/APIAuto)** (⭐ 2191 | JavaScript | {
+"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/lic
+enses/apache-2.0"})
+- **[hayhooks](https://github.com/deepset-ai/hayhooks)** (⭐ 138 | Python | {"ke
+y":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licens
+es/apache-2.0"})
+- **[aidialer](https://github.com/akiani/aidialer)** (⭐ 159 | Python | {"key":"
+mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[open-assistant-api](https://github.com/MLT-OSS/open-assistant-api)** (⭐ 35
+9 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/lic
+enses/mit"})
+- **[video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover
+)** (⭐ 9991 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"h
+ttps://api.github.com/licenses/apache-2.0"})
+- **[AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI)** (⭐ 1476 | Pyth
+on | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"ht
+tps://api.github.com/licenses/agpl-3.0"})
+- **[CoexistAI](https://github.com/SPThole/CoexistAI)** (⭐ 455 | Jupyter Notebo
+ok | {"key":"other","name":"Other","url":""})
+- **[Chat2API](https://github.com/xiaoY233/Chat2API)** (⭐ 150 | TypeScript | {"
+key":"other","name":"Other","url":""})
+- **[coca](https://github.com/phodal/coca)** (⭐ 978 | Go | {"key":"mpl-2.0","na
+me":"Mozilla Public License 2.0","url":"https://api.github.com/licenses/mpl-2.0"
+})
+- **[grok3_api](https://github.com/orzogc/grok3_api)** (⭐ 53 | Go | {"key":"agp
+l-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github
+.com/licenses/agpl-3.0"})
+- **[olaw](https://github.com/harvard-lil/olaw)** (⭐ 135 | JavaScript | {"key":
+"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[openai-realtime-api-nextjs](https://github.com/cameronking4/openai-realtime
+-api-nextjs)** (⭐ 447 | TypeScript | {"key":"mit","name":"MIT License","url":"h
+ttps://api.github.com/licenses/mit"})
+- **[mcp](https://github.com/twilio-labs/mcp)** (⭐ 97 | TypeScript | {"key":"mi
+t","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ai-gate](https://github.com/inulute/ai-gate)** (⭐ 199 | TypeScript | {"key
+":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.c
+om/licenses/gpl-3.0"})
+- **[obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian
+-ai-research-assistant)** (⭐ 129 | TypeScript | {"key":"mit-0","name":"MIT No A
+ttribution","url":"https://api.github.com/licenses/mit-0"})
+- **[god-eye](https://github.com/Vyntral/god-eye)** (⭐ 442 | Go | {"key":"other
+","name":"Other","url":""})
+- **[instill-core](https://github.com/instill-ai/instill-core)** (⭐ 2308 | Pyth
+on | {"key":"other","name":"Other","url":""})
+- **[google-search](https://github.com/web-agent-master/google-search)** (⭐ 574
+ | TypeScript | {"key":"","name":"","url":""})
+- **[buildship](https://github.com/rowyio/buildship)** (⭐ 599 | TypeScript | {"
+key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[rvc-cli](https://github.com/blaisewf/rvc-cli)** (⭐ 235 | Python | {"key":"
+other","name":"Other","url":""})
+- **[MCP-Airflow-API](https://github.com/call518/MCP-Airflow-API)** (⭐ 44 | Pyt
+hon | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/m
+it"})
+- **[tooly](https://github.com/ctate/tooly)** (⭐ 66 | TypeScript | {"key":"mit"
+,"name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[langgraph-mcp-agents](https://github.com/teddynote-lab/langgraph-mcp-agents
+)** (⭐ 692 | Python | {"key":"","name":"","url":""})
+- **[free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x)** (
+⭐ 397 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/lice
+nses/mit"})
+- **[mcp-context-forge](https://github.com/IBM/mcp-context-forge)** (⭐ 3490 | P
+ython | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.githu
+b.com/licenses/apache-2.0"})
+- **[LangChainBitcoin](https://github.com/lightninglabs/LangChainBitcoin)** (⭐
+143 | Python | {"key":"","name":"","url":""})
+- **[api2mcp4j](https://github.com/TheEterna/api2mcp4j)** (⭐ 99 | Java | {"key"
+:"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses
+/apache-2.0"})
+- **[ai-growth-stack](https://github.com/cporter202/ai-growth-stack)** (⭐ 151 |
+  | {"key":"","name":"","url":""})
+- **[reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)** (⭐ 813
+ | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/lice
+nses/mit"})
+- **[db2rest](https://github.com/9tigerio/db2rest)** (⭐ 451 | Java | {"key":"ap
+ache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apa
+che-2.0"})
+  Found: 50 repos
+
+### Query: ai tools database stars:>20
+
+- **[dbeaver](https://github.com/dbeaver/dbeaver)** (⭐ 49319 | Java | {"key":"a
+pache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/ap
+ache-2.0"})
+- **[awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks)** (⭐ 1154 |
+| {"key":"","name":"","url":""})
+- **[Chat2DB](https://github.com/CodePhiliaX/Chat2DB)** (⭐ 25300 | Java | {"key
+":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/license
+s/apache-2.0"})
+- **[vector-admin](https://github.com/Mintplex-Labs/vector-admin)** (⭐ 2186 | T
+ypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/lice
+nses/mit"})
+- **[cymbal-air-toolbox-demo](https://github.com/GoogleCloudPlatform/cymbal-air-
+toolbox-demo)** (⭐ 319 | Python | {"key":"apache-2.0","name":"Apache License 2.
+0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry)**
+ (⭐ 169 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.git
+hub.com/licenses/mit"})
+- **[CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)** (
+⭐ 2674 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.c
+om/licenses/mit"})
+- **[stc](https://github.com/nexus-stc/stc)** (⭐ 474 | TypeScript | {"key":"","
+name":"","url":""})
+- **[conar](https://github.com/wannabespace/conar)** (⭐ 1336 | TypeScript | {"k
+ey":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://ap
+i.github.com/licenses/agpl-3.0"})
+- **[pdo-database-class](https://github.com/tommyknocker/pdo-database-class)** (
+⭐ 81 | PHP | {"key":"mit","name":"MIT License","url":"https://api.github.com/li
+censes/mit"})
+- **[db2rest](https://github.com/9tigerio/db2rest)** (⭐ 451 | Java | {"key":"ap
+ache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apa
+che-2.0"})
+- **[AITools](https://github.com/aimuch/AITools)** (⭐ 39 | Jupyter Notebook | {
+"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[tableQA](https://github.com/abhijithneilabraham/tableQA)** (⭐ 318 | Python
+ | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.
+github.com/licenses/gpl-3.0"})
+- **[azure-vector-database-samples](https://github.com/Azure-Samples/azure-vecto
+r-database-samples)** (⭐ 53 | Jupyter Notebook | {"key":"mit","name":"MIT Licen
+se","url":"https://api.github.com/licenses/mit"})
+- **[buildship-chat-widget](https://github.com/rowyio/buildship-chat-widget)** (
+⭐ 64 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github
+.com/licenses/mit"})
+- **[VenusFactory2](https://github.com/ai4protein/VenusFactory2)** (⭐ 212 | Pyt
+hon | {"key":"other","name":"Other","url":""})
+- **[SemanticKernel.Agents.DatabaseAgent](https://github.com/kbeaugrand/Semantic
+Kernel.Agents.DatabaseAgent)** (⭐ 40 | C# | {"key":"mit","name":"MIT License","
+url":"https://api.github.com/licenses/mit"})
+- **[aiwatch](https://github.com/riceissa/aiwatch)** (⭐ 25 | HTML | {"key":"cc0
+-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://api.github.co
+m/licenses/cc0-1.0"})
+- **[spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground)** (⭐
+ 182 | Java | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api
+.github.com/licenses/apache-2.0"})
+- **[buildship](https://github.com/rowyio/buildship)** (⭐ 599 | TypeScript | {"
+key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI)**
+ (⭐ 119 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/li
+censes/mit"})
+- **[AIRST-research-paper-summarization](https://github.com/pvhuwung/AIRST-resea
+rch-paper-summarization)** (⭐ 33 | Jupyter Notebook | {"key":"mit","name":"MIT
+License","url":"https://api.github.com/licenses/mit"})
+- **[dblab](https://github.com/dblabai/dblab)** (⭐ 35 |  | {"key":"","name":"",
+"url":""})
+- **[DataEngineeringPilipinas](https://github.com/ogbinar/DataEngineeringPilipin
+as)** (⭐ 231 | HTML | {"key":"","name":"","url":""})
+- **[yargi-cli](https://github.com/saidsurucu/yargi-cli)** (⭐ 135 | TypeScript
+| {"key":"","name":"","url":""})
+- **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** (⭐ 48 |  | {"key":"o
+ther","name":"Other","url":""})
+- **[mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb)** (
+⭐ 45 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github
+.com/licenses/mit"})
+- **[openchatbi](https://github.com/zhongyu09/openchatbi)** (⭐ 540 | Python | {
+"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops)** (⭐ 14
+2 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/lic
+enses/mit"})
+- **[kangaroo](https://github.com/dbkangaroo/kangaroo)** (⭐ 464 | TSQL | {"key"
+:"other","name":"Other","url":""})
+- **[alibabacloud-dataworks-mcp-server](https://github.com/aliyun/alibabacloud-d
+ataworks-mcp-server)** (⭐ 32 | TypeScript | {"key":"apache-2.0","name":"Apache
+License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[python-data-engineering-resources](https://github.com/vajol/python-data-eng
+ineering-resources)** (⭐ 129 |  | {"key":"","name":"","url":""})
+- **[FloTorch](https://github.com/FissionAI/FloTorch)** (⭐ 265 | Python | {"key
+":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/license
+s/apache-2.0"})
+- **[fegis](https://github.com/p-funk/fegis)** (⭐ 22 | Python | {"key":"mit","n
+ame":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[free-resources](https://github.com/SathiraSriSathsara/free-resources)** (⭐
+ 42 |  | {"key":"","name":"","url":""})
+- **[dbatools.ai](https://github.com/potatoqualitee/dbatools.ai)** (⭐ 35 | Jupy
+ter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/l
+icenses/mit"})
+- **[dtools](https://github.com/Dark-Alex-17/dtools)** (⭐ 45 | Shell | {"key":"
+mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[AI-Grant-Writer-Tool](https://github.com/lewisExternal/AI-Grant-Writer-Tool
+)** (⭐ 24 | Python | {"key":"mit","name":"MIT License","url":"https://api.githu
+b.com/licenses/mit"})
+- **[Data-Pipeline-with-dbt-using-Airflow-on-GCP](https://github.com/chayansraj/
+Data-Pipeline-with-dbt-using-Airflow-on-GCP)** (⭐ 27 | Python | {"key":"","name
+":"","url":""})
+- **[pddon-win](https://github.com/pddon/pddon-win)** (⭐ 243 | HTML | {"key":"m
+it","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[DocumentGPT](https://github.com/aju22/DocumentGPT)** (⭐ 121 | Python | {"k
+ey":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[dory](https://github.com/dorylab/dory)** (⭐ 39 | TypeScript | {"key":"apac
+he-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apach
+e-2.0"})
+- **[devspace](https://github.com/matheusaudibert/devspace)** (⭐ 117 | JavaScri
+pt | {"key":"","name":"","url":""})
+- **[F1-Analytics-AI](https://github.com/larisoncarvalho/F1-Analytics-AI)** (⭐
+22 | Jupyter Notebook | {"key":"","name":"","url":""})
+- **[drizzleflow](https://github.com/ourines/drizzleflow)** (⭐ 31 | TypeScript
+| {"key":"","name":"","url":""})
+- **[base](https://github.com/adansons/base)** (⭐ 28 | Jupyter Notebook | {"key
+":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[langgraph-voice-agent](https://github.com/rosiefaulkner/langgraph-voice-age
+nt)** (⭐ 26 | Python | {"key":"","name":"","url":""})
+- **[codai](https://github.com/codai-agent/codai)** (⭐ 23 | TypeScript | {"key"
+:"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses
+/apache-2.0"})
+- **[postgres-chatbot](https://github.com/BlueBash/postgres-chatbot)** (⭐ 22 |
+Python | {"key":"","name":"","url":""})
+- **[A-Simple-Chatbot-](https://github.com/Yogapriya2512/A-Simple-Chatbot-)** (
+⭐ 28 | Jupyter Notebook | {"key":"","name":"","url":""})
+  Found: 50 repos
+
+### Query: ai tools alternative stars:>20
+
+- **[n8n-install](https://github.com/kossakovsky/n8n-install)** (⭐ 785 | Shell
+| {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/
+licenses/apache-2.0"})
+- **[google-search](https://github.com/web-agent-master/google-search)** (⭐ 574
+ | TypeScript | {"key":"","name":"","url":""})
+- **[onepoint](https://github.com/onepointAI/onepoint)** (⭐ 321 | TypeScript |
+{"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[voicetypr](https://github.com/moinulmoin/voicetypr)** (⭐ 344 | Rust | {"ke
+y":"other","name":"Other","url":""})
+- **[awesome-theresanaiforthat-alternatives](https://github.com/DirectorySurf/aw
+esome-theresanaiforthat-alternatives)** (⭐ 48 |  | {"key":"mit","name":"MIT Lic
+ense","url":"https://api.github.com/licenses/mit"})
+- **[snow-flow](https://github.com/groeimetai/snow-flow)** (⭐ 57 | TypeScript |
+ {"key":"other","name":"Other","url":""})
+- **[openpencil](https://github.com/ZSeven-W/openpencil)** (⭐ 1863 | TypeScript
+ | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"
+})
+- **[RepoMaster](https://github.com/QuantaAlpha/RepoMaster)** (⭐ 513 | Python |
+ {"key":"","name":"","url":""})
+- **[app-agent](https://github.com/ngo275/app-agent)** (⭐ 174 | TypeScript | {"
+key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://a
+pi.github.com/licenses/agpl-3.0"})
+- **[allama](https://github.com/digitranslab/allama)** (⭐ 90 | Python | {"key":
+"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.gi
+thub.com/licenses/agpl-3.0"})
+- **[Palera1n-Jailbreak](https://github.com/iOS17/Palera1n-Jailbreak)** (⭐ 147
+|  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mi
+t"})
+- **[codebase-mcp](https://github.com/danyQe/codebase-mcp)** (⭐ 37 | Python | {
+"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/lic
+enses/apache-2.0"})
+- **[OpenWebResearcher](https://github.com/BlackTechX011/OpenWebResearcher)** (
+⭐ 21 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com
+/licenses/mit"})
+- **[zapcode](https://github.com/TheUncharted/zapcode)** (⭐ 49 | Rust | {"key":
+"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ops0-cli](https://github.com/ops0-ai/ops0-cli)** (⭐ 63 | Go | {"key":"agpl
+-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.
+com/licenses/agpl-3.0"})
+- **[c-basic-programs](https://github.com/sanusanth/c-basic-programs)** (⭐ 76 |
+  | {"key":"","name":"","url":""})
+  Found: 16 repos
+
+### Query: ai tools workflow automation stars:>20
+
+- **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+** (⭐ 49094 | Python | {"key":"","name":"","url":""})
+- **[CTFCrackTools](https://github.com/0Chencc/CTFCrackTools)** (⭐ 2093 | Rust
+| {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.g
+ithub.com/licenses/gpl-3.0"})
+- **[n8n-docs](https://github.com/n8n-io/n8n-docs)** (⭐ 1536 | HTML | {"key":"o
+ther","name":"Other","url":""})
+- **[xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher)** (
+⭐ 1903 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https:
+//api.github.com/licenses/apache-2.0"})
+- **[CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)** (⭐ 2408
+| TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://ap
+i.github.com/licenses/apache-2.0"})
+- **[fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)** (⭐ 776 | Pyth
+on | {"key":"other","name":"Other","url":""})
+- **[ai-agent-automation](https://github.com/vmDeshpande/ai-agent-automation)**
+(⭐ 123 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"ht
+tps://api.github.com/licenses/apache-2.0"})
+- **[awesome-ai-tools](https://github.com/cporter202/awesome-ai-tools)** (⭐ 156
+ |  | {"key":"","name":"","url":""})
+- **[mcp-n8n-workflow-builder](https://github.com/salacoste/mcp-n8n-workflow-bui
+lder)** (⭐ 220 | JavaScript | {"key":"mit","name":"MIT License","url":"https://
+api.github.com/licenses/mit"})
+- **[guardian-cli](https://github.com/zakirkun/guardian-cli)** (⭐ 1317 | Python
+ | {"key":"other","name":"Other","url":""})
+- **[kiki-ai-workflow](https://github.com/ognistik/kiki-ai-workflow)** (⭐ 95 |
+JavaScript | {"key":"","name":"","url":""})
+- **[OAD](https://github.com/zeiss-microscopy/OAD)** (⭐ 163 | Jupyter Notebook
+| {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.g
+ithub.com/licenses/gpl-3.0"})
+- **[obsei](https://github.com/obsei/obsei)** (⭐ 1385 | Python | {"key":"apache
+-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-
+2.0"})
+- **[HEC-Commander](https://github.com/gpt-cmdr/HEC-Commander)** (⭐ 128 | Jupyt
+er Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/li
+censes/mit"})
+- **[vibe-unity](https://github.com/RICoder72/vibe-unity)** (⭐ 86 | C# | {"key"
+:"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ai-toolbox](https://github.com/deffcolony/ai-toolbox)** (⭐ 68 | Batchfile
+| {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https
+://api.github.com/licenses/agpl-3.0"})
+- **[buildship](https://github.com/rowyio/buildship)** (⭐ 599 | TypeScript | {"
+key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[mcp-server-js](https://github.com/yepcode/mcp-server-js)** (⭐ 42 | TypeScr
+ipt | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/m
+it"})
+- **[AIEnhancedWork](https://github.com/LSeu-Open/AIEnhancedWork)** (⭐ 43 |  |
+{"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://ap
+i.github.com/licenses/cc0-1.0"})
+- **[nodepay-bot](https://github.com/QuantaRift/nodepay-bot)** (⭐ 34 |  | {"key
+":"","name":"","url":""})
+- **[obsidian-gemini-helper](https://github.com/takeshy/obsidian-gemini-helper)*
+* (⭐ 78 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.git
+hub.com/licenses/mit"})
+- **[slackcli](https://github.com/shaharia-lab/slackcli)** (⭐ 40 | TypeScript |
+ {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[automations](https://github.com/zackproser/automations)** (⭐ 74 | Shell |
+{"key":"","name":"","url":""})
+- **[project-nova](https://github.com/dujonwalker/project-nova)** (⭐ 256 | Shel
+l | {"key":"","name":"","url":""})
+- **[jat](https://github.com/joewinke/jat)** (⭐ 186 | Svelte | {"key":"mit","na
+me":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Go-High-Level-MCP-2026-Complete](https://github.com/BusyBee3333/Go-High-Lev
+el-MCP-2026-Complete)** (⭐ 21 | TypeScript | {"key":"other","name":"Other","url
+":""})
+- **[OmniMind](https://github.com/Techiral/OmniMind)** (⭐ 36 | Python | {"key":
+"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[AgentCrew](https://github.com/qingni/AgentCrew)** (⭐ 46 | Swift | {"key":"
+apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/a
+pache-2.0"})
+- **[Unified-MCP-Tool-Graph](https://github.com/pratikjadhav2726/Unified-MCP-Too
+l-Graph)** (⭐ 27 | Python | {"key":"mit","name":"MIT License","url":"https://ap
+i.github.com/licenses/mit"})
+- **[react-flow-builder](https://github.com/1Madgeek/react-flow-builder)** (⭐ 2
+7 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com
+/licenses/mit"})
+- **[allama](https://github.com/digitranslab/allama)** (⭐ 90 | Python | {"key":
+"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.gi
+thub.com/licenses/agpl-3.0"})
+- **[mcp-batchit](https://github.com/ryanjoachim/mcp-batchit)** (⭐ 57 | JavaScr
+ipt | {"key":"","name":"","url":""})
+- **[Blender-MCP-Server](https://github.com/poly-mcp/Blender-MCP-Server)** (⭐ 3
+1 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/lic
+enses/mit"})
+- **[MCP-Context-Provider](https://github.com/doobidoo/MCP-Context-Provider)** (
+⭐ 28 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"http
+s://api.github.com/licenses/apache-2.0"})
+- **[qwen_cli_coder](https://github.com/dinoanderson/qwen_cli_coder)** (⭐ 57 |
+TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.
+github.com/licenses/apache-2.0"})
+- **[agentql-integrations](https://github.com/tinyfish-io/agentql-integrations)*
+* (⭐ 21 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://a
+pi.github.com/licenses/mit"})
+- **[project-nova](https://github.com/PradeepaRW/project-nova)** (⭐ 29 | Shell
+| {"key":"","name":"","url":""})
+- **[Smart-Marketing-Assistant-Crew-AI](https://github.com/praj2408/Smart-Market
+ing-Assistant-Crew-AI)** (⭐ 32 | Python | {"key":"","name":"","url":""})
+- **[watchtower](https://github.com/fzn0x/watchtower)** (⭐ 52 | Python | {"key"
+:"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[new-windows-dev-pc](https://github.com/NotMyself/new-windows-dev-pc)** (⭐
+22 | PowerShell | {"key":"mit","name":"MIT License","url":"https://api.github.co
+m/licenses/mit"})
+- **[ops0-cli](https://github.com/ops0-ai/ops0-cli)** (⭐ 63 | Go | {"key":"agpl
+-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.
+com/licenses/agpl-3.0"})
+- **[Stream-Daemon](https://github.com/ChiefGyk3D/Stream-Daemon)** (⭐ 31 | Pyth
+on | {"key":"other","name":"Other","url":""})
+  Found: 42 repos
+
+## Web Search Results
+
+## Gap Analysis
+
+Categories with fewer than 5 tools represent opportunities:
+
+## REQUIREMENTS
+1. EVERY tool MUST have a github.com URL (no exceptions)
+2. Include stars count, primary language, license from GitHub
+3. Primary keyword MUST appear in first 100 words
+4. Include 25+ items total (50+ preferred)
+5. Use semantic headings (H2, H3)
+6. Descriptions must be from actual GitHub READMEs - unique and specific
+7. Target long-tail keywords in FAQ section
+8. Format with Markdown - use tables where appropriate
+9. Include the GitHub search queries used to find these tools
+
+## OUTPUT
+After creating all files, verify the structure:
+- README.md with complete content (minimum 25 tools)
+- LICENSE file with MIT license
+- CONTRIBUTING.md file
+
+Run: ls -la
+Run: wc -l README.md
+Count the tools in your README and verify you have 25+ entries
+Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please instal
+l bubblewrap with your package manager. Codex will use the vendored bubblewrap i
+n the meantime.
+codex
+I’m building the repo from scratch in this directory and starting by checking th
+e workspace state, then I’ll gather verified GitHub metadata for a curated set o
+f open-source AI tools that fit the constraints.
+exec
+/bin/bash -lc 'ls -la' in /tmp/awesome-best-open-source-ai-tools-2026-1035410
+exec
+/bin/bash -lc pwd in /tmp/awesome-best-open-source-ai-tools-2026-1035410
+ succeeded in 0ms:
+total 20
+drwxr-xr-x  3 root root  4096 Mar 29 18:48 .
+drwxrwxrwt 93 root root 12288 Mar 29 18:48 ..
+drwxr-xr-x  7 root root  4096 Mar 29 18:48 .git
+-rw-r--r--  1 root root     0 Mar 29 18:48 CONTRIBUTING.md
+-rw-r--r--  1 root root     0 Mar 29 18:48 LICENSE
+-rw-r--r--  1 root root     0 Mar 29 18:48 README.md
+
+ succeeded in 0ms:
+/tmp/awesome-best-open-source-ai-tools-2026-1035410
+
+exec
+/bin/bash -lc 'git status --short' in /tmp/awesome-best-open-source-ai-tools-202
+6-1035410
+ succeeded in 0ms:
+?? CONTRIBUTING.md
+?? LICENSE
+?? README.md
+
+codex
+I’ve confirmed the repo is empty except for the placeholder files. Next I’m pull
+ing live GitHub metadata for a curated 25-tool set so the README uses verified s
+tars, licenses, languages, and last commit dates instead of stale search output.
+exec
+/bin/bash -lc "python - <<'PY'
+import json, urllib.request, ssl
+repos = [
+('bytedance','deer-flow'),
+('onlook-dev','onlook'),
+('moazbuilds','CodeMachine-CLI'),
+('ZSeven-W','openpencil'),
+('smallcloudai','refact'),
+('n8n-io','self-hosted-ai-starter-kit'),
+('ToolJet','ToolJet'),
+('rowyio','buildship'),
+('av','harbor'),
+('docker','compose-for-agents'),
+('microsoft','PyRIT'),
+('raga-ai-hub','RagaAI-Catalyst'),
+('cyberark','FuzzyAI'),
+('SwanHubX','SwanLab'),
+('instill-ai','instill-core'),
+('Klavis-AI','klavis'),
+('aipotheosis-labs','aci'),
+('apify','apify-mcp-server'),
+('MLT-OSS','open-assistant-api'),
+('IBM','mcp-context-forge'),
+('CodePhiliaX','Chat2DB'),
+('Mintplex-Labs','vector-admin'),
+('zhongyu09','openchatbi'),
+('blinkospace','blinko'),
+('modelscope','FunClip'),
+]
+ctx = ssl.create_default_context()
+headers = {'User-Agent':'codex'}
+for owner, repo in repos:
+    url = f'https://api.github.com/repos/{owner}/{repo}'
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, context=ctx) as r:
+        data = json.load(r)
+    print(json.dumps({
+        'full_name': data['full_name'],
+        'html_url': data['html_url'],
+        'description': data.get('description'),
+        'stargazers_count': data['stargazers_count'],
+        'language': data.get('language'),
+        'license': (data.get('license') or {}).get('spdx_id') or (data.get('lice
+nse') or {}).get('name'),
+        'pushed_at': data['pushed_at'][:10],
+        'default_branch': data['default_branch'],
+    }))
+PY" in /tmp/awesome-best-open-source-ai-tools-2026-1035410
+ exited 127 in 0ms:
+/bin/bash: line 1: python: command not found
+
+codex
+The environment doesn’t have `python`; switching to `python3` and continuing the
+ GitHub verification pass.
+exec
+/bin/bash -lc "python3 - <<'PY'
+import json, urllib.request, ssl
+repos = [
+('bytedance','deer-flow'),
+('onlook-dev','onlook'),
+('moazbuilds','CodeMachine-CLI'),
+('ZSeven-W','openpencil'),
+('smallcloudai','refact'),
+('n8n-io','self-hosted-ai-starter-kit'),
+('ToolJet','ToolJet'),
+('rowyio','buildship'),
+('av','harbor'),
+('docker','compose-for-agents'),
+('microsoft','PyRIT'),
+('raga-ai-hub','RagaAI-Catalyst'),
+('cyberark','FuzzyAI'),
+('SwanHubX','SwanLab'),
+('instill-ai','instill-core'),
+('Klavis-AI','klavis'),
+('aipotheosis-labs','aci'),
+('apify','apify-mcp-server'),
+('MLT-OSS','open-assistant-api'),
+('IBM','mcp-context-forge'),
+('CodePhiliaX','Chat2DB'),
+('Mintplex-Labs','vector-admin'),
+('zhongyu09','openchatbi'),
+('blinkospace','blinko'),
+('modelscope','FunClip'),
+]
+ctx = ssl.create_default_context()
+headers = {'User-Agent':'codex'}
+for owner, repo in repos:
+    url = f'https://api.github.com/repos/{owner}/{repo}'
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, context=ctx) as r:
+        data = json.load(r)
+    print(json.dumps({
+        'full_name': data['full_name'],
+        'html_url': data['html_url'],
+        'description': data.get('description'),
+        'stargazers_count': data['stargazers_count'],
+        'language': data.get('language'),
+        'license': (data.get('license') or {}).get('spdx_id') or (data.get('lice
+nse') or {}).get('name'),
+        'pushed_at': data['pushed_at'][:10],
+        'default_branch': data['default_branch'],
+    }), flush=True)
+PY" in /tmp/awesome-best-open-source-ai-tools-2026-1035410
+ succeeded in 6559ms:
+{"full_name": "bytedance/deer-flow", "html_url": "https://github.com/bytedance/d
+eer-flow", "description": "An open-source long-horizon SuperAgent harness that r
+esearches, codes, and creates. With the help of sandboxes, memories, tools, skil
+l, subagents and message gateway, it handles different levels of tasks that coul
+d take minutes to hours.", "stargazers_count": 52376, "language": "Python", "lic
+ense": "MIT", "pushed_at": "2026-03-29", "default_branch": "main"}
+{"full_name": "onlook-dev/onlook", "html_url": "https://github.com/onlook-dev/on
+look", "description": "The Cursor for Designers \u2022 An Open-Source AI-First D
+esign tool \u2022 Visually build, style, and edit your React App with AI", "star
+gazers_count": 24977, "language": "TypeScript", "license": "Apache-2.0", "pushed
+_at": "2026-03-27", "default_branch": "main"}
+{"full_name": "moazbuilds/CodeMachine-CLI", "html_url": "https://github.com/moaz
+builds/CodeMachine-CLI", "description": "CodeMachine is an open-source tool that
+ orchestrates AI coding agents into repeatable, long-running workflows. \u26a1\u
+fe0f", "stargazers_count": 2408, "language": "TypeScript", "license": "Apache-2.
+0", "pushed_at": "2026-02-25", "default_branch": "main"}
+{"full_name": "ZSeven-W/openpencil", "html_url": "https://github.com/ZSeven-W/op
+enpencil", "description": "The world's first open-source AI-native vector design
+ tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prom
+pts into UI directly on the live canvas. A modern alternative to Pencil.", "star
+gazers_count": 1863, "language": "TypeScript", "license": "MIT", "pushed_at": "2
+026-03-29", "default_branch": "main"}
+{"full_name": "smallcloudai/refact", "html_url": "https://github.com/smallclouda
+i/refact", "description": "AI Agent that handles engineering tasks end-to-end: i
+ntegrates with developers\u2019 tools, plans, executes, and iterates until it ac
+hieves a successful result.", "stargazers_count": 3527, "language": "Rust", "lic
+ense": "BSD-3-Clause", "pushed_at": "2026-03-18", "default_branch": "main"}
+{"full_name": "n8n-io/self-hosted-ai-starter-kit", "html_url": "https://github.c
+om/n8n-io/self-hosted-ai-starter-kit", "description": "The Self-hosted AI Starte
+r Kit is an open-source template that quickly sets up a local AI environment. Cu
+rated by n8n, it provides essential tools for creating secure, self-hosted AI wo
+rkflows.", "stargazers_count": 14490, "language": null, "license": "Apache-2.0",
+ "pushed_at": "2026-01-06", "default_branch": "main"}
+{"full_name": "ToolJet/ToolJet", "html_url": "https://github.com/ToolJet/ToolJet
+", "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-
+native platform for building internal tools, dashboard, business applications, w
+orkflows and AI agents \ud83d\ude80", "stargazers_count": 37683, "language": "Ja
+vaScript", "license": "AGPL-3.0", "pushed_at": "2026-03-29", "default_branch": "
+develop"}
+{"full_name": "rowyio/buildship", "html_url": "https://github.com/rowyio/buildsh
+ip", "description": "Low-code Visual Backend Builder, powered by AI \u2728 Creat
+e APIs, scheduled jobs, backend tasks, database CRUD, and integrate with any too
+l or APIs.", "stargazers_count": 599, "language": "TypeScript", "license": "MIT"
+, "pushed_at": "2024-06-11", "default_branch": "main"}
+{"full_name": "av/harbor", "html_url": "https://github.com/av/harbor", "descript
+ion": "One command brings a complete pre-wired LLM stack with hundreds of servic
+es to explore.", "stargazers_count": 2546, "language": "TypeScript", "license":
+"Apache-2.0", "pushed_at": "2026-03-24", "default_branch": "main"}
+{"full_name": "docker/compose-for-agents", "html_url": "https://github.com/docke
+r/compose-for-agents", "description": "Build and run AI agents using Docker Comp
+ose. A collection of ready-to-use examples for orchestrating open-source LLMs, t
+ools, and agent runtimes.", "stargazers_count": 892, "language": "TypeScript", "
+license": "Apache-2.0", "pushed_at": "2026-03-24", "default_branch": "main"}
+{"full_name": "microsoft/PyRIT", "html_url": "https://github.com/microsoft/PyRIT
+", "description": "The Python Risk Identification Tool for generative AI (PyRIT)
+ is an open source framework built to empower security professionals and enginee
+rs to proactively identify risks in generative AI systems.", "stargazers_count":
+ 3641, "language": "Python", "license": "MIT", "pushed_at": "2026-03-28", "defau
+lt_branch": "main"}
+{"full_name": "raga-ai-hub/RagaAI-Catalyst", "html_url": "https://github.com/rag
+a-ai-hub/RagaAI-Catalyst", "description": "Python SDK for Agent AI Observability
+, Monitoring and Evaluation Framework. Includes features like agent, llm and too
+ls tracing, debugging multi-agentic system, self-hosted dashboard and advanced a
+nalytics with timeline and execution graph view ", "stargazers_count": 16125, "l
+anguage": "Python", "license": "Apache-2.0", "pushed_at": "2026-02-11", "default
+_branch": "main"}
+{"full_name": "cyberark/FuzzyAI", "html_url": "https://github.com/cyberark/Fuzzy
+AI", "description": "A powerful tool for automated LLM fuzzing. It is designed t
+o help developers and security researchers identify and mitigate potential jailb
+reaks in their LLM APIs.", "stargazers_count": 1284, "language": "Jupyter Notebo
+ok", "license": "Apache-2.0", "pushed_at": "2026-02-06", "default_branch": "main
+"}
+{"full_name": "SwanHubX/SwanLab", "html_url": "https://github.com/SwanHubX/SwanL
+ab", "description": "\u26a1\ufe0fSwanLab - an open-source, modern-design AI trai
+ning tracking and visualization tool. Supports Cloud / Self-hosted use. Integrat
+ed with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics /
+ MMEngine / Keras etc.", "stargazers_count": 3745, "language": "Python", "licens
+e": "Apache-2.0", "pushed_at": "2026-03-29", "default_branch": "main"}
+{"full_name": "instill-ai/instill-core", "html_url": "https://github.com/instill
+-ai/instill-core", "description": "\ud83d\udd2e Instill Core is a full-stack AI
+infrastructure tool for data, model and pipeline orchestration, designed to stre
+amline every aspect of building versatile AI-first applications", "stargazers_co
+unt": 2308, "language": "Python", "license": "NOASSERTION", "pushed_at": "2026-0
+3-29", "default_branch": "main"}
+{"full_name": "Klavis-AI/klavis", "html_url": "https://github.com/Klavis-AI/klav
+is", "description": "Klavis AI:  MCP integration platforms that let AI agents us
+e tools reliably at any scale", "stargazers_count": 5686, "language": "Python",
+"license": "Apache-2.0", "pushed_at": "2026-03-29", "default_branch": "main"}
+{"full_name": "aipotheosis-labs/aci", "html_url": "https://github.com/aipotheosi
+s-labs/aci", "description": "ACI.dev is the open source tool-calling platform th
+at hooks up 600+ tools into any agentic IDE or custom AI agent through direct fu
+nction calling or a unified MCP server. The birthplace of VibeOps.", "stargazers
+_count": 4751, "language": "Python", "license": "Apache-2.0", "pushed_at": "2026
+-01-08", "default_branch": "main"}
+{"full_name": "apify/apify-mcp-server", "html_url": "https://github.com/apify/ap
+ify-mcp-server", "description": "The Apify MCP server enables your AI agents to
+extract data from social media, search engines, maps, e-commerce sites, or any o
+ther website using thousands of ready-made scrapers, crawlers, and automation to
+ols available on the Apify Store.", "stargazers_count": 977, "language": "TypeSc
+ript", "license": "MIT", "pushed_at": "2026-03-28", "default_branch": "master"}
+{"full_name": "MLT-OSS/open-assistant-api", "html_url": "https://github.com/MLT-
+OSS/open-assistant-api", "description": "The Open Assistant API is a ready-to-us
+e, open-source, self-hosted agent/gpts orchestration creation framework, support
+ing customized extensions for LLM, RAG, function call, and tools capabilities. I
+t also supports seamless integration with the openai/langchain sdk.", "stargazer
+s_count": 359, "language": "Python", "license": "MIT", "pushed_at": "2025-06-24"
+, "default_branch": "main"}
+{"full_name": "IBM/mcp-context-forge", "html_url": "https://github.com/IBM/mcp-c
+ontext-forge", "description": "An AI Gateway, registry, and proxy that sits in f
+ront of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centra
+lized discovery, guardrails and management. Optimizes Agent & Tool calling, and
+supports plugins.", "stargazers_count": 3490, "language": "Python", "license": "
+Apache-2.0", "pushed_at": "2026-03-29", "default_branch": "main"}
+{"full_name": "CodePhiliaX/Chat2DB", "html_url": "https://github.com/CodePhiliaX
+/Chat2DB", "description": "AI-driven database tool and SQL client, The hottest G
+UI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H
+2, ClickHouse, and more.", "stargazers_count": 25300, "language": "Java", "licen
+se": "Apache-2.0", "pushed_at": "2026-03-22", "default_branch": "main"}
+{"full_name": "Mintplex-Labs/vector-admin", "html_url": "https://github.com/Mint
+plex-Labs/vector-admin", "description": "The universal tool suite for vector dat
+abase management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector data
+bases with ease.", "stargazers_count": 2186, "language": "TypeScript", "license"
+: "MIT", "pushed_at": "2025-04-15", "default_branch": "master"}
+{"full_name": "zhongyu09/openchatbi", "html_url": "https://github.com/zhongyu09/
+openchatbi", "description": "OpenChatBI is an intelligent chat-based BI tool pow
+ered by large language models, designed to help users query, analyze, and visual
+ize data through natural language conversations. It uses LangGraph and LangChain
+ to build chat agent and workflows that support natural language to SQL conversi
+on and data analysis.", "stargazers_count": 540, "language": "Python", "license"
+: "MIT", "pushed_at": "2026-03-02", "default_branch": "main"}
+{"full_name": "blinkospace/blinko", "html_url": "https://github.com/blinkospace/
+blinko", "description": "An open-source, self-hosted personal AI note tool prior
+itizing privacy, built using TypeScript .", "stargazers_count": 9921, "language"
+: "TypeScript", "license": "GPL-3.0", "pushed_at": "2026-03-25", "default_branch
+": "main"}
+{"full_name": "modelscope/FunClip", "html_url": "https://github.com/modelscope/F
+unClip", "description": "Open-source, accurate and easy-to-use video speech reco
+gnition & clipping tool, LLM based AI clipping intergrated.", "stargazers_count"
+: 5431, "language": "Python", "license": "MIT", "pushed_at": "2025-07-11", "defa
+ult_branch": "main"}
+
+codex
+I’ve got live repo metadata for a 25-tool shortlist. Now I’m pulling README snip
+pets so each entry can describe what the project actually does rather than leani
+ng on repo descriptions alone.
+exec
+/bin/bash -lc "python3 - <<'PY'
+import json, urllib.request, ssl, base64, re
+repos = [
+('bytedance','deer-flow'),
+('onlook-dev','onlook'),
+('moazbuilds','CodeMachine-CLI'),
+('ZSeven-W','openpencil'),
+('smallcloudai','refact'),
+('n8n-io','self-hosted-ai-starter-kit'),
+('ToolJet','ToolJet'),
+('rowyio','buildship'),
+('av','harbor'),
+('docker','compose-for-agents'),
+('microsoft','PyRIT'),
+('raga-ai-hub','RagaAI-Catalyst'),
+('cyberark','FuzzyAI'),
+('SwanHubX','SwanLab'),
+('instill-ai','instill-core'),
+('Klavis-AI','klavis'),
+('aipotheosis-labs','aci'),
+('apify','apify-mcp-server'),
+('MLT-OSS','open-assistant-api'),
+('IBM','mcp-context-forge'),
+('CodePhiliaX','Chat2DB'),
+('Mintplex-Labs','vector-admin'),
+('zhongyu09','openchatbi'),
+('blinkospace','blinko'),
+('modelscope','FunClip'),
+]
+ctx = ssl.create_default_context()
+headers = {'User-Agent':'codex', 'Accept':'application/vnd.github+json'}
+for owner, repo in repos:
+    url = f'https://api.github.com/repos/{owner}/{repo}/readme'
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, context=ctx) as r:
+        data = json.load(r)
+    text = base64.b64decode(data['content']).decode('utf-8', errors='ignore')
+    text = re.sub(r'"'```.*?```'"', ' ', text, flags=re.S)
+    lines = []
+    for line in text.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if s.startswith('"'!['"') or s.startswith('<img') or s.startswith('["'![
+'"') or s.startswith('<"'!--'"'):
+            continue
+        s = re.sub(r'"'^#+'"\\s*', '', s)
+        s = re.sub(r'\\[(.*?)\\]\\((.*?)\\)', r'\\1', s)
+        s = re.sub(r'<["'^>]+>'"', ' ', s)
+        s = re.sub(r'\\s+', ' ', s).strip()
+        if len(s) < 30:
+            continue
+        lines.append(s)
+        if len(lines) >= 5:
+            break
+    print('###', f'{owner}/{repo}')
+    for ln in lines:
+        print(ln)
+    print()
+PY" in /tmp/awesome-best-open-source-ai-tools-2026-1035410
+ succeeded in 6914ms:
+### bytedance/deer-flow
+English | 中文 | 日本語 | Français | Русский
+> On February 28th, 2026, DeerFlow claimed the 🏆 #1 spot on GitHub Trending fol
+lowing the launch of version 2. Thanks a million to our incredible community — y
+ou made this happen! 💪🔥
+DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is a
+n open-source **super agent harness** that orchestrates **sub-agents**, **memory
+**, and **sandboxes** to do almost anything — powered by **extensible skills**.
+https://github.com/user-attachments/assets/a8bcadc4-e040-4cf2-8fda-dd768b999c18
+> **DeerFlow 2.0 is a ground-up rewrite.** It shares no code with v1. If you're
+looking for the original Deep Research framework, it's maintained on the `1.x` b
+ranch — contributions there are still welcome. Active development has moved to 2
+.0.
+
+### onlook-dev/onlook
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variabl
+es
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax yo
+u may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+
+### moazbuilds/CodeMachine-CLI
+CodeMachine is an open-source tool that orchestrates AI coding agents into repea
+table, long-running workflows. ⚡️
+Every time you use an AI coding agent, you're running a workflow. Fix a bug? You
+ ask questions, reproduce, analyze, plan, implement, test. Build a feature? You
+research, design, code, review.
+**The workflow lives in your head.** You guide the agent through it, step by ste
+p, session by session. But every time you start, you rebuild it from scratch. Yo
+u re-explain the process. You remember to ask the right questions. You manage wh
+en to clear context, when to push forward, when to loop back.
+CodeMachine lets you capture that workflow and run it again.
+CodeMachine is an orchestration layer that runs AI coding CLIs through structure
+d workflows. You define the workflow once, and CodeMachine handles execution, co
+ntext passing, and agent coordination.
+
+### ZSeven-W/openpencil
+The world's first open-source AI-native vector design tool.
+Concurrent Agent Teams &bull; Design-as-Code &bull; Built-in MCP Server &bull; M
+ulti-model Intelligence
+English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Français · Español · Deutsch ·
+ Português · Русский · हिन्दी · Türkçe · ไทย · Tiếng Việt · Bahasa Indonesia
+Click the image to watch the demo video
+> **Note:** There is another open-source project with the same name — OpenPencil
+, focused on Figma-compatible visual design with real-time collaboration. This p
+roject focuses on AI-native design-to-code workflows.
+
+### smallcloudai/refact
+Refact - Open Sourced AI Software Development Agent
+Refact.ai is the #1 open-source AI Agent in SWE-bench verified that handles engi
+neering tasks end-to-end. It deeply understands your codebases and integrates wi
+th your tools, databases, and browsers to automate complex, multi-step tasks.
+🚀 Seamless Integration with Your Workflow
+Refact Agent works effortlessly with the tools and databases you already use:
+- **📁 Version Control:** GitHub, GitLab
+
+### n8n-io/self-hosted-ai-starter-kit
+**Self-hosted AI Starter Kit** is an open-source Docker Compose template designe
+d to swiftly initialize a comprehensive local AI and low-code development enviro
+nment.
+Curated by , it combines the self-hosted n8n
+platform with a curated list of compatible AI products and components to
+quickly get started with building self-hosted AI workflows.
+✅ **Self-hosted n8n** - Low-code platform with over 400
+
+### ToolJet/ToolJet
+ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for
+ building and deploying internal tools, workflows and AI agents. The community e
+dition provides a powerful visual builder, drag-and-drop UI, and integrations wi
+th databases, APIs, SaaS apps, and object storage. For AI-powered UI generation,
+ query building, debugging, and enterprise features, see ToolJet AI.
+:star: If you find ToolJet useful, please consider giving us a star on GitHub! Y
+our support helps us continue to innovate and deliver exciting features.
+- **Visual App Builder:** 60+ responsive components (Tables, Charts, Forms, List
+s, Progress Bars, and more).
+- **ToolJet Database:** Built-in no-code database.
+- **Multi-page Apps & Multiplayer Editing:** Build complex apps collaboratively.
+
+### rowyio/buildship
+Low-code Visual Backend Builder.
+Create APIs, scheduled jobs, and backend workflows - powered by AI ✨
+In this BuildShip Nodeverse repo - find all the open-source cloneable templates,
+ nodes, and workflow examples. Also, currently work in progress - we plan to ope
+n source the backend of BuildShip which will allow you to export and deploy the
+workflows created on BuildShip on your own cloud if you choose to.
+Also, use this repo for reporting any bugs or feature requests for BuildShip.
+BuildShip is a low-code visual backend builder, powered by AI ✨
+
+### av/harbor
+https://github.com/user-attachments/assets/8a7705e1-6f0e-4374-8784-62b95816aebc
+Setup your local LLM stack effortlessly.
+Harbor is a CLI and companion app that lets you spin up a complete local LLM sta
+ck—backends like Ollama, llama.cpp, or vLLM, frontends like Open WebUI, plus sup
+porting services like SearXNG for web search, Speaches for voice chat, and Comfy
+UI for image generation—all pre-wired to work together with a single `harbor up`
+ command. No manual setup: just pick the services you want and Harbor handles th
+e Docker Compose orchestration, configuration, and cross-service connectivity so
+ you can focus on actually using your models.
+> **🔄 Migrating to Harbor 0.4.0?**
+> Harbor 0.4.0 introduces a new directory structure where all service files are
+organized in a `services/` directory for better maintainability and a cleaner ro
+ot directory.
+
+### docker/compose-for-agents
++ **[Docker Desktop] 4.43.0+ or [Docker Engine]** installed.
++ **A laptop or workstation with a GPU** (e.g., a MacBook) for running open mode
+ls locally. If you
+don't have a GPU, you can alternatively use **[Docker Offload]**.
++ If you're using [Docker Engine] on Linux or [Docker Desktop] on Windows, ensur
+e that the
+[Docker Model Runner requirements] are met (specifically that GPU
+
+### microsoft/PyRIT
+Python Risk Identification Tool for generative AI (PyRIT)
+The Python Risk Identification Tool for generative AI (PyRIT) is an open source
+framework built to empower security professionals and engineers to proactively
+identify risks in generative AI systems.
+- Check out our website for more information
+
+### raga-ai-hub/RagaAI-Catalyst
+RagaAI Catalyst&nbsp; !GitHub release (latest by date) !GitHub stars !Issues
+RagaAI Catalyst is a comprehensive platform designed to enhance the management a
+nd optimization of LLM projects. It offers a wide range of features, including p
+roject management, dataset management, evaluation management, trace management,
+prompt management, synthetic data generation, and guardrail management. These fu
+nctionalities enable you to efficiently evaluate, and safeguard your LLM applica
+tions.
+To install RagaAI Catalyst, you can use pip:
+Before using RagaAI Catalyst, you need to set up your credentials. You can do th
+is by setting environment variables or passing them directly to the `RagaAICatal
+yst` class:
+you'll need to generate authentication credentials:
+
+### cyberark/FuzzyAI
+The FuzzyAI Fuzzer is a powerful tool for automated LLM fuzzing. It is designed
+to help developers and security researchers identify jailbreaks and mitigate pot
+ential security vulnerabilities in their LLM APIs.
+Quick start #1 - Using an existing python project
+Quick start #2 - or as a standalone project
+2. Install dependencies using Poetry:
+4. Optional: Install ollama, and download a model for local usage:
+
+### SwanHubX/SwanLab
+面向模型训练团队，与50+主流框架集成，与你的实验代码轻松结合
+🔥SwanLab 在线版 · 📃 文档 · 报告问题 · 建议反馈 · 更新日志 · 基线社区
+- 2026.03.25：📊 **实验置顶**上线，一键将最好的实验固定在到最好找的位置；**Basel
+ine**对比功能上线，支持将实验们和baseline对比并显示差异百分比，加速找到最佳参数
+组合；
+https://github.com/user-attachments/assets/964380e0-feb2-480d-b1ca-eba1be239ebb
+- 2026.03.19：📊 新增**实验复制**功能，支持将创建实验副本到不同项目、团队下；**p
+arallel**模式上线，支持在不同进程同时记录指标到同一实验下；实验ID现在可以自定义
+了；
+
+### instill-ai/instill-core
+A complete unstructured data solution: ETL processing, AI-readiness, open-source
+ LLM hosting, and RAG capabilities in one powerful platform.
+Follow the installation steps below or documentation for more details to build v
+ersatile AI applications locally.
+**Instill Core** is an end-to-end AI platform for data, pipeline and model orche
+stration.
+🔮 **Instill Core** simplifies infrastructure hassle and encompasses these core
+features:
+- 💧 **Pipeline**: Quickly build versatile AI-first APIs or automated workflows.
+
+### Klavis-AI/klavis
+Intelligent connectors for your AI agent, optimize context window
+100+ prebuilt integrations out-of-the-box, with OAuth support
+scalable MCP environments for LLM training and RL
+Option 1: Cloud-hosted - klavis.ai
+Made with ❤️  by the Klavis Team
+
+### aipotheosis-labs/aci
+ACI: Open-Source Infra to Power Unified MCP Servers and VibeOps
+> This repo is for the ACI.dev platform. If you're looking for the **Unified MCP
+** server built with ACI.dev, see aci-mcp.
+ACI.dev is the open-source tool-calling platform that hooks up 600+ tools into a
+ny agentic IDE or custom AI agent. It gives agents intent-aware access to tools
+with multi-tenant auth, granular permissions, and dynamic tool discovery—exposed
+ as either direct function calls or through a **Unified Model-Context-Protocol (
+MCP) server**.
+**Examples:** Instead of writing separate OAuth flows and API clients for Google
+ Calendar, Slack, and more, use ACI.dev to manage authentication and provide AI
+agents with unified, secure function calls. Access these capabilities through ou
+r **Unified** MCP server or via our lightweight Python SDK, compatible with any
+LLM framework.
+Supercharge vibe coding and automate devOps by adding a single unified MCP serve
+r to your favourite agentic IDE. Configure the MCP with Vercel, Supabase, Cloudf
+lare, and other platforms. Let AI handle provisioning, deployment, database conf
+igs, and debugging to turn a vibe coded prototype into a live product.
+
+### apify/apify-mcp-server
+The Apify Model Context Protocol (MCP) server at **mcp.apify.com** enables your
+AI agents to extract data from social media, search engines, maps, e-commerce si
+tes, and any other website using thousands of ready-made scrapers, crawlers, and
+ automation tools from Apify Store. It supports OAuth, allowing you to connect f
+rom clients like Claude.ai or Visual Studio Code using just the URL.
+> **🚀 Use the hosted Apify MCP Server!**
+> For the best experience, connect your AI assistant to our hosted server at **`
+https://mcp.apify.com`**. The hosted server supports the latest features - inclu
+ding output schema inference for structured Actor results - that are not availab
+le when running locally via stdio.
+💰 The server also supports Skyfire agentic payments, allowing AI agents to pay
+for Actor runs without an API token.
+Apify MCP Server is compatible with `Claude Code, Claude.ai, Cursor, VS Code` an
+d any client that adheres to the Model Context Protocol.
+
+### MLT-OSS/open-assistant-api
+_✨ An out-of-the-box AI intelligent assistant API ✨_
+Open Assistant API is an open-source, self-hosted AI intelligent assistant API,
+compatible with the official OpenAI
+interface. It can be used directly with the official OpenAI Client to build
+It supports One API for integration with more commercial and private models.
+Below is an example of using the official OpenAI Python `openai` library:
+
+### IBM/mcp-context-forge
+> An open source registry and proxy that federates MCP, A2A, and REST/gRPC APIs
+with centralized governance, discovery, and observability. Optimizes Agent & Too
+l calling, and supports plugins.
+**ContextForge** is an open source registry and proxy that federates tools, agen
+ts, and APIs into one clean endpoint for your AI clients. It provides centralize
+d governance, discovery, and observability across your AI infrastructure:
+- **Tools Gateway** — MCP, REST, gRPC-to-MCP translation, and TOON compression
+- **Agent Gateway** — A2A protocol, OpenAI-compatible and Anthropic agent routin
+g
+- **API Gateway** — Rate limiting, auth, retries, and reverse proxy for REST ser
+vices
+
+### CodePhiliaX/Chat2DB
+Powered by Chat2DB Team - AI-powered app builder that creates professional appli
+cations in minutes, no coding required
+New Open-Source Project from the Chat2DB Team: youClaw
+If Chat2DB has been useful to you, we'd appreciate a quick star on youClaw . Ear
+ly stars help new open-source projects get discovered, attract contributors, and
+ keep us building in public.
+[readmex-image]: https://raw.githubusercontent.com/CodePhiliaX/resource-trustees
+hip/main/readmex.svg
+[readmex-url]: https://readmex.com/CodePhiliaX/Chat2DB
+
+### Mintplex-Labs/vector-admin
+> This repo and project is no longer actively maintained by Mintplex Labs. We ho
+pe one day to grow the team large enough to restart dedicated support and update
+s for this project.
+> New issues and PRs _may_ be reviewed, but our main focus has moved to Anything
+LLM. The application is still self-hostable and will function for most providers
+ as-is, but any changes from those providers may have resulted in breaking chang
+es.
+> We will not be archiving the repo or removing it so that we can return to it o
+ne day in the future.
+The universal UI and tool suite for managing vector databases at scale.
+**Quick!** Can you tell me _exactly_ what information is embedded in your Pineco
+ne or Chroma vector database? I bet you can't. While those teams are focusing on
+ building the underlying architecture we made it easier for you to _manage_ vect
+or data without the headaches and API calls.
+
+### zhongyu09/openchatbi
+OpenChatBI is an open source, chat-based intelligent BI tool powered by large la
+nguage models, designed to help users
+query, analyze, and visualize data through natural language conversations. Built
+ on LangGraph and LangChain ecosystem,
+it provides chat agents and workflows that support natural language to SQL conve
+rsion and streamlined data analysis.
+Join the Slack channel to discuss: https://join.slack.com/t/openchatbicommunity/
+shared_invite/zt-3jpzpx9mv-Sk88RxpO4Up0L~YTZYf4GQ
+1. **Natural Language Interaction**: Get data analysis results by asking questio
+ns in natural language
+
+### blinkospace/blinko
+> Live Demo: username:blinko password:blinko
+Blinko is an AI-powered card note-taking project. Designed for individuals who w
+ant to quickly capture and organize their fleeting thoughts. Blinko allows users
+ to seamlessly jot down ideas the moment they strike, ensuring that no spark of
+creativity is lost.
+- 🤖**AI-Enhanced Note Retrieval** ：With Blinko's advanced AI-powered RAG (Retr
+ieval-Augmented Generation), you can quickly search and access your notes using
+natural language queries, making it effortless to find exactly what you need.
+- 🔒**Data Ownership** :Your privacy matters. All your notes and data are stored
+ securely in your self-hosted environment, ensuring complete control over your i
+nformation.
+- 🚀**Efficient and Fast** :Capture ideas instantly and store them as plain text
+ for easy access, with full Markdown support for quick formatting and seamless s
+haring.
+
+### modelscope/FunClip
+** ⚡ Open-source, accurate and easy-to-use video clipping tool **
+** 🧠 Explore LLM based video clipping with FunClip **
+**FunClip** is a fully open-source, locally deployed automated video clipping to
+ol. It leverages Alibaba TONGYI speech lab's open-source FunASR Paraformer serie
+s models to perform speech recognition on videos. Then, users can freely choose
+text segments or speakers from the recognition results and click the clip button
+ to obtain the video clip corresponding to the selected segments (Quick Experien
+ce Modelscope⭐ HuggingFace🤗).
+- 🔥Try AI clipping using LLM in FunClip now.
+- FunClip integrates Alibaba's open-source industrial-grade model Paraformer-Lar
+ge, which is one of the best-performing open-source Chinese ASR models available
+, with over 13 million downloads on Modelscope. It can also accurately predict t
+imestamps in an integrated manner.
+
+
+codex
+I have enough verified data to write the repo now. I’m creating `README.md`, `LI
+CENSE`, and `CONTRIBUTING.md` in one pass, then I’ll run the requested checks an
+d count the tool entries.
+^Cturn interrupted
+tokens used
+24,776
+root@openclaw:/tmp/awesome-best-open-source-ai-tools-2026-1035410#
