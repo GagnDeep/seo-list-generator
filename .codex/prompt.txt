@@ -1,10 +1,20 @@
 # CODEX PROMPT: Build SEO-Optimized GitHub Awesome-List Repo (OPEN SOURCE ONLY)
+# VERSION 2.0 - Enhanced with minimum tool requirements and gap detection
 
-## CRITICAL CONSTRAINT
+## CRITICAL CONSTRAINTS
 - EVERY tool MUST have a github.com URL (no exceptions!)
 - NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
 - ONLY include tools that exist as public GitHub repositories with open source licenses
-- If a category has no good open source GitHub alternative, note that honestly
+- **MINIMUM 25 VERIFIED TOOLS REQUIRED (50+ preferred)**
+- If a category has fewer than 5 tools, honestly document it as a gap
+- Check ideas/ folder for documented opportunities to mention
+
+## REPOSITORY COUNT ENFORCEMENT
+Before completing, count the tools in your README and verify:
+- You have AT LEAST 25 tools listed
+- Each tool has a GitHub URL, stars count, language, and license
+- If you have fewer than 25, expand your research and add more categories
+- Target 50+ tools for a comprehensive, SEO-friendly list
 
 ## CONTEXT
 You are building a complete, professional awesome-list repository for GitHub.
@@ -12,6 +22,25 @@ Your output will be pushed to: https://github.com/GagnDeep/awesome-[SLUG]
 
 ## TOPIC
 [TOPIC_PLACEHOLDER]
+
+## GITHUB SEARCH COMMANDS TO USE
+Run these commands to find repos, then verify each one before adding:
+
+```bash
+gh search repos "open source [TOPIC]" --stars ">50" --limit 50
+gh search repos "self-hosted [TOPIC]" --stars ">50" --limit 50
+gh search repos "[TOPIC] MIT license" --stars ">30" --limit 50
+gh search repos "[TOPIC] API" --stars ">30" --limit 50
+gh search repos "[TOPIC] database" --stars ">30" --limit 50
+gh search repos "[TOPIC] alternative" --stars ">30" --limit 50
+gh search repos "free [TOPIC]" --stars ">30" --limit 50
+```
+
+For each found repo, verify by checking:
+1. The GitHub URL is valid and publicly accessible
+2. The repo was pushed to within the last 2 years
+3. The description matches the topic
+4. Extract: stars count, primary language, license type
 
 ## YOUR DELIVERABLES
 
@@ -38,7 +67,9 @@ category: [primary-category]
 - [TL;DR](#tldr)
 - [Why This List](#why-this-list)
 - [Open Source Tools](#open-source-tools)
+- [Missing Categories](#missing-categories)
 - [FAQ](#faq)
+- [GitHub Search Queries Used](#github-search-queries-used)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -51,173 +82,72 @@ category: [primary-category]
 ## Open Source Tools
 
 ### [Category 1]
+[15-30 items if possible]
 
 #### [Tool Name](https://github.com/username/repo)
-> **Description:** [80-150 words from the actual GitHub README - what it does, key features, how it's licensed. Include: stars count, primary language, license type, last commit date if available from GitHub.]
+> **Description:** [80-150 words from actual GitHub README - what it does, key features, licensing. MUST include: last commit date, stars count, primary language, license from GitHub.]
 
 - **GitHub:** [github.com/username/repo](https://github.com/username/repo)
-- **Stars:** [number] ⭐
+- **Stars:** [NUMBER] ⭐
 - **Language:** [primary language]
-- **License:** [MIT/Apache/GPL/etc from GitHub]
-- **Last Commit:** [date or "Recently active"]
-- **Category:** [tag1, tag2, tag3]
+- **License:** [MIT/Apache/GPL/etc]
+- **Last Commit:** [DATE]
+- **Category:** [tag1, tag2]
 - **Best for:** [specific use case]
 
 ---
 
-#### [Next Tool...]
-[repeat for 15-30 total items across categories]
-
 ### [Category 2]
-[more items...]
+[Continue with more tools...]
+
+## Missing Categories
+[Document any categories where fewer than 5 open source alternatives exist. Link to ideas/ folder if applicable]
 
 ## FAQ
-[5-7 questions targeting long-tail keywords]
-
-### What is [primary keyword]?
-[80-150 word answer...]
-
-### How do I choose the right [topic] tool?
-[Answer with comparison criteria, emphasizing open source benefits...]
-
-### Are there free open source options?
-[Answer emphasizing the fully free and open source nature of listed tools...]
-
-### How often is this list updated?
-[Answer mentioning active maintenance and checking GitHub for latest commits...]
-
-### What's the difference between open source and free SaaS?
-[Explain that open source means you can self-host, audit code, modify, etc.]
+[5-7 questions targeting long-tail keywords related to the topic]
 
 ## GitHub Search Queries Used
-Include the gh search commands used to find these tools:
-```
-gh search repos "[topic] open source" --stars >50 --limit 20
-gh search repos "[specific tool]" --stars >25 --limit 10
+```bash
+[Include the actual gh search commands used to find tools]
 ```
 
 ## Contributing
-Pull requests welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-**Note:** Only open source tools with public GitHub repositories will be accepted.
+[Standard guide requiring GitHub repo URL for submissions]
 
 ## License
-MIT © GagnDeep
+[MIT License - see LICENSE file]
 ```
 
 ### 2. LICENSE
-```
-MIT License
-
-Copyright (c) 2026 GagnDeep
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+Create LICENSE file with MIT license text.
 
 ### 3. CONTRIBUTING.md
-```markdown
-# Contributing to awesome-[SLUG]
+Create CONTRIBUTING.md with guidelines requiring GitHub repo URLs.
 
-Welcome! This list follows the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
+## VERIFICATION CHECKLIST
 
-## Contribution Guidelines
+Before reporting DONE, verify:
+1. README.md exists with complete content
+2. LICENSE file contains MIT license
+3. CONTRIBUTING.md exists
+4. Count tools in README: must be 25+ (50+ preferred)
+5. Every tool has a github.com URL
+6. Every tool has stars count, language, and license from GitHub
+7. Primary keyword appears in first 100 words
+8. No proprietary SaaS tools included
 
-1. **Must have GitHub repo** - Only open source tools with public GitHub repositories will be accepted
-2. **Search first** - Ensure your suggestion isn't already in the list
-3. **Quality over quantity** - One great tool > ten mediocre ones
-4. **Include all fields** - GitHub URL, description (80-150 words), category tags, stars count
-5. **Verify URLs** - Only submit working GitHub links
-6. **Unique descriptions** - Write from the GitHub README, don't copy marketing copy
-
-## Contribution Format
-```markdown
-#### [Tool Name](https://github.com/username/repo)
-> **Description:** [80-150 words from GitHub README...]
-
-- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
-- **Stars:** [number] ⭐
-- **Language:** [language]
-- **License:** [MIT/Apache/GPL/etc]
-- **Category:** [tag1, tag2, tag3]
-- **Best for:** [use case]
+## OUTPUT FORMAT
+After creating all files:
 ```
-
-## How to Contribute
-1. Fork this repo
-2. Add your item to the appropriate category in README.md
-3. Follow the format above
-4. Submit a PR with a brief explanation
-
-## Quality Standards
-- Must have a public GitHub repository URL
-- Description must be 80-150 words
-- Be objective - describe what it does, not just praise
+ls -la
+wc -l README.md
+grep -c "github.com" README.md
 ```
+Then report: DONE with repo URL and tool count
 
-## SEO REQUIREMENTS
-1. **Primary keyword in first 100 words** - This is critical for ranking
-2. **Semantic heading structure** - H1 (title), H2 (categories), H3 (items)
-3. **Long-tail keywords in FAQ** - Target specific search queries
-4. **Unique descriptions** - No copied content, each 80-150 words
-5. **Proper meta description** - 150-160 chars in YAML frontmatter
-
-## OPEN SOURCE VERIFICATION REQUIREMENTS
-- **Every tool MUST have a github.com URL** (strict requirement)
-- Verify each tool has a real, public GitHub repository
-- Include stars count, primary language, and license from GitHub
-- Exclude any tool that is:
-  - Proprietary SaaS (Stripe, Calendly Pro, Notion, etc.)
-  - Cloud-only with no self-hosting option
-  - No public GitHub repository
-
-## CONTENT REQUIREMENTS
-- **15-30 items** total across categories
-- **Every item needs**: 
-  - GitHub URL (required - no exceptions)
-  - 80-150 word description from README
-  - Stars count
-  - Primary language
-  - License type
-  - Category tags
-- **Categories**: Group related tools together
-- **Real GitHub repos only** - Verify each one exists
-
-## EXECUTION STEPS
-1. Create README.md with full content
-2. Create LICENSE with MIT license
-3. Create CONTRIBUTING.md
-4. Verify EVERY tool has a GitHub URL
-5. Verify structure: `ls -la`
-6. Verify README: `head -50 README.md`
-7. Report completion with repo URL
-
-## RESEARCH DATA
-Use this for building accurate items:
-[RESEARCH_PLACEHOLDER]
-
-## EXAMPLE OPEN SOURCE TOOLS (for reference)
-When building lists, consider these types of open source alternatives:
-- Note-taking: Obsidian, AppFlowy, AFFiNE, Logseq
-- Design: Penpot, Pencil Project, Gravit Designer
-- Scheduling: Cal.com (self-hosted Calendly alternative)
-- CRM: Dolibarr, SuiteCRM, Odoo Community
-- Automation: n8n, Huginn, Activepieces
-- Payments: Note that Stripe/PayPal have no open source - suggest PicoPay or note honestly
-
-Start now. Create all files in the current directory.
+## GAP DETECTION
+If your research reveals categories with fewer than 5 open source options:
+1. Document the gap in the "Missing Categories" section
+2. Note what proprietary tools dominate that space
+3. Suggest what an open source solution could include
+4. This makes the list more honest and valuable for readers
