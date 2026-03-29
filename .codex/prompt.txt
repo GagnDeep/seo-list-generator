@@ -1,159 +1,111 @@
-Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-lawyers-2026"
+# Codex Project Guidelines
 
-## CRITICAL CONSTRAINTS
-- EVERY tool MUST have a github.com URL
-- NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
-- ONLY include tools that exist as public GitHub repositories
-- Minimum 25 verified tools required (50+ preferred)
-- If a category has fewer than 5 repos, document it honestly as a gap
+## Mission
+Build production-grade developer utilities that developers actually npm install today.
 
-## REPOSITORY COUNT TARGET
-Minimum: 25 verified tools
-Preferred: 50+ tools
-Currently found: 0 repos (expand research if needed)
+## What to Build
 
-## YOUR TASK
-Create a professional, complete awesome-list repo with:
-- README.md (main content - see format below)
-- LICENSE (MIT)
-- CONTRIBUTING.md
+### Good Projects (Ship These)
+- **CLI tools** — Repo scaffolders, deploy CLIs, code generators, developer tools
+- **Libraries** — TypeScript utilities, API clients, validation libraries, SDKs
+- **Components** — Next.js auth UI, dashboard components, form components
+- **Templates** — Next.js blog starter, SaaS starter, portfolio starter
+- **Plugins** — Next.js plugins, Vite plugins, ESLint plugins
 
-## REPO STRUCTURE
-Work in this directory: [0;34m[2026-03-29 20:23:42][0m Phase 2: Creating repo structure for 'best-ai-tools-for-lawyers-2026'
-Initialized empty Git repository in /tmp/awesome-best-ai-tools-for-lawyers-2026-1059558/.git/
-/tmp/awesome-best-ai-tools-for-lawyers-2026-1059558
-The repo name should be: awesome-best-ai-tools-for-lawyers-2026
-GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-lawyers-2026
+### NOT This (Too Big/Bloated)
+- Full-stack SaaS applications (gym management, CRM, assessment tools)
+- Projects requiring >20 minutes to build
+- Apps that already exist as SaaS (don't compete with established products)
+- Anything without clear npm install value
 
-## README.md FORMAT (MUST FOLLOW EXACTLY)
+## The Test
+**"Would a developer npm install this TODAY?"**
+- If yes → ship it
+- If no → too big or too niche
 
----
-title: "best-ai-tools-for-lawyers-2026"
-description: "[150-160 char description for SEO - make it compelling and keyword-rich]"
-icon: 📋
-category: [pick best category]
----
+## Production-Grade Checklist
 
-# [H1 Title - Primary Keyword]
+Every project MUST have:
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-lawyers-2026?style=social)
+### Types & TypeScript
+- [ ] Full TypeScript with strict mode
+- [ ] Proper type definitions (no `any`)
+- [ ] Exported types for all public APIs
+- [ ] JSDoc comments on complex functions
 
-> [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
+### Testing
+- [ ] Unit tests (Vitest or Jest)
+- [ ] Test coverage for core logic
+- [ ] Tests pass in CI
 
-## Table of Contents
-- [TL;DR](#tldr)
-- [Why This List](#why-this-list)
-- [Open Source Tools](#open-source-tools)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
+### Documentation
+- [ ] README.md with: what it is, install, usage, API docs
+- [ ] CHANGELOG.md (even if v0.1.0)
+- [ ] LICENSE file (MIT by default)
+- [ ] Code examples for every exported function
 
-## TL;DR
-[Quick summary - 3-5 bullet points of the best open source options]
+### package.json (for npm packages)
+- [ ] `name` — scoped (@your-name/...)
+- [ ] `version` — semver
+- [ ] `description` — one sentence
+- [ ] `main` / `module` / `types` — entry points
+- [ ] `exports` — proper exports field for tree-shaking
+- [ ] `bin` — for CLIs
+- [ ] `scripts` — build, test, lint
+- [ ] `devDependencies` vs `dependencies` — correctly separated
+- [ ] `engines` — node version requirement
+- [ ] `repository` — GitHub URL
+- [ ] `keywords` — npm searchable
 
-## Why This List
-[Brief section on why open source tools matter for this use case - include primary keyword naturally]
+### For Next.js Projects
+- [ ] App Router with Server Components
+- [ ] Proper SSR/SSG support
+- [ ] Metadata API for SEO
+- [ ] Tailwind CSS or CSS Modules
 
-## Open Source Tools
+### For CLI Projects
+- [ ] Commander.js or Clapper for argument parsing
+- [ ] `--help` output with all options
+- [ ] `bin` entry in package.json
+- [ ] Exit codes (0 success, 1 error)
 
-### [Category 1]
-[15-30 items if possible, each with this structure:]
+### For Libraries
+- [ ] Tree-shakeable (no side effects at import)
+- [ ] JSDoc comments on all exported functions
+- [ ] Zero or minimal runtime dependencies
+- [ ] Works in Node.js, edge, and browser
 
-#### [Tool Name](https://github.com/username/repo)
-> **Description:** [80-150 words from the GitHub README - what it does, key features, how it's licensed. MUST include: last commit date, stars count, primary language, license type from GitHub.]
+## Tech Stack Preferences
 
-- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
-- **Stars:** [number] ⭐
-- **Language:** [primary language]
-- **License:** [MIT/Apache/GPL/etc from GitHub]
-- **Last Commit:** [date]
-- **Category:** [tag1, tag2]
-- **Best for:** [specific use case]
+- **TypeScript** — non-negotiable
+- **Node.js 20+** — LTS
+- **Next.js 14+** — App Router
+- **Tailwind CSS** — for styling
+- **Vitest** — for testing
+- **Commander.js** — for CLIs
+- **Zod** — for validation
 
----
+## Project Structure
 
-### [Category 2]
-[more items...]
+```
+project-name/
+├── src/
+│   └── index.ts          # Main entry
+├── tests/
+│   └── index.test.ts     # Unit tests
+├── README.md             # Docs
+├── CHANGELOG.md          # Keep it updated
+├── LICENSE               # MIT
+├── package.json          # All fields filled
+└── tsconfig.json         # strict mode
+```
 
-## FAQ
-[5-7 questions targeting long-tail keywords]
+## Build Time Budget
+- Max: 20 minutes
+- If it can't be built in 20 min, it's too complex → pick a simpler idea
 
-## GitHub Search Queries Used
-[Include the actual gh search commands used to find these tools]
-
-## Contributing
-[Standard contributing guide - must require GitHub repo URL for submissions]
-
-## License
-[MIT License - see LICENSE file]
----
-
-## RESEARCH DATA (use this to build accurate items)
-# GitHub Repository Research for: best-ai-tools-for-lawyers-2026
-Generated: Sun Mar 29 20:23:38 UTC 2026
-
-## GitHub Search Commands Used
-
-### Query: open source ai tools for lawyers stars:>20
-
-  (No results found)
-
-### Query: self-hosted ai tools for lawyers stars:>20
-
-  (No results found)
-
-### Query: free ai tools for lawyers github stars:>20
-
-  (No results found)
-
-### Query: ai tools for lawyers MIT license stars:>20
-
-  (No results found)
-
-### Query: ai tools for lawyers API stars:>20
-
-  (No results found)
-
-### Query: ai tools for lawyers database stars:>20
-
-  (No results found)
-
-### Query: ai tools for lawyers alternative stars:>20
-
-  (No results found)
-
-### Query: ai tools for lawyers workflow automation stars:>20
-
-  (No results found)
-
-## Web Search Results
-
-## Gap Analysis
-
-Categories with fewer than 5 tools represent opportunities:
-
-WARNING: Low repo count for topic 'best-ai-tools-for-lawyers-2026'. Consider broadening search.
-
-## REQUIREMENTS
-1. EVERY tool MUST have a github.com URL (no exceptions)
-2. Include stars count, primary language, license from GitHub
-3. Primary keyword MUST appear in first 100 words
-4. Include 25+ items total (50+ preferred)
-5. Use semantic headings (H2, H3)
-6. Descriptions must be from actual GitHub READMEs - unique and specific
-7. Target long-tail keywords in FAQ section
-8. Format with Markdown - use tables where appropriate
-9. Include the GitHub search queries used to find these tools
-
-## OUTPUT
-After creating all files, verify the structure:
-- README.md with complete content (minimum 25 tools)
-- LICENSE file with MIT license
-- CONTRIBUTING.md file
-
-Run: ls -la
-Run: wc -l README.md
-Count the tools in your README and verify you have 25+ entries
-Report: DONE with repo URL and tool count
+## Priority Order
+1. Would a developer use this TODAY?
+2. Is it tree-shakeable / minimal deps?
+3. Is the API clean and intuitive?
+4. Does it have proper tests?
