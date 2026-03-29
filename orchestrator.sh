@@ -126,15 +126,36 @@ research_topic() {
     
     log "Phase 1: Researching topic (GitHub-focused): '$topic'"
     
-    # Define search queries - minimum 5, each returning 50 repos
+    # Convert slug topic to natural language search terms for gh CLI
+    # "best-ai-tools-for-productivity-2026" → "productivity AI tools"
+    # "awesome-open-source-saas-alternatives" → "open source SaaS alternatives"
+    slug_to_search_terms() {
+        local slug="$1"
+        # Remove common prefixes
+        slug="${slug#best-}"
+        slug="${slug#awesome-}"
+        slug="${slug#open-source-}"
+        # Remove year suffix
+        slug="${slug%-2026}"
+        slug="${slug%-2025}"
+        # Replace hyphens with spaces
+        slug="${slug//-/ }"
+        echo "$slug"
+    }
+    
+    local search_term=$(slug_to_search_terms "$topic")
+    log "Converted to natural language: '$search_term'"
+    
+    # Define search queries - MUST use natural language, NOT the raw slug
     local search_queries=(
-        "open source $topic"
-        "self-hosted $topic"
-        "free $topic github"
-        "$topic MIT license"
-        "$topic API"
-        "$topic database"
-        "$topic alternative"
+        "open source $search_term"
+        "self-hosted $search_term"
+        "free $search_term github"
+        "$search_term MIT license"
+        "$search_term API"
+        "$search_term database"
+        "$search_term alternative"
+        "$search_term workflow automation"
     )
     
     {
@@ -150,15 +171,16 @@ research_topic() {
     
     # Run gh search commands to find repos
     for query in "${search_queries[@]}"; do
+        query="$query stars:>20"
         log "Searching: $query"
         echo "### Query: $query" >> "$research_file"
         echo "" >> "$research_file"
         
         # Search for repos with gh CLI
-        local results=$(gh search repos "$query" --stars ">20" --limit 50 --json name,url,description,stars,primaryLanguage,license 2>/dev/null)
+        local results=$(gh search repos "$query stars:>20" --limit 50 --json name,url,description,stargazersCount,language,license 2>/dev/null)
         
         if [ -n "$results" ] && [ "$results" != "[]" ]; then
-            echo "$results" | jq -r '.[] | "- **[\(.name)](\(.url))** (⭐ \(.stars // 0) | \(.primaryLanguage // "N/A") | \(.license // "N/A"))"' >> "$research_file" 2>/dev/null || true
+            echo "$results" | jq -r '.[] | "- **[\(.name)](\(.url))** (⭐ \(.stargazersCount // 0) | \(.language // "N/A") | \(.license // "N/A"))"' >> "$research_file" 2>/dev/null || true
             local count=$(echo "$results" | jq '. | length' 2>/dev/null || echo "0")
             echo "  Found: $count repos" >> "$research_file"
             total_repos=$((total_repos + count))
@@ -179,7 +201,8 @@ research_topic() {
         echo ""
     } >> "$research_file"
     
-    web_search "site:github.com \"$topic\" open source" 2>/dev/null | head -20 >> "$research_file" || true
+    web_search "site:github.com \"$search_term\" open source" 2>/dev/null | head -20 >> "$research_file" || true
+    web_search "$search_term best open source tools" 2>/dev/null | head -20 >> "$research_file" || true
     
     # Detect gaps: categories with fewer than 5 repos
     log "Detecting gaps in the research..."
@@ -202,7 +225,6 @@ research_topic() {
     # Store for later verification
     echo "TOTAL_REPOS=$total_repos" > "$PROJECT_ROOT/memory/research_stats.txt"
     
-    cat "$research_file"
     echo "$research_file"
     return 0
 }
@@ -490,9 +512,11 @@ PROMPT_EOF
     log "Creating Codex tmux session: $CODEX_SESSION"
     tmux new-session -d -s "$CODEX_SESSION" -c "$temp_dir"
     
-    # Send prompt to Codex
+    # Send prompt to Codex via file to avoid command length limits
     log "Sending build task to Codex..."
-    tmux send-keys -t "$CODEX_SESSION" "cd $temp_dir && codex --yolo exec '$codex_prompt'" Enter
+    local prompt_file="$PROJECT_ROOT/.codex/prompt.txt"
+    echo "$codex_prompt" > "$prompt_file"
+    tmux send-keys -t "$CODEX_SESSION" "cd $temp_dir && cat '$prompt_file' | codex exec -" Enter
     
     # Monitor Codex progress
     log "Monitoring Codex build (this may take 5-10 minutes)..."
@@ -743,7 +767,7 @@ main() {
     echo ""
     
     # Run phases
-    local research_file=$(research_topic "$topic")
+    local research_file=$(research_topic "$topic" 2>&1 | tail -1)
     
     # Verify tools before proceeding
     if ! verify_tools "$research_file"; then
