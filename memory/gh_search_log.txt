@@ -388,3 +388,107 @@
 2026-03-29_20:23:41 | ai tools for lawyers database stars:>20 | 0
 2026-03-29_20:23:42 | ai tools for lawyers alternative stars:>20 | 0
 2026-03-29_20:23:42 | ai tools for lawyers workflow automation stars:>20 | 0
+2026-03-29_21:07:38 | open source ai tools for restaurants stars:>20 | 0
+2026-03-29_21:07:39 | self-hosted ai tools for restaurants stars:>20 | 0
+2026-03-29_21:07:39 | free ai tools for restaurants github stars:>20 | 0
+2026-03-29_21:07:39 | ai tools for restaurants MIT license stars:>20 | 0
+2026-03-29_21:07:40 | ai tools for restaurants API stars:>20 | 4
+2026-03-29_21:07:41 | ai tools for restaurants database stars:>20 | 4
+2026-03-29_21:07:41 | ai tools for restaurants alternative stars:>20 | 4
+2026-03-29_21:07:41 | ai tools for restaurants workflow automation stars:>20 | 4
+2026-03-29_21:07:52 | open source ai tools for real estate agents stars:>20 | 0
+2026-03-29_21:07:52 | self-hosted ai tools for real estate agents stars:>20 | 0
+2026-03-29_21:07:52 | free ai tools for real estate agents github stars:>20 | 0
+2026-03-29_21:07:53 | ai tools for real estate agents MIT license stars:>20 | 0
+2026-03-29_21:07:53 | ai tools for real estate agents API stars:>20 | 0
+2026-03-29_21:07:54 | ai tools for real estate agents database stars:>20 | 0
+2026-03-29_21:07:54 | ai tools for real estate agents alternative stars:>20 | 0
+2026-03-29_21:07:55 | ai tools for real estate agents workflow automation stars:>20 | 0
+2026-03-29_21:37:31 | open source ai agents stars:>20 | 50
+2026-03-29_21:37:34 | self-hosted ai agents stars:>20 | 100
+2026-03-29_21:37:34 | free ai agents github stars:>20 | 103
+2026-03-29_21:37:35 | ai agents MIT license stars:>20 | 105
+2026-03-29_21:37:37 | ai agents API stars:>20 | 155
+2026-03-29_21:37:39 | ai agents database stars:>20 | 205
+2026-03-29_21:37:40 | ai agents alternative stars:>20 | 246
+2026-03-29_21:37:42 | ai agents workflow automation stars:>20 | 296
+2026-03-29_21:50:06 | open source ai agents stars:>20 | 50
+2026-03-29_21:50:08 | self-hosted ai agents stars:>20 | 100
+2026-03-29_21:50:09 | free ai agents github stars:>20 | 103
+2026-03-29_21:50:10 | ai agents MIT license stars:>20 | 105
+2026-03-29_21:50:11 | ai agents API stars:>20 | 155
+2026-03-29_21:50:13 | ai agents database stars:>20 | 205
+2026-03-29_21:50:15 | ai agents alternative stars:>20 | 246
+2026-03-29_21:50:17 | ai agents workflow automation stars:>20 | 296
+2026-03-29_21:52:38 | open source ai agents stars:>20 | 50
+2026-03-29_21:52:41 | self-hosted ai agents stars:>20 | 100
+2026-03-29_21:52:41 | free ai agents github stars:>20 | 103
+2026-03-29_21:52:42 | ai agents MIT license stars:>20 | 105
+2026-03-29_21:52:44 | ai agents API stars:>20 | 155
+2026-03-29_21:52:46 | ai agents database stars:>20 | 205
+2026-03-29_21:52:48 | ai agents alternative stars:>20 | 246
+2026-03-29_21:52:50 | ai agents workflow automation stars:>20 | 296
+2026-03-29_21:55:17 | open source ai agents stars:>20 | 50
+2026-03-29_21:55:19 | self-hosted ai agents stars:>20 | 100
+2026-03-29_21:55:20 | free ai agents github stars:>20 | 103
+2026-03-29_21:55:21 | ai agents MIT license stars:>20 | 105
+2026-03-29_21:55:23 | ai agents API stars:>20 | 155
+2026-03-29_21:55:25 | ai agents database stars:>20 | 205
+2026-03-29_21:55:26 | ai agents alternative stars:>20 | 246
+2026-03-29_21:55:28 | ai agents workflow automation stars:>20 | 296
+2026-03-29_21:57:59 | open source ai agents stars:>20 | 50
+2026-03-29_21:58:01 | self-hosted ai agents stars:>20 | 100
+2026-03-29_21:58:01 | free ai agents github stars:>20 | 103
+2026-03-29_21:58:02 | ai agents MIT license stars:>20 | 105
+2026-03-29_21:58:04 | ai agents API stars:>20 | 155
+2026-03-29_21:58:06 | ai agents database stars:>20 | 205
+2026-03-29_21:58:08 | ai agents alternative stars:>20 | 246
+2026-03-29_21:58:09 | ai agents workflow automation stars:>20 | 296
+2026-03-29_22:04:40 | open source ai agents stars:>20 | 50
+2026-03-29_22:04:42 | self-hosted ai agents stars:>20 | 100
+2026-03-29_22:04:42 | free ai agents github stars:>20 | 103
+2026-03-29_22:04:43 | ai agents MIT license stars:>20 | 105
+2026-03-29_22:04:45 | ai agents API stars:>20 | 155
+2026-03-29_22:04:47 | ai agents database stars:>20 | 205
+2026-03-29_22:04:49 | ai agents alternative stars:>20 | 246
+2026-03-29_22:04:51 | ai agents workflow automation stars:>20 | 296
+2026-03-29_22:13:40 | open source ai agents stars:>20 | 50
+2026-03-29_22:13:42 | self-hosted ai agents stars:>20 | 100
+2026-03-29_22:13:43 | free ai agents github stars:>20 | 103
+2026-03-29_22:13:43 | ai agents MIT license stars:>20 | 105
+2026-03-29_22:13:45 | ai agents API stars:>20 | 155
+2026-03-29_22:13:47 | ai agents database stars:>20 | 205
+2026-03-29_22:13:49 | ai agents alternative stars:>20 | 246
+2026-03-29_22:13:51 | ai agents workflow automation stars:>20 | 296
+2026-03-29_22:16:36 | open source ai agents stars:>20 | 50
+2026-03-29_22:16:38 | self-hosted ai agents stars:>20 | 100
+2026-03-29_22:16:39 | free ai agents github stars:>20 | 103
+2026-03-29_22:16:39 | ai agents MIT license stars:>20 | 105
+2026-03-29_22:16:41 | ai agents API stars:>20 | 155
+2026-03-29_22:16:43 | ai agents database stars:>20 | 205
+2026-03-29_22:16:45 | ai agents alternative stars:>20 | 246
+2026-03-29_22:16:47 | ai agents workflow automation stars:>20 | 296
+2026-03-29_22:18:58 | open source ai agents stars:>20 | 50
+2026-03-29_22:19:00 | self-hosted ai agents stars:>20 | 100
+2026-03-29_22:19:01 | free ai agents github stars:>20 | 103
+2026-03-29_22:19:01 | ai agents MIT license stars:>20 | 105
+2026-03-29_22:19:03 | ai agents API stars:>20 | 155
+2026-03-29_22:19:05 | ai agents database stars:>20 | 205
+2026-03-29_22:19:07 | ai agents alternative stars:>20 | 246
+2026-03-29_22:19:09 | ai agents workflow automation stars:>20 | 296
+2026-03-29_22:24:20 | open source ai agents stars:>20 | 50
+2026-03-29_22:24:22 | self-hosted ai agents stars:>20 | 100
+2026-03-29_22:24:23 | free ai agents github stars:>20 | 103
+2026-03-29_22:24:24 | ai agents MIT license stars:>20 | 105
+2026-03-29_22:24:26 | ai agents API stars:>20 | 155
+2026-03-29_22:24:28 | ai agents database stars:>20 | 205
+2026-03-29_22:24:30 | ai agents alternative stars:>20 | 246
+2026-03-29_22:24:32 | ai agents workflow automation stars:>20 | 296
+2026-03-29_22:27:57 | open source ai agents stars:>20 | 50
+2026-03-29_22:27:59 | self-hosted ai agents stars:>20 | 100
+2026-03-29_22:28:00 | free ai agents github stars:>20 | 103
+2026-03-29_22:28:00 | ai agents MIT license stars:>20 | 105
+2026-03-29_22:28:02 | ai agents API stars:>20 | 155
+2026-03-29_22:28:04 | ai agents database stars:>20 | 205
+2026-03-29_22:28:06 | ai agents alternative stars:>20 | 246
+2026-03-29_22:28:08 | ai agents workflow automation stars:>20 | 296

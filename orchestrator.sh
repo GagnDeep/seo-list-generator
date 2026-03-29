@@ -44,19 +44,19 @@ NC='\033[0m'
 #-----------------------------------------------------------
 
 log() {
-    echo -e "${BLUE}[$(date +'%Y-%m-%d %H:%M:%S')]${NC} $1"
+    echo -e "${BLUE}[$(date +'%Y-%m-%d %H:%M:%S')]${NC} $1" >&2
 }
 
 success() {
-    echo -e "${GREEN}[✓]${NC} $1"
+    echo -e "${GREEN}[✓]${NC} $1" >&2
 }
 
 warn() {
-    echo -e "${YELLOW}[!]${NC} $1"
+    echo -e "${YELLOW}[!]${NC} $1" >&2
 }
 
 error() {
-    echo -e "${RED}[✗]${NC} $1"
+    echo -e "${RED}[✗]${NC} $1" >&2
 }
 
 slugify() {
@@ -349,18 +349,18 @@ create_repo_structure() {
     mkdir -p "$temp_dir"
     cd "$temp_dir"
     
-    # Initialize git
-    git init
-    git config user.name "SEO List Generator"
-    git config user.email "agent@openclaw.local"
+    # Initialize git (suppress all output)
+    git init >/dev/null 2>&1
+    git config user.name "SEO List Generator" >/dev/null 2>&1
+    git config user.email "agent@openclaw.local" >/dev/null 2>&1
     
     # Create basic structure (Codex will fill in content)
     touch README.md
     touch LICENSE
     touch CONTRIBUTING.md
     
+    # Only echo the temp_dir - this is what gets captured
     echo "$temp_dir"
-    return 0
 }
 
 #-----------------------------------------------------------
@@ -506,61 +506,68 @@ Report: DONE with repo URL and tool count
 PROMPT_EOF
 )
     
+    # Send prompt to Codex via background process (avoids tmux send-keys issues)
+    log "Sending build task to Codex..."
+    local prompt_file="$PROJECT_ROOT/.codex/prompt.txt"
+    local codex_log="$PROJECT_ROOT/logs/codex_build_$(date +%s).log"
+    echo "$codex_prompt" > "$prompt_file"
+    
     # Kill existing session if running
     tmux kill-session -t "$CODEX_SESSION" 2>/dev/null || true
     
-    # Create new tmux session
-    log "Creating Codex tmux session: $CODEX_SESSION"
-    tmux new-session -d -s "$CODEX_SESSION" -c "$temp_dir"
+    # Run codex in background directly (not via tmux send-keys)
+    cd "$temp_dir"
+    nohup codex exec --skip-git-repo-check --sandbox workspace-write - < "$prompt_file" > "$codex_log" 2>&1 &
+    local codex_pid=$!
+    log "Codex started with PID $codex_pid, log: $codex_log"
     
-    # Send prompt to Codex via file to avoid command length limits
-    log "Sending build task to Codex..."
-    local prompt_file="$PROJECT_ROOT/.codex/prompt.txt"
-    echo "$codex_prompt" > "$prompt_file"
-    tmux send-keys -t "$CODEX_SESSION" "cd $temp_dir && cat '$prompt_file' | codex exec -" Enter
-    
-    # Monitor Codex progress
+    # Monitor Codex progress by watching the log file
     log "Monitoring Codex build (this may take 5-10 minutes)..."
     local timeout=600
     local elapsed=0
-    local last_output=""
+    local last_size=0
+    local last_line=""
     
     while [ $elapsed -lt $timeout ]; do
         sleep 30
         elapsed=$((elapsed + 30))
         
-        # Get latest output
-        local pane_output=$(tmux capture-pane -t "$CODEX_SESSION" -p 2>/dev/null | tail -10)
-        
-        if [ "$pane_output" != "$last_output" ]; then
-            echo -e "${CYAN}[$elapsed s]${NC} $pane_output"
-            last_output="$pane_output"
-        fi
-        
-        # Check for completion markers
-        if echo "$pane_output" | grep -qiE "DONE|complete|finished|repo url|tool count"; then
-            success "Codex appears to have finished"
-            break
-        fi
-        
-        # Check for errors
-        if echo "$pane_output" | grep -qiE "error|failed|exception"; then
-            warn "Possible error detected, checking..."
+        # Get latest output from log
+        if [ -f "$codex_log" ]; then
+            local current_size=$(stat -c%s "$codex_log" 2>/dev/null || echo 0)
+            local current_line=$(tail -1 "$codex_log" 2>/dev/null)
+            
+            if [ "$current_size" != "$last_size" ]; then
+                echo -e "${CYAN}[$elapsed s]${NC} Codex working... (${current_size} bytes)"
+                last_size=$current_size
+                last_line="$current_line"
+            fi
+            
+            # Check for completion - be more precise to avoid false positives
+            if echo "$current_line" | grep -qiE "^DONE|DONE:|complete\.|finished\.$|repo url|tool count:"; then
+                success "Codex appears to have finished"
+                break
+            fi
+            
+            # Check if process died
+            if ! kill -0 $codex_pid 2>/dev/null; then
+                warn "Codex process ended unexpectedly"
+                break
+            fi
+        else
+            echo -e "${CYAN}[$elapsed s]${NC} Waiting for log file..."
         fi
     done
     
     # Give a moment for final writes
-    sleep 5
-    
-    # Capture final output
-    log "Capturing final Codex output..."
-    tmux capture-pane -t "$CODEX_SESSION" -p -S - > "$PROJECT_ROOT/logs/codex_build_$(date +%s).log" 2>/dev/null || true
+    log "Waiting for files to be written..."
+    sleep 10
     
     # Check what was created
     log "Checking created files..."
     ls -la "$temp_dir/"
     
-    if [ -f "$temp_dir/README.md" ]; then
+    if [ -f "$temp_dir/README.md" ] && [ -s "$temp_dir/README.md" ]; then
         local lines=$(wc -l < "$temp_dir/README.md")
         local tools=$(grep -c "github.com" "$temp_dir/README.md" 2>/dev/null || echo "0")
         success "README.md created ($lines lines, $tools tools found)"
@@ -569,7 +576,17 @@ PROMPT_EOF
             warn "Only $tools tools found (minimum: $MIN_TOOLS). Consider expanding research."
         fi
     else
-        error "README.md not found!"
+        # README not created yet - wait a bit more
+        log "README.md not found or empty, waiting more..."
+        sleep 30
+        ls -la "$temp_dir/"
+        if [ -f "$temp_dir/README.md" ] && [ -s "$temp_dir/README.md" ]; then
+            local lines=$(wc -l < "$temp_dir/README.md")
+            local tools=$(grep -c "github.com" "$temp_dir/README.md" 2>/dev/null || echo "0")
+            success "README.md created ($lines lines, $tools tools found)"
+        else
+            error "README.md not found or still empty after wait!"
+        fi
     fi
 }
 

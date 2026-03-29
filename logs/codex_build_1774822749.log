@@ -1,0 +1,1575 @@
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-open-source-ai-agents-2026-1080680
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /root/.codex/memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019d3bad-fdc3-7073-97d4-74826d5bc694
+--------
+user
+Build a complete SEO-optimized GitHub awesome-list repository for: "best-open-source-ai-agents-2026"
+
+## CRITICAL CONSTRAINTS
+- EVERY tool MUST have a github.com URL
+- NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
+- ONLY include tools that exist as public GitHub repositories
+- Minimum 25 verified tools required (50+ preferred)
+- If a category has fewer than 5 repos, document it honestly as a gap
+
+## REPOSITORY COUNT TARGET
+Minimum: 25 verified tools
+Preferred: 50+ tools
+Currently found: 0 repos (expand research if needed)
+
+## YOUR TASK
+Create a professional, complete awesome-list repo with:
+- README.md (main content - see format below)
+- LICENSE (MIT)
+- CONTRIBUTING.md
+
+## REPO STRUCTURE
+Work in this directory: /tmp/awesome-best-open-source-ai-agents-2026-1080680
+The repo name should be: awesome-best-open-source-ai-agents-2026
+GitHub URL will be: https://github.com/GagnDeep/awesome-best-open-source-ai-agents-2026
+
+## README.md FORMAT (MUST FOLLOW EXACTLY)
+
+---
+title: "best-open-source-ai-agents-2026"
+description: "[150-160 char description for SEO - make it compelling and keyword-rich]"
+icon: 📋
+category: [pick best category]
+---
+
+# [H1 Title - Primary Keyword]
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-open-source-ai-agents-2026?style=social)
+
+> [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
+
+## Table of Contents
+- [TL;DR](#tldr)
+- [Why This List](#why-this-list)
+- [Open Source Tools](#open-source-tools)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [License](#license)
+
+## TL;DR
+[Quick summary - 3-5 bullet points of the best open source options]
+
+## Why This List
+[Brief section on why open source tools matter for this use case - include primary keyword naturally]
+
+## Open Source Tools
+
+### [Category 1]
+[15-30 items if possible, each with this structure:]
+
+#### [Tool Name](https://github.com/username/repo)
+> **Description:** [80-150 words from the GitHub README - what it does, key features, how it's licensed. MUST include: last commit date, stars count, primary language, license type from GitHub.]
+
+- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
+- **Stars:** [number] ⭐
+- **Language:** [primary language]
+- **License:** [MIT/Apache/GPL/etc from GitHub]
+- **Last Commit:** [date]
+- **Category:** [tag1, tag2]
+- **Best for:** [specific use case]
+
+---
+
+### [Category 2]
+[more items...]
+
+## FAQ
+[5-7 questions targeting long-tail keywords]
+
+## GitHub Search Queries Used
+[Include the actual gh search commands used to find these tools]
+
+## Contributing
+[Standard contributing guide - must require GitHub repo URL for submissions]
+
+## License
+[MIT License - see LICENSE file]
+---
+
+## RESEARCH DATA (use this to build accurate items)
+# GitHub Repository Research for: best-open-source-ai-agents-2026
+Generated: Sun Mar 29 22:18:55 UTC 2026
+
+## GitHub Search Commands Used
+
+### Query: open source ai agents stars:>20
+
+- **[ai](https://github.com/vercel/ai)** (⭐ 23080 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[ten-framework](https://github.com/TEN-framework/ten-framework)** (⭐ 10376 | Python | {"key":"other","name":"Other","url":""})
+- **[airweave](https://github.com/airweave-ai/airweave)** (⭐ 6146 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ottomator-agents](https://github.com/coleam00/ottomator-agents)** (⭐ 5475 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[open-swe](https://github.com/langchain-ai/open-swe)** (⭐ 8804 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** (⭐ 27472 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (⭐ 29159 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[superdesign](https://github.com/superdesigndev/superdesign)** (⭐ 6240 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[gemini-cli](https://github.com/google-gemini/gemini-cli)** (⭐ 99459 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[Adorable](https://github.com/freestyle-sh/Adorable)** (⭐ 696 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[qwen-code](https://github.com/QwenLM/qwen-code)** (⭐ 21266 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[strix](https://github.com/usestrix/strix)** (⭐ 22703 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[botpress](https://github.com/botpress/botpress)** (⭐ 14621 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** (⭐ 18391 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[voltagent](https://github.com/VoltAgent/voltagent)** (⭐ 7117 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** (⭐ 37682 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[OpenViking](https://github.com/volcengine/OpenViking)** (⭐ 19846 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[speech-to-speech](https://github.com/huggingface/speech-to-speech)** (⭐ 4624 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[rowboat](https://github.com/rowboatlabs/rowboat)** (⭐ 9334 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[GPTeam](https://github.com/101dotxyz/GPTeam)** (⭐ 1717 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[adk-python](https://github.com/google/adk-python)** (⭐ 18653 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[agents](https://github.com/videosdk-live/agents)** (⭐ 606 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[ii-agent](https://github.com/Intelligent-Internet/ii-agent)** (⭐ 3192 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[LocalAI](https://github.com/mudler/LocalAI)** (⭐ 44564 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[plandex](https://github.com/plandex-ai/plandex)** (⭐ 15166 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[E2B](https://github.com/e2b-dev/E2B)** (⭐ 11495 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** (⭐ 17385 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[open-deep-research](https://github.com/nickscamara/open-deep-research)** (⭐ 6201 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[browser-agent](https://github.com/magnitudedev/browser-agent)** (⭐ 4007 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[openakita](https://github.com/openakita/openakita)** (⭐ 1482 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[grok-cli](https://github.com/superagent-ai/grok-cli)** (⭐ 2626 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ui](https://github.com/creativetimofficial/ui)** (⭐ 11782 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[goose](https://github.com/block/goose)** (⭐ 33737 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[intentkit](https://github.com/crestalnetwork/intentkit)** (⭐ 6500 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[lmnr](https://github.com/lmnr-ai/lmnr)** (⭐ 2731 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[cua](https://github.com/trycua/cua)** (⭐ 13325 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agentset](https://github.com/agentset-ai/agentset)** (⭐ 1930 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)** (⭐ 6508 | Jupyter Notebook | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[ZerePy](https://github.com/blorm-network/ZerePy)** (⭐ 583 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[cube](https://github.com/cube-js/cube)** (⭐ 19728 | Rust | {"key":"other","name":"Other","url":""})
+- **[awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** (⭐ 1918 |  | {"key":"other","name":"Other","url":""})
+- **[compose-for-agents](https://github.com/docker/compose-for-agents)** (⭐ 893 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)** (⭐ 2108 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[adk-go](https://github.com/google/adk-go)** (⭐ 7276 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[adk-docs](https://github.com/google/adk-docs)** (⭐ 1256 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[team-of-ai-agents](https://github.com/l3vels/team-of-ai-agents)** (⭐ 237 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** (⭐ 133629 |  | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
+- **[browserable](https://github.com/browserable/browserable)** (⭐ 1177 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[steel-browser](https://github.com/steel-dev/steel-browser)** (⭐ 6752 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[opensrc](https://github.com/vercel-labs/opensrc)** (⭐ 1219 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+  Found: 50 repos
+
+### Query: self-hosted ai agents stars:>20
+
+- **[MCPJungle](https://github.com/mcpjungle/MCPJungle)** (⭐ 935 | Go | {"key":"mpl-2.0","name":"Mozilla Public License 2.0","url":"https://api.github.com/licenses/mpl-2.0"})
+- **[RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst)** (⭐ 16125 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[intentkit](https://github.com/crestalnetwork/intentkit)** (⭐ 6500 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[browserable](https://github.com/browserable/browserable)** (⭐ 1177 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[AI-Voice-Agent](https://github.com/Anil-matcha/AI-Voice-Agent)** (⭐ 129 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[mission-control](https://github.com/builderz-labs/mission-control)** (⭐ 3565 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[bytebot](https://github.com/bytebot-ai/bytebot)** (⭐ 10691 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[weft](https://github.com/jonesphillip/weft)** (⭐ 489 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[BlockAGI](https://github.com/orgexyz/BlockAGI)** (⭐ 320 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[perplexideez](https://github.com/brunostjohn/perplexideez)** (⭐ 578 | Svelte | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[baserow](https://github.com/baserow/baserow)** (⭐ 4503 | Python | {"key":"other","name":"Other","url":""})
+- **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** (⭐ 1252 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[khoj](https://github.com/khoj-ai/khoj)** (⭐ 33677 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[LibreChat](https://github.com/danny-avila/LibreChat)** (⭐ 35046 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[opencrabs](https://github.com/adolfousier/opencrabs)** (⭐ 579 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[relaticle](https://github.com/relaticle/relaticle)** (⭐ 1217 | PHP | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[plugNmeet-server](https://github.com/mynaparrot/plugNmeet-server)** (⭐ 443 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ask-search](https://github.com/ythx-101/ask-search)** (⭐ 342 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** (⭐ 37682 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[skyflo](https://github.com/skyflo-ai/skyflo)** (⭐ 105 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[pocketpaw](https://github.com/pocketpaw/pocketpaw)** (⭐ 732 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[gru](https://github.com/zscole/gru)** (⭐ 217 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agents](https://github.com/inkeep/agents)** (⭐ 1034 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[10x](https://github.com/ntegrals/10x)** (⭐ 1425 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[mission-control](https://github.com/crshdn/mission-control)** (⭐ 1665 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[aegra](https://github.com/ibbybuilds/aegra)** (⭐ 733 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[pentagi](https://github.com/vxcontrol/pentagi)** (⭐ 13876 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agent-ui](https://github.com/agno-agi/agent-ui)** (⭐ 1702 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[compose-for-agents](https://github.com/docker/compose-for-agents)** (⭐ 893 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)** (⭐ 842 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[super-agent-party](https://github.com/heshengtao/super-agent-party)** (⭐ 2018 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** (⭐ 1144 | Go | {"key":"other","name":"Other","url":""})
+- **[Memoh](https://github.com/memohai/Memoh)** (⭐ 1149 | Go | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[server](https://github.com/janhq/server)** (⭐ 43 | Go | {"key":"","name":"","url":""})
+- **[LocalAGI](https://github.com/mudler/LocalAGI)** (⭐ 1692 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[microsandbox](https://github.com/superradcompany/microsandbox)** (⭐ 5186 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[n8n-claw](https://github.com/freddy-schuetz/n8n-claw)** (⭐ 322 | Shell | {"key":"","name":"","url":""})
+- **[petercat](https://github.com/neovateai/petercat)** (⭐ 1493 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[openclaw-n8n-stack](https://github.com/caprihan/openclaw-n8n-stack)** (⭐ 94 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[pinchy](https://github.com/heypinchy/pinchy)** (⭐ 136 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)** (⭐ 342 | Rust | {"key":"","name":"","url":""})
+- **[recall](https://github.com/joseairosa/recall)** (⭐ 163 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[GoGogot](https://github.com/aspasskiy/GoGogot)** (⭐ 121 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[blink](https://github.com/coder/blink)** (⭐ 136 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[CollabAI](https://github.com/sjinnovation/CollabAI)** (⭐ 118 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[shepard-obs-stack](https://github.com/shepard-system/shepard-obs-stack)** (⭐ 66 | Shell | {"key":"other","name":"Other","url":""})
+- **[deadend-cli](https://github.com/xoxruns/deadend-cli)** (⭐ 209 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[lmnr](https://github.com/lmnr-ai/lmnr)** (⭐ 2731 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[owliabot](https://github.com/owliabot/owliabot)** (⭐ 26 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[ziya](https://github.com/ziya-ai/ziya)** (⭐ 35 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+  Found: 50 repos
+
+### Query: free ai agents github stars:>20
+
+- **[git-mcp](https://github.com/idosal/git-mcp)** (⭐ 7846 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[open-saas](https://github.com/wasp-lang/open-saas)** (⭐ 13679 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Aim](https://github.com/DickDumBR1/Aim)** (⭐ 21 |  | {"key":"","name":"","url":""})
+  Found: 3 repos
+
+### Query: ai agents MIT license stars:>20
+
+- **[ai-safe2-framework](https://github.com/CyberStrategyInstitute/ai-safe2-framework)** (⭐ 76 | HTML | {"key":"other","name":"Other","url":""})
+- **[Aim](https://github.com/DickDumBR1/Aim)** (⭐ 21 |  | {"key":"","name":"","url":""})
+  Found: 2 repos
+
+### Query: ai agents API stars:>20
+
+- **[agentic](https://github.com/transitive-bullshit/agentic)** (⭐ 18130 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[suno-api](https://github.com/gcui-art/suno-api)** (⭐ 2782 | TypeScript | {"key":"lgpl-3.0","name":"GNU Lesser General Public License v3.0","url":"https://api.github.com/licenses/lgpl-3.0"})
+- **[airweave](https://github.com/airweave-ai/airweave)** (⭐ 6146 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[pi-mono](https://github.com/badlogic/pi-mono)** (⭐ 28918 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[DocsGPT](https://github.com/arc53/DocsGPT)** (⭐ 17792 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[klavis](https://github.com/Klavis-AI/klavis)** (⭐ 5686 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[apify-mcp-server](https://github.com/apify/apify-mcp-server)** (⭐ 977 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[LocalAI](https://github.com/mudler/LocalAI)** (⭐ 44564 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agents-from-scratch](https://github.com/pguso/agents-from-scratch)** (⭐ 620 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[call-center-ai](https://github.com/microsoft/call-center-ai)** (⭐ 6425 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** (⭐ 897 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[laravel-restify](https://github.com/BinarCode/laravel-restify)** (⭐ 652 | PHP | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[steel-browser](https://github.com/steel-dev/steel-browser)** (⭐ 6752 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[agenticSeek](https://github.com/Fosowl/agenticSeek)** (⭐ 25731 | Python | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
+- **[R2R](https://github.com/SciPhi-AI/R2R)** (⭐ 7747 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[langgraph-mcp-agents](https://github.com/teddynote-lab/langgraph-mcp-agents)** (⭐ 692 | Python | {"key":"","name":"","url":""})
+- **[bb-browser](https://github.com/epiral/bb-browser)** (⭐ 3193 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Integuru](https://github.com/Integuru-AI/Integuru)** (⭐ 4558 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[mini-agi](https://github.com/muellerberndt/mini-agi)** (⭐ 2904 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Fay](https://github.com/xszyou/Fay)** (⭐ 12593 | Python | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
+- **[vulcan-sql](https://github.com/Canner/vulcan-sql)** (⭐ 790 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[engram](https://github.com/Gentleman-Programming/engram)** (⭐ 2005 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[AingDesk](https://github.com/aingdesk/AingDesk)** (⭐ 2478 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[LibreChat](https://github.com/danny-avila/LibreChat)** (⭐ 35046 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agent-protocol](https://github.com/agi-inc/agent-protocol)** (⭐ 1456 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[fantasy](https://github.com/charmbracelet/fantasy)** (⭐ 683 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[onemcp](https://github.com/Gentoro-OneMCP/onemcp)** (⭐ 175 | Java | {"key":"other","name":"Other","url":""})
+- **[notebooklm-py](https://github.com/teng-lin/notebooklm-py)** (⭐ 8157 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[jentic-public-apis](https://github.com/jentic/jentic-public-apis)** (⭐ 222 |  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://api.github.com/licenses/cc0-1.0"})
+- **[api2ai](https://github.com/mquan/api2ai)** (⭐ 186 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** (⭐ 12572 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (⭐ 12938 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[langgraphjs-api](https://github.com/langchain-ai/langgraphjs-api)** (⭐ 38 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[claw-empire](https://github.com/GreenSheep01201/claw-empire)** (⭐ 897 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[Agent-E](https://github.com/EmergenceAI/Agent-E)** (⭐ 1230 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[iii](https://github.com/iii-hq/iii)** (⭐ 15243 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[Awesome-AI-Agents](https://github.com/ChatTeach/Awesome-AI-Agents)** (⭐ 77 |  | {"key":"","name":"","url":""})
+- **[ai-trading-agent](https://github.com/hackingthemarkets/ai-trading-agent)** (⭐ 98 | Python | {"key":"","name":"","url":""})
+- **[monoid](https://github.com/munkim/monoid)** (⭐ 51 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[ruby_llm](https://github.com/crmne/ruby_llm)** (⭐ 3789 | Ruby | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[kubeshark](https://github.com/kubeshark/kubeshark)** (⭐ 11840 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[cascadeflow](https://github.com/lemony-ai/cascadeflow)** (⭐ 306 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[yao](https://github.com/YaoApp/yao)** (⭐ 7521 | Go | {"key":"other","name":"Other","url":""})
+- **[maxun](https://github.com/getmaxun/maxun)** (⭐ 15316 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[gateway](https://github.com/centralmind/gateway)** (⭐ 521 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[api2cli](https://github.com/alexknowshtml/api2cli)** (⭐ 417 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[open-agents-builder](https://github.com/CatchTheTornado/open-agents-builder)** (⭐ 161 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[EDDI](https://github.com/labsai/EDDI)** (⭐ 289 | Java | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[super-rag](https://github.com/superagent-ai/super-rag)** (⭐ 389 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)** (⭐ 1572 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+  Found: 50 repos
+
+### Query: ai agents database stars:>20
+
+- **[chroma](https://github.com/chroma-core/chroma)** (⭐ 27021 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** (⭐ 18391 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[database-ai-agents](https://github.com/pdichone/database-ai-agents)** (⭐ 46 | Python | {"key":"","name":"","url":""})
+- **[vanna](https://github.com/vanna-ai/vanna)** (⭐ 23147 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[database-skills](https://github.com/planetscale/database-skills)** (⭐ 382 | HTML | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks)** (⭐ 1154 |  | {"key":"","name":"","url":""})
+- **[superduper](https://github.com/superduper-io/superduper)** (⭐ 5264 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[genai-toolbox](https://github.com/googleapis/genai-toolbox)** (⭐ 13575 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[OpenViking](https://github.com/volcengine/OpenViking)** (⭐ 19846 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[gateway](https://github.com/centralmind/gateway)** (⭐ 521 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[DbRheo-CLI](https://github.com/Din829/DbRheo-CLI)** (⭐ 430 | Python | {"key":"","name":"","url":""})
+- **[baserow](https://github.com/baserow/baserow)** (⭐ 4503 | Python | {"key":"other","name":"Other","url":""})
+- **[materialize](https://github.com/MaterializeInc/materialize)** (⭐ 6256 | Rust | {"key":"other","name":"Other","url":""})
+- **[databend](https://github.com/databendlabs/databend)** (⭐ 9215 | Rust | {"key":"other","name":"Other","url":""})
+- **[matrixone](https://github.com/matrixorigin/matrixone)** (⭐ 1878 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[prosecutor-database](https://github.com/billimarie/prosecutor-database)** (⭐ 93 | JavaScript | {"key":"other","name":"Other","url":""})
+- **[oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)** (⭐ 158 | Jupyter Notebook | {"key":"","name":"","url":""})
+- **[SemanticKernel.Agents.DatabaseAgent](https://github.com/kbeaugrand/SemanticKernel.Agents.DatabaseAgent)** (⭐ 40 | C# | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[vulcan-sql](https://github.com/Canner/vulcan-sql)** (⭐ 790 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[cymbal-air-toolbox-demo](https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo)** (⭐ 319 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[llamafarm](https://github.com/llama-farm/llamafarm)** (⭐ 830 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[Memoria](https://github.com/matrixorigin/Memoria)** (⭐ 167 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[temporal-ai-agent-pipeline](https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline)** (⭐ 88 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[dbhub](https://github.com/bytebase/dbhub)** (⭐ 2446 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[langgraph-agent-openwebui-demo](https://github.com/casedone/langgraph-agent-openwebui-demo)** (⭐ 39 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[statespace](https://github.com/statespace-tech/statespace)** (⭐ 846 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[VenusFactory2](https://github.com/ai4protein/VenusFactory2)** (⭐ 212 | Python | {"key":"other","name":"Other","url":""})
+- **[DataGPT](https://github.com/digai-co/DataGPT)** (⭐ 81 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[convexskills](https://github.com/waynesutton/convexskills)** (⭐ 386 | JavaScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[yargi-cli](https://github.com/saidsurucu/yargi-cli)** (⭐ 135 | TypeScript | {"key":"","name":"","url":""})
+- **[OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR)** (⭐ 113 | HTML | {"key":"other","name":"Other","url":""})
+- **[sql-ai-agents](https://github.com/denniszielke/sql-ai-agents)** (⭐ 29 | TSQL | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)** (⭐ 3905 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** (⭐ 48 |  | {"key":"other","name":"Other","url":""})
+- **[agency-agents](https://github.com/nacerallahchemssy/agency-agents)** (⭐ 34 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[pixelbot](https://github.com/pixeltable/pixelbot)** (⭐ 80 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[nl2sql-agent](https://github.com/cmcouto-silva/nl2sql-agent)** (⭐ 44 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[altinity-mcp](https://github.com/Altinity/altinity-mcp)** (⭐ 24 | Go | {"key":"","name":"","url":""})
+- **[agentdepot-agents](https://github.com/biagruot/agentdepot-agents)** (⭐ 24 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[qyp-mini](https://github.com/ElKornacio/qyp-mini)** (⭐ 21 | PLpgSQL | {"key":"","name":"","url":""})
+- **[modelence](https://github.com/modelence/modelence)** (⭐ 383 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[launch-rag](https://github.com/ShenSeanChen/launch-rag)** (⭐ 44 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[database-agent](https://github.com/jasonmccallister/database-agent)** (⭐ 22 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[m4](https://github.com/hannesill/m4)** (⭐ 25 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[openchatbi](https://github.com/zhongyu09/openchatbi)** (⭐ 540 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[systemprompt-mcp-notion](https://github.com/Ejb503/systemprompt-mcp-notion)** (⭐ 27 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[hyperterse](https://github.com/hyperterse/hyperterse)** (⭐ 80 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[branchbox](https://github.com/branchbox/branchbox)** (⭐ 65 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[mem0-mcp](https://github.com/pinkpixel-dev/mem0-mcp)** (⭐ 90 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[kdeps](https://github.com/kdeps/kdeps)** (⭐ 32 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+  Found: 50 repos
+
+### Query: ai agents alternative stars:>20
+
+- **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** (⭐ 28154 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[SurfSense](https://github.com/MODSetter/SurfSense)** (⭐ 13583 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** (⭐ 12572 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[baserow](https://github.com/baserow/baserow)** (⭐ 4503 | Python | {"key":"other","name":"Other","url":""})
+- **[AIPex](https://github.com/AIPexStudio/AIPex)** (⭐ 1122 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[lemonai](https://github.com/hexdocom/lemonai)** (⭐ 1488 | JavaScript | {"key":"other","name":"Other","url":""})
+- **[qrev](https://github.com/qrev-ai/qrev)** (⭐ 362 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[local-manus](https://github.com/11cafe/local-manus)** (⭐ 121 | TypeScript | {"key":"","name":"","url":""})
+- **[YC-Killer](https://github.com/sahibzada-allahyar/YC-Killer)** (⭐ 2676 | TypeScript | {"key":"","name":"","url":""})
+- **[aegra](https://github.com/ibbybuilds/aegra)** (⭐ 733 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[agentic-flow](https://github.com/ruvnet/agentic-flow)** (⭐ 584 | TypeScript | {"key":"","name":"","url":""})
+- **[browser-operator-core](https://github.com/BrowserOperator/browser-operator-core)** (⭐ 471 | TypeScript | {"key":"bsd-3-clause","name":"BSD 3-Clause \"New\" or \"Revised\" License","url":"https://api.github.com/licenses/bsd-3-clause"})
+- **[ai-orchestra](https://github.com/langtail/ai-orchestra)** (⭐ 80 | TypeScript | {"key":"","name":"","url":""})
+- **[poco-claw](https://github.com/poco-ai/poco-claw)** (⭐ 1232 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[tiledesk-dashboard](https://github.com/Tiledesk/tiledesk-dashboard)** (⭐ 311 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[openpencil](https://github.com/ZSeven-W/openpencil)** (⭐ 1864 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[GoGogot](https://github.com/aspasskiy/GoGogot)** (⭐ 121 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Canopy](https://github.com/kwalus/Canopy)** (⭐ 264 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[hookdeck-cli](https://github.com/hookdeck/hookdeck-cli)** (⭐ 352 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[RepoMaster](https://github.com/QuantaAlpha/RepoMaster)** (⭐ 513 | Python | {"key":"","name":"","url":""})
+- **[ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android)** (⭐ 263 |  | {"key":"","name":"","url":""})
+- **[snow-flow](https://github.com/groeimetai/snow-flow)** (⭐ 57 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[dora](https://github.com/butttons/dora)** (⭐ 98 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[openlegion](https://github.com/openlegion-ai/openlegion)** (⭐ 81 | Python | {"key":"other","name":"Other","url":""})
+- **[OpenCMO](https://github.com/study8677/OpenCMO)** (⭐ 25 | Python | {"key":"","name":"","url":""})
+- **[open-agent-sdk](https://github.com/OasAIStudio/open-agent-sdk)** (⭐ 38 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[allama](https://github.com/digitranslab/allama)** (⭐ 90 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[openbrowser](https://github.com/OpenBrowserAI/openbrowser)** (⭐ 43 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[coworker](https://github.com/Array-Ventures/coworker)** (⭐ 22 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[OSA](https://github.com/Miosa-osa/OSA)** (⭐ 25 | Elixir | {"key":"other","name":"Other","url":""})
+- **[NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android)** (⭐ 26 |  | {"key":"","name":"","url":""})
+- **[agent-readiness](https://github.com/kodustech/agent-readiness)** (⭐ 29 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[zapcode](https://github.com/TheUncharted/zapcode)** (⭐ 49 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[bloom](https://github.com/video-db/bloom)** (⭐ 23 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[nohrs](https://github.com/noh-rs/nohrs)** (⭐ 103 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[OpenWebResearcher](https://github.com/BlackTechX011/OpenWebResearcher)** (⭐ 21 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[instinct.cpp](https://github.com/RobinQu/instinct.cpp)** (⭐ 58 | C++ | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[open-agentkit](https://github.com/01-ai/open-agentkit)** (⭐ 21 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[sila](https://github.com/silaorg/sila)** (⭐ 21 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Jiva](https://github.com/KarmaloopAI/Jiva)** (⭐ 22 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[viraloop](https://github.com/mutonby/viraloop)** (⭐ 38 | JavaScript | {"key":"","name":"","url":""})
+  Found: 41 repos
+
+### Query: ai agents workflow automation stars:>20
+
+- **[activepieces](https://github.com/activepieces/activepieces)** (⭐ 21481 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)** (⭐ 1073 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[dify](https://github.com/langgenius/dify)** (⭐ 134908 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[trigger.dev](https://github.com/triggerdotdev/trigger.dev)** (⭐ 14274 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)** (⭐ 1413 |  | {"key":"","name":"","url":""})
+- **[patchwork](https://github.com/patched-codes/patchwork)** (⭐ 1548 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)** (⭐ 2754 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** (⭐ 3115 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** (⭐ 20687 |  | {"key":"other","name":"Other","url":""})
+- **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** (⭐ 12572 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)** (⭐ 2408 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[lamda](https://github.com/firerpa/lamda)** (⭐ 7697 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[waoowaoo](https://github.com/saturndec/waoowaoo)** (⭐ 10592 | TypeScript | {"key":"","name":"","url":""})
+- **[ghost-os](https://github.com/ghostwright/ghost-os)** (⭐ 1250 | Swift | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[neuron-ai](https://github.com/neuron-core/neuron-ai)** (⭐ 1805 | PHP | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[Church-Admin-AgenticWorkflow](https://github.com/idoforgod/Church-Admin-AgenticWorkflow)** (⭐ 38 | Python | {"key":"other","name":"Other","url":""})
+- **[claude-code-workflows](https://github.com/shinpr/claude-code-workflows)** (⭐ 257 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[SaaS-AgenticWorkflow](https://github.com/idoforgod/SaaS-AgenticWorkflow)** (⭐ 30 | Python | {"key":"other","name":"Other","url":""})
+- **[better-chatbot](https://github.com/cgoinglove/better-chatbot)** (⭐ 1058 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agent-toolkit](https://github.com/softaworks/agent-toolkit)** (⭐ 1271 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[nodetool](https://github.com/nodetool-ai/nodetool)** (⭐ 298 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
+- **[fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)** (⭐ 776 | Python | {"key":"other","name":"Other","url":""})
+- **[N8N-AI-Agents-Masterclass](https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass)** (⭐ 58 | HTML | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[bytechef](https://github.com/bytechefhq/bytechef)** (⭐ 741 | Java | {"key":"other","name":"Other","url":""})
+- **[pipelex](https://github.com/Pipelex/pipelex)** (⭐ 639 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agentsys](https://github.com/agent-sh/agentsys)** (⭐ 672 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[lionagi](https://github.com/khive-ai/lionagi)** (⭐ 385 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents)** (⭐ 701 | Python | {"key":"","name":"","url":""})
+- **[ai-agent-automation](https://github.com/vmDeshpande/ai-agent-automation)** (⭐ 123 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
+- **[n8n_agent](https://github.com/kingler/n8n_agent)** (⭐ 235 | JavaScript | {"key":"","name":"","url":""})
+- **[ai-automation-jsons](https://github.com/simealdana/ai-automation-jsons)** (⭐ 35 |  | {"key":"","name":"","url":""})
+- **[GlobalNews-Crawling-AgenticWorkflow](https://github.com/idoforgod/GlobalNews-Crawling-AgenticWorkflow)** (⭐ 26 | Python | {"key":"other","name":"Other","url":""})
+- **[manifold](https://github.com/intelligencedev/manifold)** (⭐ 486 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[End-to-End-Agentic-Ai-Automation-Lab](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab)** (⭐ 53 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[TRAE-Agents](https://github.com/HighMark-31/TRAE-Agents)** (⭐ 119 |  | {"key":"other","name":"Other","url":""})
+- **[openclaw-n8n-stack](https://github.com/caprihan/openclaw-n8n-stack)** (⭐ 94 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[multi-agent-squad](https://github.com/bijutharakan/multi-agent-squad)** (⭐ 81 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[n8n-automation-2025-AI-Agent-Suite](https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite)** (⭐ 35 | Python | {"key":"","name":"","url":""})
+- **[EVA](https://github.com/ARCANGEL0/EVA)** (⭐ 394 | Python | {"key":"","name":"","url":""})
+- **[claude-forge](https://github.com/sangrokjung/claude-forge)** (⭐ 618 | Shell | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[agentic-signal](https://github.com/code-forge-temple/agentic-signal)** (⭐ 144 | TypeScript | {"key":"other","name":"Other","url":""})
+- **[flow-like](https://github.com/TM9657/flow-like)** (⭐ 618 | Rust | {"key":"other","name":"Other","url":""})
+- **[CrewAI-Agentic-Jira](https://github.com/rosidotidev/CrewAI-Agentic-Jira)** (⭐ 22 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[swarm](https://github.com/parruda/swarm)** (⭐ 1688 | Ruby | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[jat](https://github.com/joewinke/jat)** (⭐ 186 | Svelte | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[project-nova](https://github.com/dujonwalker/project-nova)** (⭐ 256 | Shell | {"key":"","name":"","url":""})
+- **[binex](https://github.com/Alexli18/binex)** (⭐ 54 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[manusmcp](https://github.com/mantrakp04/manusmcp)** (⭐ 93 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
+- **[n8n-nodes-ai-agent-langfuse](https://github.com/rorubyy/n8n-nodes-ai-agent-langfuse)** (⭐ 27 | TypeScript | {"key":"","name":"","url":""})
+- **[kaggle-Agent](https://github.com/MSNP1381/kaggle-Agent)** (⭐ 78 | Python | {"key":"","name":"","url":""})
+  Found: 50 repos
+
+## Web Search Results
+
+## Gap Analysis
+
+Categories with fewer than 5 tools represent opportunities:
+
+## REQUIREMENTS
+1. EVERY tool MUST have a github.com URL (no exceptions)
+2. Include stars count, primary language, license from GitHub
+3. Primary keyword MUST appear in first 100 words
+4. Include 25+ items total (50+ preferred)
+5. Use semantic headings (H2, H3)
+6. Descriptions must be from actual GitHub READMEs - unique and specific
+7. Target long-tail keywords in FAQ section
+8. Format with Markdown - use tables where appropriate
+9. Include the GitHub search queries used to find these tools
+
+## OUTPUT
+After creating all files, verify the structure:
+- README.md with complete content (minimum 25 tools)
+- LICENSE file with MIT license
+- CONTRIBUTING.md file
+
+Run: ls -la
+Run: wc -l README.md
+Count the tools in your README and verify you have 25+ entries
+Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please install bubblewrap with your package manager. Codex will use the vendored bubblewrap in the meantime.
+codex
+I’m building the repo in the current workspace and starting by checking the existing files so I can create `README.md`, `LICENSE`, and `CONTRIBUTING.md` cleanly.
+exec
+/bin/bash -lc pwd in /tmp/awesome-best-open-source-ai-agents-2026-1080680
+exec
+/bin/bash -lc 'ls -la' in /tmp/awesome-best-open-source-ai-agents-2026-1080680
+ succeeded in 0ms:
+total 20
+drwxr-xr-x   3 root root  4096 Mar 29 22:19 .
+drwxrwxrwt 104 root root 12288 Mar 29 22:19 ..
+drwxr-xr-x   7 root root  4096 Mar 29 22:19 .git
+-rw-r--r--   1 root root     0 Mar 29 22:19 CONTRIBUTING.md
+-rw-r--r--   1 root root     0 Mar 29 22:19 LICENSE
+-rw-r--r--   1 root root     0 Mar 29 22:19 README.md
+
+ succeeded in 0ms:
+/tmp/awesome-best-open-source-ai-agents-2026-1080680
+
+exec
+/bin/bash -lc 'rg --files' in /tmp/awesome-best-open-source-ai-agents-2026-1080680
+ succeeded in 0ms:
+LICENSE
+README.md
+CONTRIBUTING.md
+
+codex
+I have a clean repo and I’m now drafting the main list around verified GitHub repos with explicit licenses and enough breadth to avoid weak categories. I’m targeting 25 entries across 5 solid categories so the README stays credible and still satisfies the minimum count.
+web search: 
+web search: https://github.com/google/adk-python
+web search: 
+web search: 'ago' in https://github.com/google/adk-python
+web search: 
+web search: https://github.com/google/adk-python/commits/main/
+web search: 
+web search: 
+web search: 
+web search: https://github.com/google/adk-python/commits/main/
+web search: 
+web search: https://github.com/google/adk-go/commits/main/
+web search: 
+web search: https://github.com/langchain-ai/open-swe/commits/main/
+web search: 
+web search: https://github.com/block/goose/commits/main/
+web search: 
+web search: https://github.com/bytedance/UI-TARS-desktop/commits/main/
+web search: 
+web search: https://github.com/magnitudedev/browser-agent/commits/main/
+web search: 
+web search: https://github.com/browserable/browserable/commits/main/
+web search: 
+web search: https://github.com/mudler/LocalAI/commits/master/
+web search: 
+web search: https://github.com/danny-avila/LibreChat/commits/main/
+web search: 
+web search: https://github.com/triggerdotdev/trigger.dev/commits/main/
+web search: 
+web search: https://github.com/docker/compose-for-agents
+web search: 
+web search: https://github.com/patched-codes/patchwork
+web search: 
+web search: https://github.com/darrenhinde/OpenAgentsControl/commits/main/
+web search: 
+web search: https://github.com/rowboatlabs/rowboat/commits/main/
+web search: 
+web search: https://github.com/agent-sh/agentsys/commits/main/
+web search: 
+web search: https://github.com/ghostwright/ghost-os/commits/main/
+web search: 
+web search: https://github.com/cgoinglove/better-chatbot/commits/main/
+web search: 
+web search: 
+web search: 
+web search: 
+codex
+I’ve finished the research pass I can do from the available GitHub pages and I’m moving into file edits now. I’m writing the README with 25 verified GitHub repos, using the provided stars/licenses snapshot plus GitHub commit-history dates I checked, then I’ll add MIT `LICENSE`, a strict `CONTRIBUTING.md`, and verify counts from the shell.
+apply patch
+patch: completed
+/tmp/awesome-best-open-source-ai-agents-2026-1080680/CONTRIBUTING.md
+/tmp/awesome-best-open-source-ai-agents-2026-1080680/LICENSE
+/tmp/awesome-best-open-source-ai-agents-2026-1080680/README.md
+diff --git a/CONTRIBUTING.md b/CONTRIBUTING.md
+index e69de29bb2d1d6434b8b29ae775ad8c2e48c5391..2bbc442009771652fca389d0c90faf0c99d7ae82
+--- a/CONTRIBUTING.md
++++ b/CONTRIBUTING.md
+@@ -0,0 +1,65 @@
++# Contributing
++
++Thanks for improving this awesome list.
++
++## Submission Requirements
++
++Every submission must include:
++
++- A public `github.com` repository URL
++- A clear open-source license visible on GitHub
++- A short explanation of why the repo belongs in an AI agents list
++- The primary language
++- The most appropriate category
++
++Submissions will be rejected if they are:
++
++- Proprietary SaaS tools without a public GitHub repository
++- Dead repos with no clear AI-agent relevance
++- Blog posts, landing pages, YouTube videos, or product sites without source code
++- Duplicate entries
++
++## Preferred Format
++
++Use this structure when proposing a new entry:
++
++```md
++#### [Tool Name](https://github.com/username/repo)
++> **Description:** Short summary of what the project does, why it matters, and its license.
++
++- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
++- **Stars:** 1234 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Jan 1, 2026
++- **Category:** framework, self-hosted
++- **Best for:** Brief use case
++```
++
++## Quality Bar
++
++Please keep the list useful:
++
++- Prefer maintained repositories
++- Prefer repos with real documentation and clear positioning
++- Keep descriptions factual and specific
++- Do not submit tools unless the source code is actually on GitHub
++
++## Pull Requests
++
++- Keep PRs focused
++- One category cleanup or a small batch of related additions is preferred
++- If stars, licenses, or activity changed, mention the refresh date in the PR
++
++## Reporting Issues
++
++Open an issue if:
++
++- A repo was archived or removed
++- A license changed
++- A tool is miscategorized
++- A link is broken
++
++## License
++
++By contributing, you agree that your contributions will be licensed under the MIT License used by this repository.
+diff --git a/LICENSE b/LICENSE
+index e69de29bb2d1d6434b8b29ae775ad8c2e48c5391..03a32f12ddab3306f2b0561fd446e4d1a67df5cb
+--- a/LICENSE
++++ b/LICENSE
+@@ -0,0 +1,21 @@
++MIT License
++
++Copyright (c) 2026 GagnDeep
++
++Permission is hereby granted, free of charge, to any person obtaining a copy
++of this software and associated documentation files (the "Software"), to deal
++in the Software without restriction, including without limitation the rights
++to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
++copies of the Software, and to permit persons to whom the Software is
++furnished to do so, subject to the following conditions:
++
++The above copyright notice and this permission notice shall be included in all
++copies or substantial portions of the Software.
++
++THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
++IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
++FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
++AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
++LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
++OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
++SOFTWARE.
+diff --git a/README.md b/README.md
+index e69de29bb2d1d6434b8b29ae775ad8c2e48c5391..5b5e337ceb219d52f9c4822d87580d98cd6305f9
+--- a/README.md
++++ b/README.md
+@@ -0,0 +1,413 @@
++---
++title: "best-open-source-ai-agents-2026"
++description: "Discover the best open source AI agents in 2026, including self-hosted agent frameworks, coding agents, browser agents, and workflow tools on GitHub."
++icon: 📋
++category: AI Agents
++---
++
++# Best Open Source AI Agents 2026
++
++[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
++[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
++![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-open-source-ai-agents-2026?style=social)
++
++> This curated list of the best open source AI agents 2026 highlights serious GitHub projects for building, running, and self-hosting agent systems. It focuses on public repositories only, excludes proprietary SaaS-only products, and surfaces practical tools for agent frameworks, coding agents, browser agents, local assistants, and workflow automation.
++
++## Table of Contents
++- [TL;DR](#tldr)
++- [Why This List](#why-this-list)
++- [Open Source Tools](#open-source-tools)
++- [FAQ](#faq)
++- [Contributing](#contributing)
++- [License](#license)
++
++## TL;DR
++- **Best framework stack:** `google/adk-python`, `google/adk-go`, and `VoltAgent/voltagent` are strong starting points for code-first agent orchestration.
++- **Best coding agents:** `block/goose`, `langchain-ai/open-swe`, `plandex-ai/plandex`, and `QwenLM/qwen-code` are the most useful repos here for software tasks.
++- **Best browser and computer-use tools:** `bytedance/UI-TARS-desktop`, `trycua/cua`, `magnitudedev/browser-agent`, and `steel-dev/steel-browser` cover desktop and web automation well.
++- **Best self-hosted assistants:** `mudler/LocalAI`, `danny-avila/LibreChat`, `khoj-ai/khoj`, `eosphoros-ai/DB-GPT`, and `arc53/DocsGPT` are strong open-source alternatives to hosted AI products.
++- **Best workflow layer:** `triggerdotdev/trigger.dev`, `agent-sh/agentsys`, `rowboatlabs/rowboat`, `ghostwright/ghost-os`, and `cgoinglove/better-chatbot` bring orchestration, UI, and agent operations together.
++
++## Why This List
++The best open source AI agents give you control over code, deployment, data flow, model choice, and extensibility. That matters if you want self-hosted AI agents, auditable workflows, local inference, GitHub-native contribution paths, or infrastructure that can outlive any single vendor.
++
++This list is intentionally strict: every entry has a public `github.com` repository, every repo is open source, and each item includes stars, language, license, and a verified last commit date. Star counts and license metadata come from the research snapshot supplied for March 29, 2026, while last commit dates were checked against GitHub commit history pages during assembly.
++
++## Open Source Tools
++
++### Agent Frameworks
++
++#### [Google ADK Python](https://github.com/google/adk-python)
++> **Description:** The README presents ADK as an open-source, code-first Python framework for building, evaluating, and deploying sophisticated AI agents with flexibility and control. It emphasizes modular multi-agent systems, tool ecosystems, evaluation flows, and deploy-anywhere patterns rather than a no-code wrapper. The project is model-agnostic even though it is optimized for Gemini, and it includes a built-in development UI plus examples for single-agent and multi-agent compositions. Last commit date: Mar 18, 2026. Stars count: 18,653. Primary language: Python. License type: Apache-2.0.
++
++- **GitHub:** [github.com/google/adk-python](https://github.com/google/adk-python)
++- **Stars:** 18,653 ⭐
++- **Language:** Python
++- **License:** Apache-2.0
++- **Last Commit:** Mar 18, 2026
++- **Category:** framework, multi-agent
++- **Best for:** Teams that want a code-first agent SDK with evaluation and deployment support
++
++---
++
++#### [Google ADK Go](https://github.com/google/adk-go)
++> **Description:** ADK Go extends the Agent Development Kit approach into Go for developers who want typed services, agent tooling, and orchestration in a compiled runtime. Its positioning is similar to the Python repo, but the main appeal is integrating agent systems into Go-heavy backends and infrastructure workflows. The commit history shows active work on remote agents, debug telemetry, debug endpoints, and tool confirmation behavior, which makes it useful for production-oriented services rather than demos alone. Last commit date: Mar 3, 2026. Stars count: 7,276. Primary language: Go. License type: Apache-2.0.
++
++- **GitHub:** [github.com/google/adk-go](https://github.com/google/adk-go)
++- **Stars:** 7,276 ⭐
++- **Language:** Go
++- **License:** Apache-2.0
++- **Last Commit:** Mar 3, 2026
++- **Category:** framework, sdk
++- **Best for:** Go teams building agent backends and remote-agent services
++
++---
++
++#### [VoltAgent](https://github.com/VoltAgent/voltagent)
++> **Description:** VoltAgent is a TypeScript agent framework aimed at developers who want a modern runtime for LLM apps, agent flows, tool execution, and observability. Its recent commit history shows active work around prompt context telemetry, versioning, and core prompt handling, which fits its positioning as an agent engineering framework rather than a simple starter template. The repo is approachable for Node.js teams and is especially relevant if you want strong TypeScript ergonomics with agent building blocks and production-minded release cadence. Last commit date: Mar 21, 2026. Stars count: 7,117. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
++- **Stars:** 7,117 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Mar 21, 2026
++- **Category:** framework, typescript
++- **Best for:** Node and TypeScript teams shipping agent products quickly
++
++---
++
++#### [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
++> **Description:** SuperAGI is one of the earlier open-source agent platforms focused on autonomous task execution, tool usage, and agent management from a unified system. The project remains relevant because it bundles orchestration concepts, UI, and operational ideas that many newer repos still borrow from. Its recent GitHub activity is slower than the fastest-moving projects on this list, so it is better treated as a mature reference implementation than the default first choice for a fresh stack. Last commit date: Jan 22, 2025. Stars count: 17,385. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
++- **Stars:** 17,385 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Jan 22, 2025
++- **Category:** framework, autonomous-agents
++- **Best for:** Exploring a broad autonomous-agent platform with a large community footprint
++
++---
++
++#### [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
++> **Description:** OpenAgentsControl describes itself as an AI agent framework for plan-first development workflows with approval-based execution. The README and recent commits emphasize multi-language support, validation, code review, and predictable execution rather than raw chat UX. That makes it a good fit for engineering-heavy teams that want agents to operate inside explicit workflow steps with governance and testing built in. It is newer and smaller than ADK or VoltAgent, but it is opinionated in a useful way. Last commit date: Feb 20, 2026. Stars count: 3,115. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
++- **Stars:** 3,115 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Feb 20, 2026
++- **Category:** framework, plan-first
++- **Best for:** Approval-based engineering workflows and controlled agent execution
++
++---
++
++### Coding Agents
++
++#### [Open SWE](https://github.com/langchain-ai/open-swe)
++> **Description:** Open SWE is an open-source software engineering agent focused on practical coding workflows such as repository operations, issue handling, PR review tasks, and external work integrations. The commit log shows ongoing additions for GitHub review tooling, Slack support, Linear integration, and model configuration, which aligns with its positioning as an applied dev agent rather than a generic chatbot. It is one of the clearest repos to study if you want an agent that behaves like a software teammate with structured tools. Last commit date: Mar 25, 2026. Stars count: 8,804. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
++- **Stars:** 8,804 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Mar 25, 2026
++- **Category:** coding-agent, software-engineering
++- **Best for:** GitHub-centric engineering automation and issue-to-PR workflows
++
++---
++
++#### [Goose](https://github.com/block/goose)
++> **Description:** Goose is a Rust-based open-source coding agent and assistant with a strong CLI and TUI focus. Its velocity is high, and the recent commit history shows constant refinement to the terminal experience, documentation, and interactive tooling. The repo is attractive if you want a local-first or developer-first agent surface that feels like a real tool rather than a hosted wrapper. Its large community and active maintenance make it one of the safest picks on this list for coding workflows in 2026. Last commit date: Mar 29, 2026. Stars count: 33,737. Primary language: Rust. License type: Apache-2.0.
++
++- **GitHub:** [github.com/block/goose](https://github.com/block/goose)
++- **Stars:** 33,737 ⭐
++- **Language:** Rust
++- **License:** Apache-2.0
++- **Last Commit:** Mar 29, 2026
++- **Category:** coding-agent, cli
++- **Best for:** Developers who want a fast local coding assistant with terminal ergonomics
++
++---
++
++#### [Plandex](https://github.com/plandex-ai/plandex)
++> **Description:** Plandex is built around the idea of handling large software tasks with an AI coding workflow that can manage context, plans, and multi-file changes more deliberately than simple prompt-and-edit loops. The repo has a meaningful community footprint and remains a useful coding-agent reference, even though the latest public commit is older than the fastest-moving projects in this category. It is still a notable open-source option for long-range coding work, especially if you want planning-oriented behavior in a CLI form factor. Last commit date: Oct 3, 2025. Stars count: 15,166. Primary language: Go. License type: MIT.
++
++- **GitHub:** [github.com/plandex-ai/plandex](https://github.com/plandex-ai/plandex)
++- **Stars:** 15,166 ⭐
++- **Language:** Go
++- **License:** MIT
++- **Last Commit:** Oct 3, 2025
++- **Category:** coding-agent, planning
++- **Best for:** Large multi-step coding tasks that need explicit planning
++
++---
++
++#### [Qwen Code](https://github.com/QwenLM/qwen-code)
++> **Description:** Qwen Code is an open-source coding agent CLI from the Qwen ecosystem, designed around code generation, MCP integration, IDE connection, and developer workflows. Recent commits show active work on MCP authentication, IDE connectivity, and CLI error handling, which indicates the project is evolving as a serious coding environment rather than a thin model wrapper. The Apache-2.0 license and strong star growth also make it easy to recommend for developers who want an open repo with active maintenance and visible product direction. Last commit date: Mar 13, 2026. Stars count: 21,266. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
++- **Stars:** 21,266 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Mar 13, 2026
++- **Category:** coding-agent, mcp
++- **Best for:** Developers who want a modern coding CLI with MCP support
++
++---
++
++#### [Gemini CLI](https://github.com/google-gemini/gemini-cli)
++> **Description:** Gemini CLI is a large open-source code assistant project with an active command-line interface, agent-oriented workflows, and remote-agent support visible in the current commit stream. While many users pair it with Gemini models, the repo itself is public, Apache-licensed, and useful as a reference for how a modern AI coding CLI is structured at scale. Because it is one of the fastest-moving repositories in this space, it is especially valuable for studying UX patterns, slash commands, sandbox handling, and agent cards. Last commit date: Mar 25, 2026. Stars count: 99,459. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
++- **Stars:** 99,459 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Mar 25, 2026
++- **Category:** coding-agent, cli
++- **Best for:** Studying or using a large-scale open-source AI developer CLI
++
++---
++
++### Browser And Computer Use
++
++#### [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop)
++> **Description:** UI-TARS Desktop is a major open-source computer-use project focused on GUI agents, browser control, desktop automation, and packaged agent tooling. The repo’s history references agent UI work, browser MCP improvements, viewport handling, and GUI agent automation, which makes it more substantial than a single demo. It is especially relevant for anyone comparing open-source alternatives to commercial computer-use systems and looking for a desktop-first implementation with a large community. Last commit date: Jan 5, 2026. Stars count: 29,159. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
++- **Stars:** 29,159 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Jan 5, 2026
++- **Category:** computer-use, desktop-agent
++- **Best for:** Desktop UI automation and computer-use experiments
++
++---
++
++#### [Browser Agent](https://github.com/magnitudedev/browser-agent)
++> **Description:** Browser Agent focuses on web automation through an agent abstraction that can plan, pause, resume, and execute browser-native tasks. Recent commits highlight token accounting fixes and mid-execution control features, which point to a runtime meant for real automation sessions rather than static demos. This repo is a good middle ground between heavy browser infrastructure and pure research repos, and it is approachable for developers who want agentic browser execution in a TypeScript-friendly stack. Last commit date: Feb 8, 2026. Stars count: 4,007. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent)
++- **Stars:** 4,007 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Feb 8, 2026
++- **Category:** browser-agent, automation
++- **Best for:** Building browser automation flows with agent-style control
++
++---
++
++#### [Steel Browser](https://github.com/steel-dev/steel-browser)
++> **Description:** Steel Browser is an open-source browser automation layer tuned for agents that need robust sessions, browser actions, and performance-oriented execution. The commit stream references search actions, performance optimization, crash handling, timezone management, and file cleanup, suggesting a product that is steadily hardening around agent reliability. It is a useful repo when you need browser primitives that can sit underneath higher-level AI agents, especially for web testing, extraction, or long-running browser sessions. Last commit date: Dec 19, 2025. Stars count: 6,752. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)
++- **Stars:** 6,752 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Dec 19, 2025
++- **Category:** browser-agent, infrastructure
++- **Best for:** Teams that need reliable browser infrastructure under AI agents
++
++---
++
++#### [CUA](https://github.com/trycua/cua)
++> **Description:** CUA is a computer-use agent project with visible support for Android actions, touch input, multitouch gestures, and device-level interaction patterns. The recent commit history is very specific about gesture actions and touch-device fixes, which makes the repo stand out from generic browser automation tools. If you are evaluating open-source alternatives for mobile or desktop interaction automation, CUA is one of the more concrete agent stacks available on GitHub right now. Last commit date: Mar 20, 2026. Stars count: 13,325. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/trycua/cua](https://github.com/trycua/cua)
++- **Stars:** 13,325 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Mar 20, 2026
++- **Category:** computer-use, device-automation
++- **Best for:** Computer-use and mobile interaction automation
++
++---
++
++#### [Browserable](https://github.com/browserable/browserable)
++> **Description:** Browserable is an open-source browser agent project that combines browser control, local-browser workflows, function-calling support, and research-style task execution. The README and commit history point to features like deep research mode, local browser setup, custom functions, and tool support, making it a practical repo for people experimenting with agent-driven web interaction. It is smaller than UI-TARS or CUA, but it is easier to inspect end to end and useful for learning how browser agents are assembled. Last commit date: Aug 27, 2025. Stars count: 1,177. Primary language: JavaScript. License type: MIT.
++
++- **GitHub:** [github.com/browserable/browserable](https://github.com/browserable/browserable)
++- **Stars:** 1,177 ⭐
++- **Language:** JavaScript
++- **License:** MIT
++- **Last Commit:** Aug 27, 2025
++- **Category:** browser-agent, research
++- **Best for:** Developers learning how to wire up a lightweight browser agent
++
++---
++
++### Self-Hosted Assistants
++
++#### [LocalAI](https://github.com/mudler/LocalAI)
++> **Description:** LocalAI is one of the strongest open-source foundations for self-hosted AI agents and local model serving. The project supports running open models locally and now shows explicit agent-related work in its recent commits, including standalone agent run mode and UI updates around model backends and MCP controls. It is broader than an agent framework because it also handles inference infrastructure, but that is exactly why it is valuable: you can self-host the model layer and agent layer together. Last commit date: Mar 18, 2026. Stars count: 44,564. Primary language: Go. License type: MIT.
++
++- **GitHub:** [github.com/mudler/LocalAI](https://github.com/mudler/LocalAI)
++- **Stars:** 44,564 ⭐
++- **Language:** Go
++- **License:** MIT
++- **Last Commit:** Mar 18, 2026
++- **Category:** self-hosted, local-inference
++- **Best for:** Full local AI stacks with self-hosted model and agent capability
++
++---
++
++#### [LibreChat](https://github.com/danny-avila/LibreChat)
++> **Description:** LibreChat is a widely used self-hosted AI chat platform that has expanded well beyond a simple chat UI. Its current commit history includes agent API fixes, search startup fixes, model-loading improvements, and Docker Compose updates, which is consistent with its role as a production-grade self-hosted assistant front end. It is ideal when you want an open-source alternative to hosted chat tools that can integrate multiple models and agent flows while remaining deployable on your own infrastructure. Last commit date: Mar 25, 2026. Stars count: 35,046. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
++- **Stars:** 35,046 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Mar 25, 2026
++- **Category:** self-hosted, chat-ui
++- **Best for:** Self-hosted multi-model chat and agent front ends
++
++---
++
++#### [Khoj](https://github.com/khoj-ai/khoj)
++> **Description:** Khoj is a self-hosted AI assistant centered on personal knowledge, search, memory, and retrieval across your own information. Even from the commit history alone, it is clear the project is active across Android, telemetry, memories, and web app behavior. That makes it more than a note-search app: it is a serious personal assistant layer with self-hosting appeal. It is especially strong for users who want private AI search and memory workflows without giving up ownership of their data. Last commit date: Mar 6, 2026. Stars count: 33,677. Primary language: Python. License type: AGPL-3.0.
++
++- **GitHub:** [github.com/khoj-ai/khoj](https://github.com/khoj-ai/khoj)
++- **Stars:** 33,677 ⭐
++- **Language:** Python
++- **License:** AGPL-3.0
++- **Last Commit:** Mar 6, 2026
++- **Category:** self-hosted, knowledge-assistant
++- **Best for:** Personal knowledge assistants with private search and memory
++
++---
++
++#### [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
++> **Description:** DB-GPT is an open-source AI-native data and database assistant project that blends chat, agents, workflows, and data-system integrations. Its latest commits point to provider integrations and continued documentation work around the current release line, which fits its position as a practical AI application platform rather than a pure library. It is a useful pick if your agent use case centers on structured data, SQL, dashboards, or enterprise knowledge systems tied to databases. Last commit date: Mar 16, 2026. Stars count: 18,391. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
++- **Stars:** 18,391 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Mar 16, 2026
++- **Category:** self-hosted, database-agent
++- **Best for:** Data assistants, SQL-heavy agent apps, and enterprise knowledge workflows
++
++---
++
++#### [DocsGPT](https://github.com/arc53/DocsGPT)
++> **Description:** DocsGPT is an open-source documentation and knowledge assistant aimed at building chat experiences on top of internal docs and structured knowledge sources. The recent commit history references workflow fixes, token calculation, search fixes, and condition-node functionality, which suggests ongoing investment in the product’s workflow layer and retrieval UX. It is particularly compelling for teams that want to ship a self-hosted documentation assistant without building the entire RAG and UI stack from scratch. Last commit date: Feb 22, 2026. Stars count: 17,792. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/arc53/DocsGPT](https://github.com/arc53/DocsGPT)
++- **Stars:** 17,792 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Feb 22, 2026
++- **Category:** self-hosted, docs-assistant
++- **Best for:** Internal documentation chat and self-hosted knowledge assistants
++
++---
++
++### Workflow And Automation
++
++#### [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
++> **Description:** Trigger.dev is a workflow automation platform with strong support for background jobs, developer workflows, and increasingly agent-aware instrumentation. Its recent commits show work on AI prompt management, LLM metrics, MCP server CLI improvements, run annotations, and run-engine behavior. That combination makes it more relevant to AI agents than a generic automation tool. It is a good fit when you need durable execution, scheduling, background jobs, or observability wrapped around agent tasks and AI-heavy pipelines. Last commit date: Mar 23, 2026. Stars count: 14,274. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
++- **Stars:** 14,274 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Mar 23, 2026
++- **Category:** workflow, automation
++- **Best for:** Durable background execution and observability for AI agent jobs
++
++---
++
++#### [AgentSys](https://github.com/agent-sh/agentsys)
++> **Description:** AgentSys is an open-source ecosystem and workflow layer for installing, listing, and managing agents, plugins, commands, and related tooling. The recent commit history shows plugin registry work, granular installation, command help, marketplace alignment, and platform support additions, which gives it a systems-management flavor rather than a single app experience. It is smaller than Trigger.dev or LibreChat, but it is useful if you want an agent operations layer with package-like ergonomics and an expanding plugin model. Last commit date: Mar 1, 2026. Stars count: 672. Primary language: JavaScript. License type: MIT.
++
++- **GitHub:** [github.com/agent-sh/agentsys](https://github.com/agent-sh/agentsys)
++- **Stars:** 672 ⭐
++- **Language:** JavaScript
++- **License:** MIT
++- **Last Commit:** Mar 1, 2026
++- **Category:** workflow, plugin-ecosystem
++- **Best for:** Managing agent plugins, commands, and shared tooling
++
++---
++
++#### [Rowboat](https://github.com/rowboatlabs/rowboat)
++> **Description:** Rowboat positions itself as an open-source AI coworker with memory, and the repository activity backs that up with work across history, knowledge handling, shell execution context, UI, and security fixes. It sits in an interesting middle space between assistant product and workflow platform because it combines memory, interface, and agent execution primitives. If you want a more collaborative assistant feel instead of a pure SDK, Rowboat is one of the better repos to study. Last commit date: Feb 27, 2026. Stars count: 9,334. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
++- **Stars:** 9,334 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Feb 27, 2026
++- **Category:** workflow, coworker
++- **Best for:** AI coworker experiences with memory and collaborative workflows
++
++---
++
++#### [Ghost OS](https://github.com/ghostwright/ghost-os)
++> **Description:** Ghost OS is a workflow-oriented agent project that blends app UX, recipes, self-learning behavior, and a more productized operating model for agents. The commit stream shows active work around recipe schema, verification flows, versioning, and self-learning recipes, which suggests an opinionated automation environment instead of a generic framework. This is a good repo to watch if you care about reusable agent procedures and structured execution flows rather than open-ended conversation only. Last commit date: Mar 16, 2026. Stars count: 1,250. Primary language: Swift. License type: MIT.
++
++- **GitHub:** [github.com/ghostwright/ghost-os](https://github.com/ghostwright/ghost-os)
++- **Stars:** 1,250 ⭐
++- **Language:** Swift
++- **License:** MIT
++- **Last Commit:** Mar 16, 2026
++- **Category:** workflow, agent-os
++- **Best for:** Structured agent recipes and productized automation flows
++
++---
++
++#### [Better Chatbot](https://github.com/cgoinglove/better-chatbot)
++> **Description:** Better Chatbot is a self-hosted, workflow-aware chat application that has evolved toward tool-aware and MCP-aware agent usage. The recent commits include cached MCP tool info, translation support for tool-related components, OAuth and settings fixes, and mobile UX improvements. That gives it relevance as a front-end and workflow shell for open-source agent systems. It is smaller than LibreChat, but it is still a meaningful MIT-licensed option if you want an actively maintained self-hosted chat surface with tool integration. Last commit date: Feb 20, 2026. Stars count: 1,058. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
++- **Stars:** 1,058 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Feb 20, 2026
++- **Category:** workflow, self-hosted-ui
++- **Best for:** Self-hosted agent chat interfaces with MCP-aware workflows
++
++---
++
++## FAQ
++
++### What are the best open source AI agents in 2026?
++The strongest repos in this list for broad use are `google/adk-python`, `VoltAgent/voltagent`, `block/goose`, `langchain-ai/open-swe`, `mudler/LocalAI`, `danny-avila/LibreChat`, and `bytedance/UI-TARS-desktop`. Which one is best depends on whether you want a framework, coding agent, browser agent, or self-hosted assistant.
++
++### Which open source AI agents can I self-host?
++`LocalAI`, `LibreChat`, `Khoj`, `DB-GPT`, `DocsGPT`, `Rowboat`, and `Better Chatbot` are all good self-hosted options in this repo. If local inference matters, `LocalAI` is the most direct starting point.
++
++### What is the best open source AI coding agent on GitHub?
++For coding-specific workflows, `Goose`, `Open SWE`, `Plandex`, `Qwen Code`, and `Gemini CLI` are the most relevant entries here. `Goose` and `Open SWE` are especially strong if you want active maintenance plus practical software-engineering workflows.
++
++### Are there open source browser AI agents with public GitHub repos?
++Yes. `UI-TARS Desktop`, `Browser Agent`, `Steel Browser`, `CUA`, and `Browserable` are all public GitHub repositories focused on browser automation, computer use, or desktop interaction.
++
++### Which open source AI agent frameworks are best for developers?
++If you want SDK-style frameworks, start with `google/adk-python`, `google/adk-go`, `VoltAgent/voltagent`, and `OpenAgentsControl`. These are more suitable for building your own product than installing a finished assistant.
++
++### Why are some popular AI tools missing from this awesome list?
++This repo excludes tools that do not have a public `github.com` repository, tools that are primarily proprietary SaaS without an open-source repo, and repos with weak fit for the AI-agent category. The filter is intentionally conservative.
++
++### Do all categories have deep coverage?
++No. This list has solid coverage for frameworks, coding agents, browser agents, self-hosted assistants, and workflow tools. Narrower niches such as finance-only agents, legal-only agents, or database-only agents still have fewer high-signal, broadly maintained repos and are better treated as subcategories in future updates.
++
++## GitHub Search Queries Used
++
++```bash
++gh search repos "open source ai agents" --stars ">20" --limit 50
++gh search repos "self-hosted ai agents" --stars ">20" --limit 50
++gh search repos "free ai agents github" --stars ">20" --limit 50
++gh search repos "ai agents MIT license" --stars ">20" --limit 50
++gh search repos "ai agents API" --stars ">20" --limit 50
++gh search repos "ai agents database" --stars ">20" --limit 50
++gh search repos "ai agents alternative" --stars ">20" --limit 50
++gh search repos "ai agents workflow automation" --stars ">20" --limit 50
++```
++
++## Contributing
++See [CONTRIBUTING.md](./CONTRIBUTING.md). New submissions must include a public GitHub repository URL, clear open-source licensing, and enough evidence that the repo is genuinely relevant to AI agents.
++
++## License
++MIT License. See [LICENSE](./LICENSE).
+
+diff --git a/CONTRIBUTING.md b/CONTRIBUTING.md
+index e69de29bb2d1d6434b8b29ae775ad8c2e48c5391..2bbc442009771652fca389d0c90faf0c99d7ae82
+--- a/CONTRIBUTING.md
++++ b/CONTRIBUTING.md
+@@ -0,0 +1,65 @@
++# Contributing
++
++Thanks for improving this awesome list.
++
++## Submission Requirements
++
++Every submission must include:
++
++- A public `github.com` repository URL
++- A clear open-source license visible on GitHub
++- A short explanation of why the repo belongs in an AI agents list
++- The primary language
++- The most appropriate category
++
++Submissions will be rejected if they are:
++
++- Proprietary SaaS tools without a public GitHub repository
++- Dead repos with no clear AI-agent relevance
++- Blog posts, landing pages, YouTube videos, or product sites without source code
++- Duplicate entries
++
++## Preferred Format
++
++Use this structure when proposing a new entry:
++
++```md
++#### [Tool Name](https://github.com/username/repo)
++> **Description:** Short summary of what the project does, why it matters, and its license.
++
++- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
++- **Stars:** 1234 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Jan 1, 2026
++- **Category:** framework, self-hosted
++- **Best for:** Brief use case
++```
++
++## Quality Bar
++
++Please keep the list useful:
++
++- Prefer maintained repositories
++- Prefer repos with real documentation and clear positioning
++- Keep descriptions factual and specific
++- Do not submit tools unless the source code is actually on GitHub
++
++## Pull Requests
++
++- Keep PRs focused
++- One category cleanup or a small batch of related additions is preferred
++- If stars, licenses, or activity changed, mention the refresh date in the PR
++
++## Reporting Issues
++
++Open an issue if:
++
++- A repo was archived or removed
++- A license changed
++- A tool is miscategorized
++- A link is broken
++
++## License
++
++By contributing, you agree that your contributions will be licensed under the MIT License used by this repository.
+diff --git a/LICENSE b/LICENSE
+index e69de29bb2d1d6434b8b29ae775ad8c2e48c5391..03a32f12ddab3306f2b0561fd446e4d1a67df5cb
+--- a/LICENSE
++++ b/LICENSE
+@@ -0,0 +1,21 @@
++MIT License
++
++Copyright (c) 2026 GagnDeep
++
++Permission is hereby granted, free of charge, to any person obtaining a copy
++of this software and associated documentation files (the "Software"), to deal
++in the Software without restriction, including without limitation the rights
++to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
++copies of the Software, and to permit persons to whom the Software is
++furnished to do so, subject to the following conditions:
++
++The above copyright notice and this permission notice shall be included in all
++copies or substantial portions of the Software.
++
++THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
++IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
++FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
++AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
++LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
++OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
++SOFTWARE.
+diff --git a/README.md b/README.md
+index e69de29bb2d1d6434b8b29ae775ad8c2e48c5391..5b5e337ceb219d52f9c4822d87580d98cd6305f9
+--- a/README.md
++++ b/README.md
+@@ -0,0 +1,413 @@
++---
++title: "best-open-source-ai-agents-2026"
++description: "Discover the best open source AI agents in 2026, including self-hosted agent frameworks, coding agents, browser agents, and workflow tools on GitHub."
++icon: 📋
++category: AI Agents
++---
++
++# Best Open Source AI Agents 2026
++
++[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
++[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
++![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-open-source-ai-agents-2026?style=social)
++
++> This curated list of the best open source AI agents 2026 highlights serious GitHub projects for building, running, and self-hosting agent systems. It focuses on public repositories only, excludes proprietary SaaS-only products, and surfaces practical tools for agent frameworks, coding agents, browser agents, local assistants, and workflow automation.
++
++## Table of Contents
++- [TL;DR](#tldr)
++- [Why This List](#why-this-list)
++- [Open Source Tools](#open-source-tools)
++- [FAQ](#faq)
++- [Contributing](#contributing)
++- [License](#license)
++
++## TL;DR
++- **Best framework stack:** `google/adk-python`, `google/adk-go`, and `VoltAgent/voltagent` are strong starting points for code-first agent orchestration.
++- **Best coding agents:** `block/goose`, `langchain-ai/open-swe`, `plandex-ai/plandex`, and `QwenLM/qwen-code` are the most useful repos here for software tasks.
++- **Best browser and computer-use tools:** `bytedance/UI-TARS-desktop`, `trycua/cua`, `magnitudedev/browser-agent`, and `steel-dev/steel-browser` cover desktop and web automation well.
++- **Best self-hosted assistants:** `mudler/LocalAI`, `danny-avila/LibreChat`, `khoj-ai/khoj`, `eosphoros-ai/DB-GPT`, and `arc53/DocsGPT` are strong open-source alternatives to hosted AI products.
++- **Best workflow layer:** `triggerdotdev/trigger.dev`, `agent-sh/agentsys`, `rowboatlabs/rowboat`, `ghostwright/ghost-os`, and `cgoinglove/better-chatbot` bring orchestration, UI, and agent operations together.
++
++## Why This List
++The best open source AI agents give you control over code, deployment, data flow, model choice, and extensibility. That matters if you want self-hosted AI agents, auditable workflows, local inference, GitHub-native contribution paths, or infrastructure that can outlive any single vendor.
++
++This list is intentionally strict: every entry has a public `github.com` repository, every repo is open source, and each item includes stars, language, license, and a verified last commit date. Star counts and license metadata come from the research snapshot supplied for March 29, 2026, while last commit dates were checked against GitHub commit history pages during assembly.
++
++## Open Source Tools
++
++### Agent Frameworks
++
++#### [Google ADK Python](https://github.com/google/adk-python)
++> **Description:** The README presents ADK as an open-source, code-first Python framework for building, evaluating, and deploying sophisticated AI agents with flexibility and control. It emphasizes modular multi-agent systems, tool ecosystems, evaluation flows, and deploy-anywhere patterns rather than a no-code wrapper. The project is model-agnostic even though it is optimized for Gemini, and it includes a built-in development UI plus examples for single-agent and multi-agent compositions. Last commit date: Mar 18, 2026. Stars count: 18,653. Primary language: Python. License type: Apache-2.0.
++
++- **GitHub:** [github.com/google/adk-python](https://github.com/google/adk-python)
++- **Stars:** 18,653 ⭐
++- **Language:** Python
++- **License:** Apache-2.0
++- **Last Commit:** Mar 18, 2026
++- **Category:** framework, multi-agent
++- **Best for:** Teams that want a code-first agent SDK with evaluation and deployment support
++
++---
++
++#### [Google ADK Go](https://github.com/google/adk-go)
++> **Description:** ADK Go extends the Agent Development Kit approach into Go for developers who want typed services, agent tooling, and orchestration in a compiled runtime. Its positioning is similar to the Python repo, but the main appeal is integrating agent systems into Go-heavy backends and infrastructure workflows. The commit history shows active work on remote agents, debug telemetry, debug endpoints, and tool confirmation behavior, which makes it useful for production-oriented services rather than demos alone. Last commit date: Mar 3, 2026. Stars count: 7,276. Primary language: Go. License type: Apache-2.0.
++
++- **GitHub:** [github.com/google/adk-go](https://github.com/google/adk-go)
++- **Stars:** 7,276 ⭐
++- **Language:** Go
++- **License:** Apache-2.0
++- **Last Commit:** Mar 3, 2026
++- **Category:** framework, sdk
++- **Best for:** Go teams building agent backends and remote-agent services
++
++---
++
++#### [VoltAgent](https://github.com/VoltAgent/voltagent)
++> **Description:** VoltAgent is a TypeScript agent framework aimed at developers who want a modern runtime for LLM apps, agent flows, tool execution, and observability. Its recent commit history shows active work around prompt context telemetry, versioning, and core prompt handling, which fits its positioning as an agent engineering framework rather than a simple starter template. The repo is approachable for Node.js teams and is especially relevant if you want strong TypeScript ergonomics with agent building blocks and production-minded release cadence. Last commit date: Mar 21, 2026. Stars count: 7,117. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
++- **Stars:** 7,117 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Mar 21, 2026
++- **Category:** framework, typescript
++- **Best for:** Node and TypeScript teams shipping agent products quickly
++
++---
++
++#### [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
++> **Description:** SuperAGI is one of the earlier open-source agent platforms focused on autonomous task execution, tool usage, and agent management from a unified system. The project remains relevant because it bundles orchestration concepts, UI, and operational ideas that many newer repos still borrow from. Its recent GitHub activity is slower than the fastest-moving projects on this list, so it is better treated as a mature reference implementation than the default first choice for a fresh stack. Last commit date: Jan 22, 2025. Stars count: 17,385. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
++- **Stars:** 17,385 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Jan 22, 2025
++- **Category:** framework, autonomous-agents
++- **Best for:** Exploring a broad autonomous-agent platform with a large community footprint
++
++---
++
++#### [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
++> **Description:** OpenAgentsControl describes itself as an AI agent framework for plan-first development workflows with approval-based execution. The README and recent commits emphasize multi-language support, validation, code review, and predictable execution rather than raw chat UX. That makes it a good fit for engineering-heavy teams that want agents to operate inside explicit workflow steps with governance and testing built in. It is newer and smaller than ADK or VoltAgent, but it is opinionated in a useful way. Last commit date: Feb 20, 2026. Stars count: 3,115. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
++- **Stars:** 3,115 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Feb 20, 2026
++- **Category:** framework, plan-first
++- **Best for:** Approval-based engineering workflows and controlled agent execution
++
++---
++
++### Coding Agents
++
++#### [Open SWE](https://github.com/langchain-ai/open-swe)
++> **Description:** Open SWE is an open-source software engineering agent focused on practical coding workflows such as repository operations, issue handling, PR review tasks, and external work integrations. The commit log shows ongoing additions for GitHub review tooling, Slack support, Linear integration, and model configuration, which aligns with its positioning as an applied dev agent rather than a generic chatbot. It is one of the clearest repos to study if you want an agent that behaves like a software teammate with structured tools. Last commit date: Mar 25, 2026. Stars count: 8,804. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
++- **Stars:** 8,804 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Mar 25, 2026
++- **Category:** coding-agent, software-engineering
++- **Best for:** GitHub-centric engineering automation and issue-to-PR workflows
++
++---
++
++#### [Goose](https://github.com/block/goose)
++> **Description:** Goose is a Rust-based open-source coding agent and assistant with a strong CLI and TUI focus. Its velocity is high, and the recent commit history shows constant refinement to the terminal experience, documentation, and interactive tooling. The repo is attractive if you want a local-first or developer-first agent surface that feels like a real tool rather than a hosted wrapper. Its large community and active maintenance make it one of the safest picks on this list for coding workflows in 2026. Last commit date: Mar 29, 2026. Stars count: 33,737. Primary language: Rust. License type: Apache-2.0.
++
++- **GitHub:** [github.com/block/goose](https://github.com/block/goose)
++- **Stars:** 33,737 ⭐
++- **Language:** Rust
++- **License:** Apache-2.0
++- **Last Commit:** Mar 29, 2026
++- **Category:** coding-agent, cli
++- **Best for:** Developers who want a fast local coding assistant with terminal ergonomics
++
++---
++
++#### [Plandex](https://github.com/plandex-ai/plandex)
++> **Description:** Plandex is built around the idea of handling large software tasks with an AI coding workflow that can manage context, plans, and multi-file changes more deliberately than simple prompt-and-edit loops. The repo has a meaningful community footprint and remains a useful coding-agent reference, even though the latest public commit is older than the fastest-moving projects in this category. It is still a notable open-source option for long-range coding work, especially if you want planning-oriented behavior in a CLI form factor. Last commit date: Oct 3, 2025. Stars count: 15,166. Primary language: Go. License type: MIT.
++
++- **GitHub:** [github.com/plandex-ai/plandex](https://github.com/plandex-ai/plandex)
++- **Stars:** 15,166 ⭐
++- **Language:** Go
++- **License:** MIT
++- **Last Commit:** Oct 3, 2025
++- **Category:** coding-agent, planning
++- **Best for:** Large multi-step coding tasks that need explicit planning
++
++---
++
++#### [Qwen Code](https://github.com/QwenLM/qwen-code)
++> **Description:** Qwen Code is an open-source coding agent CLI from the Qwen ecosystem, designed around code generation, MCP integration, IDE connection, and developer workflows. Recent commits show active work on MCP authentication, IDE connectivity, and CLI error handling, which indicates the project is evolving as a serious coding environment rather than a thin model wrapper. The Apache-2.0 license and strong star growth also make it easy to recommend for developers who want an open repo with active maintenance and visible product direction. Last commit date: Mar 13, 2026. Stars count: 21,266. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
++- **Stars:** 21,266 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Mar 13, 2026
++- **Category:** coding-agent, mcp
++- **Best for:** Developers who want a modern coding CLI with MCP support
++
++---
++
++#### [Gemini CLI](https://github.com/google-gemini/gemini-cli)
++> **Description:** Gemini CLI is a large open-source code assistant project with an active command-line interface, agent-oriented workflows, and remote-agent support visible in the current commit stream. While many users pair it with Gemini models, the repo itself is public, Apache-licensed, and useful as a reference for how a modern AI coding CLI is structured at scale. Because it is one of the fastest-moving repositories in this space, it is especially valuable for studying UX patterns, slash commands, sandbox handling, and agent cards. Last commit date: Mar 25, 2026. Stars count: 99,459. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
++- **Stars:** 99,459 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Mar 25, 2026
++- **Category:** coding-agent, cli
++- **Best for:** Studying or using a large-scale open-source AI developer CLI
++
++---
++
++### Browser And Computer Use
++
++#### [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop)
++> **Description:** UI-TARS Desktop is a major open-source computer-use project focused on GUI agents, browser control, desktop automation, and packaged agent tooling. The repo’s history references agent UI work, browser MCP improvements, viewport handling, and GUI agent automation, which makes it more substantial than a single demo. It is especially relevant for anyone comparing open-source alternatives to commercial computer-use systems and looking for a desktop-first implementation with a large community. Last commit date: Jan 5, 2026. Stars count: 29,159. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
++- **Stars:** 29,159 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Jan 5, 2026
++- **Category:** computer-use, desktop-agent
++- **Best for:** Desktop UI automation and computer-use experiments
++
++---
++
++#### [Browser Agent](https://github.com/magnitudedev/browser-agent)
++> **Description:** Browser Agent focuses on web automation through an agent abstraction that can plan, pause, resume, and execute browser-native tasks. Recent commits highlight token accounting fixes and mid-execution control features, which point to a runtime meant for real automation sessions rather than static demos. This repo is a good middle ground between heavy browser infrastructure and pure research repos, and it is approachable for developers who want agentic browser execution in a TypeScript-friendly stack. Last commit date: Feb 8, 2026. Stars count: 4,007. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent)
++- **Stars:** 4,007 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Feb 8, 2026
++- **Category:** browser-agent, automation
++- **Best for:** Building browser automation flows with agent-style control
++
++---
++
++#### [Steel Browser](https://github.com/steel-dev/steel-browser)
++> **Description:** Steel Browser is an open-source browser automation layer tuned for agents that need robust sessions, browser actions, and performance-oriented execution. The commit stream references search actions, performance optimization, crash handling, timezone management, and file cleanup, suggesting a product that is steadily hardening around agent reliability. It is a useful repo when you need browser primitives that can sit underneath higher-level AI agents, especially for web testing, extraction, or long-running browser sessions. Last commit date: Dec 19, 2025. Stars count: 6,752. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)
++- **Stars:** 6,752 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Dec 19, 2025
++- **Category:** browser-agent, infrastructure
++- **Best for:** Teams that need reliable browser infrastructure under AI agents
++
++---
++
++#### [CUA](https://github.com/trycua/cua)
++> **Description:** CUA is a computer-use agent project with visible support for Android actions, touch input, multitouch gestures, and device-level interaction patterns. The recent commit history is very specific about gesture actions and touch-device fixes, which makes the repo stand out from generic browser automation tools. If you are evaluating open-source alternatives for mobile or desktop interaction automation, CUA is one of the more concrete agent stacks available on GitHub right now. Last commit date: Mar 20, 2026. Stars count: 13,325. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/trycua/cua](https://github.com/trycua/cua)
++- **Stars:** 13,325 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Mar 20, 2026
++- **Category:** computer-use, device-automation
++- **Best for:** Computer-use and mobile interaction automation
++
++---
++
++#### [Browserable](https://github.com/browserable/browserable)
++> **Description:** Browserable is an open-source browser agent project that combines browser control, local-browser workflows, function-calling support, and research-style task execution. The README and commit history point to features like deep research mode, local browser setup, custom functions, and tool support, making it a practical repo for people experimenting with agent-driven web interaction. It is smaller than UI-TARS or CUA, but it is easier to inspect end to end and useful for learning how browser agents are assembled. Last commit date: Aug 27, 2025. Stars count: 1,177. Primary language: JavaScript. License type: MIT.
++
++- **GitHub:** [github.com/browserable/browserable](https://github.com/browserable/browserable)
++- **Stars:** 1,177 ⭐
++- **Language:** JavaScript
++- **License:** MIT
++- **Last Commit:** Aug 27, 2025
++- **Category:** browser-agent, research
++- **Best for:** Developers learning how to wire up a lightweight browser agent
++
++---
++
++### Self-Hosted Assistants
++
++#### [LocalAI](https://github.com/mudler/LocalAI)
++> **Description:** LocalAI is one of the strongest open-source foundations for self-hosted AI agents and local model serving. The project supports running open models locally and now shows explicit agent-related work in its recent commits, including standalone agent run mode and UI updates around model backends and MCP controls. It is broader than an agent framework because it also handles inference infrastructure, but that is exactly why it is valuable: you can self-host the model layer and agent layer together. Last commit date: Mar 18, 2026. Stars count: 44,564. Primary language: Go. License type: MIT.
++
++- **GitHub:** [github.com/mudler/LocalAI](https://github.com/mudler/LocalAI)
++- **Stars:** 44,564 ⭐
++- **Language:** Go
++- **License:** MIT
++- **Last Commit:** Mar 18, 2026
++- **Category:** self-hosted, local-inference
++- **Best for:** Full local AI stacks with self-hosted model and agent capability
++
++---
++
++#### [LibreChat](https://github.com/danny-avila/LibreChat)
++> **Description:** LibreChat is a widely used self-hosted AI chat platform that has expanded well beyond a simple chat UI. Its current commit history includes agent API fixes, search startup fixes, model-loading improvements, and Docker Compose updates, which is consistent with its role as a production-grade self-hosted assistant front end. It is ideal when you want an open-source alternative to hosted chat tools that can integrate multiple models and agent flows while remaining deployable on your own infrastructure. Last commit date: Mar 25, 2026. Stars count: 35,046. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
++- **Stars:** 35,046 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Mar 25, 2026
++- **Category:** self-hosted, chat-ui
++- **Best for:** Self-hosted multi-model chat and agent front ends
++
++---
++
++#### [Khoj](https://github.com/khoj-ai/khoj)
++> **Description:** Khoj is a self-hosted AI assistant centered on personal knowledge, search, memory, and retrieval across your own information. Even from the commit history alone, it is clear the project is active across Android, telemetry, memories, and web app behavior. That makes it more than a note-search app: it is a serious personal assistant layer with self-hosting appeal. It is especially strong for users who want private AI search and memory workflows without giving up ownership of their data. Last commit date: Mar 6, 2026. Stars count: 33,677. Primary language: Python. License type: AGPL-3.0.
++
++- **GitHub:** [github.com/khoj-ai/khoj](https://github.com/khoj-ai/khoj)
++- **Stars:** 33,677 ⭐
++- **Language:** Python
++- **License:** AGPL-3.0
++- **Last Commit:** Mar 6, 2026
++- **Category:** self-hosted, knowledge-assistant
++- **Best for:** Personal knowledge assistants with private search and memory
++
++---
++
++#### [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
++> **Description:** DB-GPT is an open-source AI-native data and database assistant project that blends chat, agents, workflows, and data-system integrations. Its latest commits point to provider integrations and continued documentation work around the current release line, which fits its position as a practical AI application platform rather than a pure library. It is a useful pick if your agent use case centers on structured data, SQL, dashboards, or enterprise knowledge systems tied to databases. Last commit date: Mar 16, 2026. Stars count: 18,391. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
++- **Stars:** 18,391 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Mar 16, 2026
++- **Category:** self-hosted, database-agent
++- **Best for:** Data assistants, SQL-heavy agent apps, and enterprise knowledge workflows
++
++---
++
++#### [DocsGPT](https://github.com/arc53/DocsGPT)
++> **Description:** DocsGPT is an open-source documentation and knowledge assistant aimed at building chat experiences on top of internal docs and structured knowledge sources. The recent commit history references workflow fixes, token calculation, search fixes, and condition-node functionality, which suggests ongoing investment in the product’s workflow layer and retrieval UX. It is particularly compelling for teams that want to ship a self-hosted documentation assistant without building the entire RAG and UI stack from scratch. Last commit date: Feb 22, 2026. Stars count: 17,792. Primary language: Python. License type: MIT.
++
++- **GitHub:** [github.com/arc53/DocsGPT](https://github.com/arc53/DocsGPT)
++- **Stars:** 17,792 ⭐
++- **Language:** Python
++- **License:** MIT
++- **Last Commit:** Feb 22, 2026
++- **Category:** self-hosted, docs-assistant
++- **Best for:** Internal documentation chat and self-hosted knowledge assistants
++
++---
++
++### Workflow And Automation
++
++#### [Trigger.dev](https://github.com/triggerdotdev/trigger.dev)
++> **Description:** Trigger.dev is a workflow automation platform with strong support for background jobs, developer workflows, and increasingly agent-aware instrumentation. Its recent commits show work on AI prompt management, LLM metrics, MCP server CLI improvements, run annotations, and run-engine behavior. That combination makes it more relevant to AI agents than a generic automation tool. It is a good fit when you need durable execution, scheduling, background jobs, or observability wrapped around agent tasks and AI-heavy pipelines. Last commit date: Mar 23, 2026. Stars count: 14,274. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
++- **Stars:** 14,274 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Mar 23, 2026
++- **Category:** workflow, automation
++- **Best for:** Durable background execution and observability for AI agent jobs
++
++---
++
++#### [AgentSys](https://github.com/agent-sh/agentsys)
++> **Description:** AgentSys is an open-source ecosystem and workflow layer for installing, listing, and managing agents, plugins, commands, and related tooling. The recent commit history shows plugin registry work, granular installation, command help, marketplace alignment, and platform support additions, which gives it a systems-management flavor rather than a single app experience. It is smaller than Trigger.dev or LibreChat, but it is useful if you want an agent operations layer with package-like ergonomics and an expanding plugin model. Last commit date: Mar 1, 2026. Stars count: 672. Primary language: JavaScript. License type: MIT.
++
++- **GitHub:** [github.com/agent-sh/agentsys](https://github.com/agent-sh/agentsys)
++- **Stars:** 672 ⭐
++- **Language:** JavaScript
++- **License:** MIT
++- **Last Commit:** Mar 1, 2026
++- **Category:** workflow, plugin-ecosystem
++- **Best for:** Managing agent plugins, commands, and shared tooling
++
++---
++
++#### [Rowboat](https://github.com/rowboatlabs/rowboat)
++> **Description:** Rowboat positions itself as an open-source AI coworker with memory, and the repository activity backs that up with work across history, knowledge handling, shell execution context, UI, and security fixes. It sits in an interesting middle space between assistant product and workflow platform because it combines memory, interface, and agent execution primitives. If you want a more collaborative assistant feel instead of a pure SDK, Rowboat is one of the better repos to study. Last commit date: Feb 27, 2026. Stars count: 9,334. Primary language: TypeScript. License type: Apache-2.0.
++
++- **GitHub:** [github.com/rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
++- **Stars:** 9,334 ⭐
++- **Language:** TypeScript
++- **License:** Apache-2.0
++- **Last Commit:** Feb 27, 2026
++- **Category:** workflow, coworker
++- **Best for:** AI coworker experiences with memory and collaborative workflows
++
++---
++
++#### [Ghost OS](https://github.com/ghostwright/ghost-os)
++> **Description:** Ghost OS is a workflow-oriented agent project that blends app UX, recipes, self-learning behavior, and a more productized operating model for agents. The commit stream shows active work around recipe schema, verification flows, versioning, and self-learning recipes, which suggests an opinionated automation environment instead of a generic framework. This is a good repo to watch if you care about reusable agent procedures and structured execution flows rather than open-ended conversation only. Last commit date: Mar 16, 2026. Stars count: 1,250. Primary language: Swift. License type: MIT.
++
++- **GitHub:** [github.com/ghostwright/ghost-os](https://github.com/ghostwright/ghost-os)
++- **Stars:** 1,250 ⭐
++- **Language:** Swift
++- **License:** MIT
++- **Last Commit:** Mar 16, 2026
++- **Category:** workflow, agent-os
++- **Best for:** Structured agent recipes and productized automation flows
++
++---
++
++#### [Better Chatbot](https://github.com/cgoinglove/better-chatbot)
++> **Description:** Better Chatbot is a self-hosted, workflow-aware chat application that has evolved toward tool-aware and MCP-aware agent usage. The recent commits include cached MCP tool info, translation support for tool-related components, OAuth and settings fixes, and mobile UX improvements. That gives it relevance as a front-end and workflow shell for open-source agent systems. It is smaller than LibreChat, but it is still a meaningful MIT-licensed option if you want an actively maintained self-hosted chat surface with tool integration. Last commit date: Feb 20, 2026. Stars count: 1,058. Primary language: TypeScript. License type: MIT.
++
++- **GitHub:** [github.com/cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
++- **Stars:** 1,058 ⭐
++- **Language:** TypeScript
++- **License:** MIT
++- **Last Commit:** Feb 20, 2026
++- **Category:** workflow, self-hosted-ui
++- **Best for:** Self-hosted agent chat interfaces with MCP-aware workflows
++
++---
++
++## FAQ
++
++### What are the best open source AI agents in 2026?
++The strongest repos in this list for broad use are `google/adk-python`, `VoltAgent/voltagent`, `block/goose`, `langchain-ai/open-swe`, `mudler/LocalAI`, `danny-avila/LibreChat`, and `bytedance/UI-TARS-desktop`. Which one is best depends on whether you want a framework, coding agent, browser agent, or self-hosted assistant.
++
++### Which open source AI agents can I self-host?
++`LocalAI`, `LibreChat`, `Khoj`, `DB-GPT`, `DocsGPT`, `Rowboat`, and `Better Chatbot` are all good self-hosted options in this repo. If local inference matters, `LocalAI` is the most direct starting point.
++
++### What is the best open source AI coding agent on GitHub?
++For coding-specific workflows, `Goose`, `Open SWE`, `Plandex`, `Qwen Code`, and `Gemini CLI` are the most relevant entries here. `Goose` and `Open SWE` are especially strong if you want active maintenance plus practical software-engineering workflows.
++
++### Are there open source browser AI agents with public GitHub repos?
++Yes. `UI-TARS Desktop`, `Browser Agent`, `Steel Browser`, `CUA`, and `Browserable` are all public GitHub repositories focused on browser automation, computer use, or desktop interaction.
++
++### Which open source AI agent frameworks are best for developers?
++If you want SDK-style frameworks, start with `google/adk-python`, `google/adk-go`, `VoltAgent/voltagent`, and `OpenAgentsControl`. These are more suitable for building your own product than installing a finished assistant.
++
++### Why are some popular AI tools missing from this awesome list?
++This repo excludes tools that do not have a public `github.com` repository, tools that are primarily proprietary SaaS without an open-source repo, and repos with weak fit for the AI-agent category. The filter is intentionally conservative.
++
++### Do all categories have deep coverage?
++No. This list has solid coverage for frameworks, coding agents, browser agents, self-hosted assistants, and workflow tools. Narrower niches such as finance-only agents, legal-only agents, or database-only agents still have fewer high-signal, broadly maintained repos and are better treated as subcategories in future updates.
++
++## GitHub Search Queries Used
++
++```bash
++gh search repos "open source ai agents" --stars ">20" --limit 50
++gh search repos "self-hosted ai agents" --stars ">20" --limit 50
++gh search repos "free ai agents github" --stars ">20" --limit 50
++gh search repos "ai agents MIT license" --stars ">20" --limit 50
++gh search repos "ai agents API" --stars ">20" --limit 50
++gh search repos "ai agents database" --stars ">20" --limit 50
++gh search repos "ai agents alternative" --stars ">20" --limit 50
++gh search repos "ai agents workflow automation" --stars ">20" --limit 50
++```
++
++## Contributing
++See [CONTRIBUTING.md](./CONTRIBUTING.md). New submissions must include a public GitHub repository URL, clear open-source licensing, and enough evidence that the repo is genuinely relevant to AI agents.
++
++## License
++MIT License. See [LICENSE](./LICENSE).
+
