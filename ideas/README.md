@@ -9,8 +9,8 @@ This folder documents opportunities for new open source projects that would fill
 
 | # | Idea | Status | Tech Stack | Notes |
 |---|------|--------|------------|-------|
-| 1 | **Open Source Developer Portfolio Generator** | [READY] | Next.js / React, SQLite | Massive dev audience, zero credible OSS competition |
-| 2 | **AI Open Workout Generator** | [READY] | Python/FastAPI, LangChain | No credible open source option exists |
+| 1 | **Open Source Developer Portfolio Generator** | [IMPLEMENTED] | Next.js / React, SQLite | ✅ github.com/GagnDeep/developer-portfolio-generator-mvp |
+| 2 | **AI Open Workout Generator** | [IMPLEMENTED] | Python/FastAPI, LangChain | ✅ github.com/GagnDeep/ai-workout-generator-mvp |
 | 3 | **AI Meal Planner API** | [IMPLEMENTED] | Python/FastAPI, SQLite | ✅ github.com/GagnDeep/ai-meal-planner-api-mvp |
 | 4 | **Open Source Gym Management** | [READY] | Node.js, React, PostgreSQL | Most gym SaaS is dated/closed source |
 | 5 | **Self-Hosted Freelancer CRM** | [READY] | PHP/Laravel or Node.js | SuiteCRM/Dolibarr too enterprise for solo |
