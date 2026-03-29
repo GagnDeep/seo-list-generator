@@ -1,0 +1,164 @@
+# CODEX PROMPT: Build SEO-Optimized GitHub Awesome-List Repo
+
+## CONTEXT
+You are building a complete, professional awesome-list repository for GitHub.
+Your output will be pushed to: https://github.com/GagnDeep/awesome-[SLUG]
+
+## TOPIC
+[TOPIC_PLACEHOLDER]
+
+## YOUR DELIVERABLES
+
+### 1. README.md (MAIN CONTENT)
+Create a comprehensive README with this structure:
+
+```markdown
+---
+title: "[TOPIC]"
+description: "[150-160 chars - compelling, keyword-rich for SEO]"
+icon: 📋
+category: [primary-category]
+---
+
+# [H1 - Primary Keyword]
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Stars](https://img.shields.io/github/stars/GagnDeep/awesome-[SLUG]?style=social)
+
+> [Hook sentence - 2-3 sentences, primary keyword in first 100 words]
+
+## Table of Contents
+- [TL;DR](#tldr)
+- [Why This List](#why-this-list)
+- [Tools & Services](#tools--services)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [License](#license)
+
+## TL;DR
+[3-5 bullet points of top recommendations]
+
+## Why This List
+[2-3 paragraphs on why this topic matters now, include primary keyword naturally]
+
+## Tools & Services
+
+### [Category 1]
+
+#### [Tool Name](https://example.com)
+> **Description:** [80-150 words. Cover: what it does, key features, pricing context, what makes it special. Be specific and unique - no generic descriptions.]
+
+- **Category:** [tag1, tag2, tag3]
+- **Pricing:** [Free/Paid/Freemium + starting price]
+- **Best for:** [specific use case]
+
+---
+
+#### [Next Tool...]
+[repeat for 15-30 total items across categories]
+
+### [Category 2]
+[more items...]
+
+## FAQ
+[5-7 questions targeting long-tail keywords]
+
+### What is [primary keyword]?
+[80-150 word answer...]
+
+### How do I choose the right [topic] tool?
+[Answer with comparison criteria...]
+
+### Are there free options?
+[Answer listing free tiers/free tools...]
+
+### How often is this list updated?
+[Answer mentioning active maintenance...]
+
+## Contributing
+Pull requests welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+## License
+MIT © GagnDeep
+```
+
+### 2. LICENSE
+```
+MIT License
+
+Copyright (c) 2026 GagnDeep
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+### 3. CONTRIBUTING.md
+```markdown
+# Contributing to awesome-[SLUG]
+
+Welcome! This list follows the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
+
+## Contribution Guidelines
+
+1. **Search first** - Ensure your suggestion isn't already in the list
+2. **Quality over quantity** - One great tool > ten mediocre ones
+3. **Include all fields** - Name, URL, description (80-150 words), category tags
+4. **Verify URLs** - Only submit working links
+5. **Unique descriptions** - Write original descriptions, don't copy marketing copy
+
+## How to Contribute
+
+1. Fork this repo
+2. Add your item to the appropriate category in README.md
+3. Follow the format: `#### [Tool Name](url)` with description block
+4. Submit a PR with a brief explanation
+
+## Quality Standards
+- Description must be 80-150 words
+- Must have real, working URL
+- Must have category tags
+- Be objective - describe what it does, not just praise
+```
+
+## SEO REQUIREMENTS
+1. **Primary keyword in first 100 words** - This is critical for ranking
+2. **Semantic heading structure** - H1 (title), H2 (categories), H3 (items)
+3. **Long-tail keywords in FAQ** - Target specific search queries
+4. **Unique descriptions** - No copied content, each 80-150 words
+5. **Proper meta description** - 150-160 chars in YAML frontmatter
+
+## CONTENT REQUIREMENTS
+- **15-30 items** total across categories
+- **Every item needs**: Name, URL, 80-150 word description, category tags
+- **Categories**: Group related tools together (e.g., "Text & Writing", "Images", "Code", "Productivity")
+- **Real URLs only** - No dead links
+
+## EXECUTION STEPS
+1. Create README.md with full content
+2. Create LICENSE with MIT license
+3. Create CONTRIBUTING.md
+4. Verify structure: `ls -la`
+5. Verify README: `head -50 README.md`
+6. Report completion with repo URL
+
+## RESEARCH DATA
+Use this for building accurate items:
+[RESEARCH_PLACEHOLDER]
+
+Start now. Create all files in the current directory.
