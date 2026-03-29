@@ -19,6 +19,7 @@ This folder documents opportunities for new open source projects that would fill
 | 8 | **AI Proposal Generator (Self-Hosted)** | [READY] | Python/FastAPI, React | No self-hosted competitor exists |
 | 9 | **AI Nutrition API** | [READY] | Python, FastAPI | Combine OpenFoodFacts with AI |
 | 10 | **Open Source Meal Planner API** | [READY] | Python/FastAPI | Built using OpenFoodFacts |
+| 11 | **AI Teacher Assistant (Self-Hosted)** | [READY] | Python/FastAPI, Ollama, SQLite | No privacy-first open source option for teachers |
 
 ---
 
