@@ -1,4 +1,4 @@
-Build a complete SEO-optimized GitHub awesome-list repository for: "best-open-source-ai-agents-2026"
+Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-lawyers-2026"
 
 ## CRITICAL CONSTRAINTS
 - EVERY tool MUST have a github.com URL
@@ -19,14 +19,14 @@ Create a professional, complete awesome-list repo with:
 - CONTRIBUTING.md
 
 ## REPO STRUCTURE
-Work in this directory: /tmp/awesome-best-open-source-ai-agents-2026-1104991
-The repo name should be: awesome-best-open-source-ai-agents-2026
-GitHub URL will be: https://github.com/GagnDeep/awesome-best-open-source-ai-agents-2026
+Work in this directory: /tmp/awesome-best-ai-tools-for-lawyers-2026-1107219
+The repo name should be: awesome-best-ai-tools-for-lawyers-2026
+GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-lawyers-2026
 
 ## README.md FORMAT (MUST FOLLOW EXACTLY)
 
 ---
-title: "best-open-source-ai-agents-2026"
+title: "best-ai-tools-for-lawyers-2026"
 description: "[150-160 char description for SEO - make it compelling and keyword-rich]"
 icon: 📋
 category: [pick best category]
@@ -36,7 +36,7 @@ category: [pick best category]
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-open-source-ai-agents-2026?style=social)
+![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-lawyers-2026?style=social)
 
 > [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
 
@@ -89,345 +89,50 @@ category: [pick best category]
 ---
 
 ## RESEARCH DATA (use this to build accurate items)
-# GitHub Repository Research for: best-open-source-ai-agents-2026
-Generated: Mon Mar 30 08:28:33 UTC 2026
+# GitHub Repository Research for: best-ai-tools-for-lawyers-2026
+Generated: Mon Mar 30 09:28:01 UTC 2026
 
 ## GitHub Search Commands Used
 
-### Query: open source ai agents stars:>20
+### Query: open source ai tools for lawyers stars:>20
 
-- **[ai](https://github.com/vercel/ai)** (⭐ 23086 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[ten-framework](https://github.com/TEN-framework/ten-framework)** (⭐ 10377 | Python | {"key":"other","name":"Other","url":""})
-- **[airweave](https://github.com/airweave-ai/airweave)** (⭐ 6151 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ottomator-agents](https://github.com/coleam00/ottomator-agents)** (⭐ 5478 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[open-swe](https://github.com/langchain-ai/open-swe)** (⭐ 8834 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** (⭐ 27496 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (⭐ 29163 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[superdesign](https://github.com/superdesigndev/superdesign)** (⭐ 6239 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[gemini-cli](https://github.com/google-gemini/gemini-cli)** (⭐ 99498 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[qwen-code](https://github.com/QwenLM/qwen-code)** (⭐ 21309 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[Adorable](https://github.com/freestyle-sh/Adorable)** (⭐ 696 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[strix](https://github.com/usestrix/strix)** (⭐ 22743 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** (⭐ 18400 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[botpress](https://github.com/botpress/botpress)** (⭐ 14621 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[voltagent](https://github.com/VoltAgent/voltagent)** (⭐ 7108 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[OpenViking](https://github.com/volcengine/OpenViking)** (⭐ 19967 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[ToolJet](https://github.com/ToolJet/ToolJet)** (⭐ 37685 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[speech-to-speech](https://github.com/huggingface/speech-to-speech)** (⭐ 4625 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[rowboat](https://github.com/rowboatlabs/rowboat)** (⭐ 9333 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[GPTeam](https://github.com/101dotxyz/GPTeam)** (⭐ 1718 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[adk-python](https://github.com/google/adk-python)** (⭐ 18659 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[agents](https://github.com/videosdk-live/agents)** (⭐ 606 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[ii-agent](https://github.com/Intelligent-Internet/ii-agent)** (⭐ 3193 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[LocalAI](https://github.com/mudler/LocalAI)** (⭐ 44582 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[plandex](https://github.com/plandex-ai/plandex)** (⭐ 15168 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[E2B](https://github.com/e2b-dev/E2B)** (⭐ 11498 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** (⭐ 17372 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[open-deep-research](https://github.com/nickscamara/open-deep-research)** (⭐ 6204 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[browser-agent](https://github.com/magnitudedev/browser-agent)** (⭐ 4006 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[openakita](https://github.com/openakita/openakita)** (⭐ 1496 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[grok-cli](https://github.com/superagent-ai/grok-cli)** (⭐ 2627 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ui](https://github.com/creativetimofficial/ui)** (⭐ 11785 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[goose](https://github.com/block/goose)** (⭐ 33743 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[intentkit](https://github.com/crestalnetwork/intentkit)** (⭐ 6500 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[lmnr](https://github.com/lmnr-ai/lmnr)** (⭐ 2733 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[cua](https://github.com/trycua/cua)** (⭐ 13327 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agentset](https://github.com/agentset-ai/agentset)** (⭐ 1932 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ZerePy](https://github.com/blorm-network/ZerePy)** (⭐ 583 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)** (⭐ 6511 | Jupyter Notebook | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** (⭐ 1963 |  | {"key":"other","name":"Other","url":""})
-- **[cube](https://github.com/cube-js/cube)** (⭐ 19730 | Rust | {"key":"other","name":"Other","url":""})
-- **[compose-for-agents](https://github.com/docker/compose-for-agents)** (⭐ 893 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)** (⭐ 2109 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[adk-go](https://github.com/google/adk-go)** (⭐ 7290 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[adk-docs](https://github.com/google/adk-docs)** (⭐ 1256 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** (⭐ 133671 |  | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[team-of-ai-agents](https://github.com/l3vels/team-of-ai-agents)** (⭐ 237 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[browserable](https://github.com/browserable/browserable)** (⭐ 1177 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[steel-browser](https://github.com/steel-dev/steel-browser)** (⭐ 6753 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[opensrc](https://github.com/vercel-labs/opensrc)** (⭐ 1219 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-  Found: 50 repos
+  (No results found)
 
-### Query: self-hosted ai agents stars:>20
+### Query: self-hosted ai tools for lawyers stars:>20
 
-- **[MCPJungle](https://github.com/mcpjungle/MCPJungle)** (⭐ 935 | Go | {"key":"mpl-2.0","name":"Mozilla Public License 2.0","url":"https://api.github.com/licenses/mpl-2.0"})
-- **[RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst)** (⭐ 16124 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[intentkit](https://github.com/crestalnetwork/intentkit)** (⭐ 6500 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[browserable](https://github.com/browserable/browserable)** (⭐ 1177 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AI-Voice-Agent](https://github.com/Anil-matcha/AI-Voice-Agent)** (⭐ 129 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[mission-control](https://github.com/builderz-labs/mission-control)** (⭐ 3584 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[bytebot](https://github.com/bytebot-ai/bytebot)** (⭐ 10697 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[weft](https://github.com/jonesphillip/weft)** (⭐ 489 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[BlockAGI](https://github.com/orgexyz/BlockAGI)** (⭐ 320 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** (⭐ 1253 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[perplexideez](https://github.com/brunostjohn/perplexideez)** (⭐ 578 | Svelte | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[baserow](https://github.com/baserow/baserow)** (⭐ 4505 | Python | {"key":"other","name":"Other","url":""})
-- **[khoj](https://github.com/khoj-ai/khoj)** (⭐ 33697 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[LibreChat](https://github.com/danny-avila/LibreChat)** (⭐ 35051 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[opencrabs](https://github.com/adolfousier/opencrabs)** (⭐ 581 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[relaticle](https://github.com/relaticle/relaticle)** (⭐ 1218 | PHP | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[plugNmeet-server](https://github.com/mynaparrot/plugNmeet-server)** (⭐ 443 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ask-search](https://github.com/ythx-101/ask-search)** (⭐ 343 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[skyflo](https://github.com/skyflo-ai/skyflo)** (⭐ 105 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[ToolJet](https://github.com/ToolJet/ToolJet)** (⭐ 37685 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[pocketpaw](https://github.com/pocketpaw/pocketpaw)** (⭐ 735 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[gru](https://github.com/zscole/gru)** (⭐ 217 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agents](https://github.com/inkeep/agents)** (⭐ 1034 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[10x](https://github.com/ntegrals/10x)** (⭐ 1425 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[mission-control](https://github.com/crshdn/mission-control)** (⭐ 1667 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[aegra](https://github.com/ibbybuilds/aegra)** (⭐ 735 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[pentagi](https://github.com/vxcontrol/pentagi)** (⭐ 13896 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agent-ui](https://github.com/agno-agi/agent-ui)** (⭐ 1702 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[compose-for-agents](https://github.com/docker/compose-for-agents)** (⭐ 893 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)** (⭐ 844 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** (⭐ 1155 | Go | {"key":"other","name":"Other","url":""})
-- **[super-agent-party](https://github.com/heshengtao/super-agent-party)** (⭐ 2022 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[Memoh](https://github.com/memohai/Memoh)** (⭐ 1149 | Go | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[server](https://github.com/janhq/server)** (⭐ 44 | Go | {"key":"","name":"","url":""})
-- **[LocalAGI](https://github.com/mudler/LocalAGI)** (⭐ 1693 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[microsandbox](https://github.com/superradcompany/microsandbox)** (⭐ 5188 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[n8n-claw](https://github.com/freddy-schuetz/n8n-claw)** (⭐ 323 | Shell | {"key":"","name":"","url":""})
-- **[petercat](https://github.com/neovateai/petercat)** (⭐ 1493 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[openclaw-n8n-stack](https://github.com/caprihan/openclaw-n8n-stack)** (⭐ 94 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[pinchy](https://github.com/heypinchy/pinchy)** (⭐ 136 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[blink](https://github.com/coder/blink)** (⭐ 137 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)** (⭐ 343 | Rust | {"key":"","name":"","url":""})
-- **[recall](https://github.com/joseairosa/recall)** (⭐ 163 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[GoGogot](https://github.com/aspasskiy/GoGogot)** (⭐ 120 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[CollabAI](https://github.com/sjinnovation/CollabAI)** (⭐ 118 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[shepard-obs-stack](https://github.com/shepard-system/shepard-obs-stack)** (⭐ 66 | Shell | {"key":"other","name":"Other","url":""})
-- **[deadend-cli](https://github.com/xoxruns/deadend-cli)** (⭐ 210 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[lmnr](https://github.com/lmnr-ai/lmnr)** (⭐ 2733 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[owliabot](https://github.com/owliabot/owliabot)** (⭐ 26 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ziya](https://github.com/ziya-ai/ziya)** (⭐ 35 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-  Found: 50 repos
+  (No results found)
 
-### Query: free ai agents github stars:>20
+### Query: free ai tools for lawyers github stars:>20
 
-- **[git-mcp](https://github.com/idosal/git-mcp)** (⭐ 7847 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[open-saas](https://github.com/wasp-lang/open-saas)** (⭐ 13680 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Aim](https://github.com/DickDumBR1/Aim)** (⭐ 21 |  | {"key":"","name":"","url":""})
-  Found: 3 repos
+  (No results found)
 
-### Query: ai agents MIT license stars:>20
+### Query: ai tools for lawyers MIT license stars:>20
 
-- **[ai-safe2-framework](https://github.com/CyberStrategyInstitute/ai-safe2-framework)** (⭐ 77 | HTML | {"key":"other","name":"Other","url":""})
-- **[agentgram](https://github.com/agentgram/agentgram)** (⭐ 21 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Aim](https://github.com/DickDumBR1/Aim)** (⭐ 21 |  | {"key":"","name":"","url":""})
-  Found: 3 repos
+  (No results found)
 
-### Query: ai agents API stars:>20
+### Query: ai tools for lawyers API stars:>20
 
-- **[agentic](https://github.com/transitive-bullshit/agentic)** (⭐ 18130 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[suno-api](https://github.com/gcui-art/suno-api)** (⭐ 2786 | TypeScript | {"key":"lgpl-3.0","name":"GNU Lesser General Public License v3.0","url":"https://api.github.com/licenses/lgpl-3.0"})
-- **[airweave](https://github.com/airweave-ai/airweave)** (⭐ 6151 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[pi-mono](https://github.com/badlogic/pi-mono)** (⭐ 29081 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[DocsGPT](https://github.com/arc53/DocsGPT)** (⭐ 17789 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[klavis](https://github.com/Klavis-AI/klavis)** (⭐ 5686 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[apify-mcp-server](https://github.com/apify/apify-mcp-server)** (⭐ 981 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[LocalAI](https://github.com/mudler/LocalAI)** (⭐ 44582 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agents-from-scratch](https://github.com/pguso/agents-from-scratch)** (⭐ 621 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[call-center-ai](https://github.com/microsoft/call-center-ai)** (⭐ 6425 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[AI-Gateway](https://github.com/Azure-Samples/AI-Gateway)** (⭐ 898 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[laravel-restify](https://github.com/BinarCode/laravel-restify)** (⭐ 652 | PHP | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[steel-browser](https://github.com/steel-dev/steel-browser)** (⭐ 6753 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[agenticSeek](https://github.com/Fosowl/agenticSeek)** (⭐ 25735 | Python | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[R2R](https://github.com/SciPhi-AI/R2R)** (⭐ 7747 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[langgraph-mcp-agents](https://github.com/teddynote-lab/langgraph-mcp-agents)** (⭐ 692 | Python | {"key":"","name":"","url":""})
-- **[bb-browser](https://github.com/epiral/bb-browser)** (⭐ 3264 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Integuru](https://github.com/Integuru-AI/Integuru)** (⭐ 4559 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[mini-agi](https://github.com/muellerberndt/mini-agi)** (⭐ 2904 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[vulcan-sql](https://github.com/Canner/vulcan-sql)** (⭐ 791 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[Fay](https://github.com/xszyou/Fay)** (⭐ 12596 | Python | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[engram](https://github.com/Gentleman-Programming/engram)** (⭐ 2023 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AingDesk](https://github.com/aingdesk/AingDesk)** (⭐ 2478 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[LibreChat](https://github.com/danny-avila/LibreChat)** (⭐ 35051 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agent-protocol](https://github.com/agi-inc/agent-protocol)** (⭐ 1456 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[fantasy](https://github.com/charmbracelet/fantasy)** (⭐ 685 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[onemcp](https://github.com/Gentoro-OneMCP/onemcp)** (⭐ 175 | Java | {"key":"other","name":"Other","url":""})
-- **[notebooklm-py](https://github.com/teng-lin/notebooklm-py)** (⭐ 8222 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[jentic-public-apis](https://github.com/jentic/jentic-public-apis)** (⭐ 222 |  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://api.github.com/licenses/cc0-1.0"})
-- **[api2ai](https://github.com/mquan/api2ai)** (⭐ 186 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** (⭐ 12575 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (⭐ 13427 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[claw-empire](https://github.com/GreenSheep01201/claw-empire)** (⭐ 900 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[langgraphjs-api](https://github.com/langchain-ai/langgraphjs-api)** (⭐ 38 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[iii](https://github.com/iii-hq/iii)** (⭐ 15243 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[Agent-E](https://github.com/EmergenceAI/Agent-E)** (⭐ 1230 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Awesome-AI-Agents](https://github.com/ChatTeach/Awesome-AI-Agents)** (⭐ 77 |  | {"key":"","name":"","url":""})
-- **[ai-trading-agent](https://github.com/hackingthemarkets/ai-trading-agent)** (⭐ 98 | Python | {"key":"","name":"","url":""})
-- **[ruby_llm](https://github.com/crmne/ruby_llm)** (⭐ 3790 | Ruby | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[monoid](https://github.com/munkim/monoid)** (⭐ 51 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[kubeshark](https://github.com/kubeshark/kubeshark)** (⭐ 11841 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[yao](https://github.com/YaoApp/yao)** (⭐ 7521 | Go | {"key":"other","name":"Other","url":""})
-- **[cascadeflow](https://github.com/lemony-ai/cascadeflow)** (⭐ 306 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[maxun](https://github.com/getmaxun/maxun)** (⭐ 15317 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[gateway](https://github.com/centralmind/gateway)** (⭐ 521 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[api2cli](https://github.com/alexknowshtml/api2cli)** (⭐ 417 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[open-agents-builder](https://github.com/CatchTheTornado/open-agents-builder)** (⭐ 161 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[EDDI](https://github.com/labsai/EDDI)** (⭐ 289 | Java | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[super-rag](https://github.com/superagent-ai/super-rag)** (⭐ 389 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)** (⭐ 1577 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-  Found: 50 repos
+  (No results found)
 
-### Query: ai agents database stars:>20
+### Query: ai tools for lawyers database stars:>20
 
-- **[chroma](https://github.com/chroma-core/chroma)** (⭐ 27034 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** (⭐ 18400 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[database-ai-agents](https://github.com/pdichone/database-ai-agents)** (⭐ 46 | Python | {"key":"","name":"","url":""})
-- **[vanna](https://github.com/vanna-ai/vanna)** (⭐ 23158 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[database-skills](https://github.com/planetscale/database-skills)** (⭐ 382 | HTML | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks)** (⭐ 1155 |  | {"key":"","name":"","url":""})
-- **[superduper](https://github.com/superduper-io/superduper)** (⭐ 5265 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[genai-toolbox](https://github.com/googleapis/genai-toolbox)** (⭐ 13577 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[OpenViking](https://github.com/volcengine/OpenViking)** (⭐ 19967 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[gateway](https://github.com/centralmind/gateway)** (⭐ 521 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[DbRheo-CLI](https://github.com/Din829/DbRheo-CLI)** (⭐ 430 | Python | {"key":"","name":"","url":""})
-- **[baserow](https://github.com/baserow/baserow)** (⭐ 4505 | Python | {"key":"other","name":"Other","url":""})
-- **[materialize](https://github.com/MaterializeInc/materialize)** (⭐ 6257 | Rust | {"key":"other","name":"Other","url":""})
-- **[databend](https://github.com/databendlabs/databend)** (⭐ 9216 | Rust | {"key":"other","name":"Other","url":""})
-- **[matrixone](https://github.com/matrixorigin/matrixone)** (⭐ 1878 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[prosecutor-database](https://github.com/billimarie/prosecutor-database)** (⭐ 93 | JavaScript | {"key":"other","name":"Other","url":""})
-- **[oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)** (⭐ 158 | Jupyter Notebook | {"key":"","name":"","url":""})
-- **[SemanticKernel.Agents.DatabaseAgent](https://github.com/kbeaugrand/SemanticKernel.Agents.DatabaseAgent)** (⭐ 40 | C# | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[vulcan-sql](https://github.com/Canner/vulcan-sql)** (⭐ 791 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[cymbal-air-toolbox-demo](https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo)** (⭐ 319 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[llamafarm](https://github.com/llama-farm/llamafarm)** (⭐ 830 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[Memoria](https://github.com/matrixorigin/Memoria)** (⭐ 167 | Rust | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[temporal-ai-agent-pipeline](https://github.com/FareedKhan-dev/temporal-ai-agent-pipeline)** (⭐ 88 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[dbhub](https://github.com/bytebase/dbhub)** (⭐ 2448 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[langgraph-agent-openwebui-demo](https://github.com/casedone/langgraph-agent-openwebui-demo)** (⭐ 39 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[statespace](https://github.com/statespace-tech/statespace)** (⭐ 846 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[VenusFactory2](https://github.com/ai4protein/VenusFactory2)** (⭐ 213 | Python | {"key":"other","name":"Other","url":""})
-- **[DataGPT](https://github.com/digai-co/DataGPT)** (⭐ 81 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[convexskills](https://github.com/waynesutton/convexskills)** (⭐ 386 | JavaScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[yargi-cli](https://github.com/saidsurucu/yargi-cli)** (⭐ 135 | TypeScript | {"key":"","name":"","url":""})
-- **[OpenConstructionEstimate-DDC-CWICR](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR)** (⭐ 114 | HTML | {"key":"other","name":"Other","url":""})
-- **[sql-ai-agents](https://github.com/denniszielke/sql-ai-agents)** (⭐ 29 | TSQL | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)** (⭐ 3908 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** (⭐ 48 |  | {"key":"other","name":"Other","url":""})
-- **[agency-agents](https://github.com/nacerallahchemssy/agency-agents)** (⭐ 34 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[pixelbot](https://github.com/pixeltable/pixelbot)** (⭐ 80 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[nl2sql-agent](https://github.com/cmcouto-silva/nl2sql-agent)** (⭐ 44 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[altinity-mcp](https://github.com/Altinity/altinity-mcp)** (⭐ 24 | Go | {"key":"","name":"","url":""})
-- **[agentdepot-agents](https://github.com/biagruot/agentdepot-agents)** (⭐ 24 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[qyp-mini](https://github.com/ElKornacio/qyp-mini)** (⭐ 21 | PLpgSQL | {"key":"","name":"","url":""})
-- **[kakaocli](https://github.com/silver-flight-group/kakaocli)** (⭐ 21 | Swift | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[modelence](https://github.com/modelence/modelence)** (⭐ 383 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[launch-rag](https://github.com/ShenSeanChen/launch-rag)** (⭐ 44 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[database-agent](https://github.com/jasonmccallister/database-agent)** (⭐ 22 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[m4](https://github.com/hannesill/m4)** (⭐ 25 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[openchatbi](https://github.com/zhongyu09/openchatbi)** (⭐ 540 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[systemprompt-mcp-notion](https://github.com/Ejb503/systemprompt-mcp-notion)** (⭐ 27 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[hyperterse](https://github.com/hyperterse/hyperterse)** (⭐ 80 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[branchbox](https://github.com/branchbox/branchbox)** (⭐ 65 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[mem0-mcp](https://github.com/pinkpixel-dev/mem0-mcp)** (⭐ 90 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-  Found: 50 repos
+  (No results found)
 
-### Query: ai agents alternative stars:>20
+### Query: ai tools for lawyers alternative stars:>20
 
-- **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** (⭐ 28228 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[SurfSense](https://github.com/MODSetter/SurfSense)** (⭐ 13592 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** (⭐ 12575 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[baserow](https://github.com/baserow/baserow)** (⭐ 4505 | Python | {"key":"other","name":"Other","url":""})
-- **[AIPex](https://github.com/AIPexStudio/AIPex)** (⭐ 1124 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[lemonai](https://github.com/hexdocom/lemonai)** (⭐ 1489 | JavaScript | {"key":"other","name":"Other","url":""})
-- **[qrev](https://github.com/qrev-ai/qrev)** (⭐ 362 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[local-manus](https://github.com/11cafe/local-manus)** (⭐ 121 | TypeScript | {"key":"","name":"","url":""})
-- **[YC-Killer](https://github.com/sahibzada-allahyar/YC-Killer)** (⭐ 2676 | TypeScript | {"key":"","name":"","url":""})
-- **[aegra](https://github.com/ibbybuilds/aegra)** (⭐ 735 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[agentic-flow](https://github.com/ruvnet/agentic-flow)** (⭐ 586 | TypeScript | {"key":"","name":"","url":""})
-- **[browser-operator-core](https://github.com/BrowserOperator/browser-operator-core)** (⭐ 471 | TypeScript | {"key":"bsd-3-clause","name":"BSD 3-Clause \"New\" or \"Revised\" License","url":"https://api.github.com/licenses/bsd-3-clause"})
-- **[ai-orchestra](https://github.com/langtail/ai-orchestra)** (⭐ 80 | TypeScript | {"key":"","name":"","url":""})
-- **[poco-claw](https://github.com/poco-ai/poco-claw)** (⭐ 1232 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[tiledesk-dashboard](https://github.com/Tiledesk/tiledesk-dashboard)** (⭐ 311 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[GoGogot](https://github.com/aspasskiy/GoGogot)** (⭐ 120 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[openpencil](https://github.com/ZSeven-W/openpencil)** (⭐ 1878 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Canopy](https://github.com/kwalus/Canopy)** (⭐ 264 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[hookdeck-cli](https://github.com/hookdeck/hookdeck-cli)** (⭐ 352 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[RepoMaster](https://github.com/QuantaAlpha/RepoMaster)** (⭐ 514 | Python | {"key":"","name":"","url":""})
-- **[ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android)** (⭐ 262 |  | {"key":"","name":"","url":""})
-- **[snow-flow](https://github.com/groeimetai/snow-flow)** (⭐ 57 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[dora](https://github.com/butttons/dora)** (⭐ 98 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[openlegion](https://github.com/openlegion-ai/openlegion)** (⭐ 81 | Python | {"key":"other","name":"Other","url":""})
-- **[OpenCMO](https://github.com/study8677/OpenCMO)** (⭐ 25 | Python | {"key":"","name":"","url":""})
-- **[open-agent-sdk](https://github.com/OasAIStudio/open-agent-sdk)** (⭐ 38 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[allama](https://github.com/digitranslab/allama)** (⭐ 90 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[openbrowser](https://github.com/OpenBrowserAI/openbrowser)** (⭐ 43 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[coworker](https://github.com/Array-Ventures/coworker)** (⭐ 22 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[OSA](https://github.com/Miosa-osa/OSA)** (⭐ 25 | Elixir | {"key":"other","name":"Other","url":""})
-- **[NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android)** (⭐ 26 |  | {"key":"","name":"","url":""})
-- **[agent-readiness](https://github.com/kodustech/agent-readiness)** (⭐ 29 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[zapcode](https://github.com/TheUncharted/zapcode)** (⭐ 49 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[bloom](https://github.com/video-db/bloom)** (⭐ 23 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[nohrs](https://github.com/noh-rs/nohrs)** (⭐ 103 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[OpenWebResearcher](https://github.com/BlackTechX011/OpenWebResearcher)** (⭐ 21 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[instinct.cpp](https://github.com/RobinQu/instinct.cpp)** (⭐ 58 | C++ | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[open-agentkit](https://github.com/01-ai/open-agentkit)** (⭐ 21 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[sila](https://github.com/silaorg/sila)** (⭐ 21 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Jiva](https://github.com/KarmaloopAI/Jiva)** (⭐ 22 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[viraloop](https://github.com/mutonby/viraloop)** (⭐ 38 | JavaScript | {"key":"","name":"","url":""})
-  Found: 41 repos
+  (No results found)
 
-### Query: ai agents workflow automation stars:>20
+### Query: ai tools for lawyers workflow automation stars:>20
 
-- **[activepieces](https://github.com/activepieces/activepieces)** (⭐ 21481 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)** (⭐ 1074 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[dify](https://github.com/langgenius/dify)** (⭐ 134965 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[trigger.dev](https://github.com/triggerdotdev/trigger.dev)** (⭐ 14281 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)** (⭐ 1413 |  | {"key":"","name":"","url":""})
-- **[patchwork](https://github.com/patched-codes/patchwork)** (⭐ 1548 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)** (⭐ 2756 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** (⭐ 3110 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** (⭐ 20696 |  | {"key":"other","name":"Other","url":""})
-- **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** (⭐ 12575 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)** (⭐ 2409 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[lamda](https://github.com/firerpa/lamda)** (⭐ 7698 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[waoowaoo](https://github.com/saturndec/waoowaoo)** (⭐ 10616 | TypeScript | {"key":"","name":"","url":""})
-- **[ghost-os](https://github.com/ghostwright/ghost-os)** (⭐ 1249 | Swift | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Church-Admin-AgenticWorkflow](https://github.com/idoforgod/Church-Admin-AgenticWorkflow)** (⭐ 38 | Python | {"key":"other","name":"Other","url":""})
-- **[neuron-ai](https://github.com/neuron-core/neuron-ai)** (⭐ 1806 | PHP | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[claude-code-workflows](https://github.com/shinpr/claude-code-workflows)** (⭐ 261 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[SaaS-AgenticWorkflow](https://github.com/idoforgod/SaaS-AgenticWorkflow)** (⭐ 31 | Python | {"key":"other","name":"Other","url":""})
-- **[better-chatbot](https://github.com/cgoinglove/better-chatbot)** (⭐ 1058 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agent-toolkit](https://github.com/softaworks/agent-toolkit)** (⭐ 1278 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[nodetool](https://github.com/nodetool-ai/nodetool)** (⭐ 298 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)** (⭐ 776 | Python | {"key":"other","name":"Other","url":""})
-- **[bytechef](https://github.com/bytechefhq/bytechef)** (⭐ 741 | Java | {"key":"other","name":"Other","url":""})
-- **[N8N-AI-Agents-Masterclass](https://github.com/ChinmayKaitade/N8N-AI-Agents-Masterclass)** (⭐ 58 | HTML | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[pipelex](https://github.com/Pipelex/pipelex)** (⭐ 639 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agentsys](https://github.com/agent-sh/agentsys)** (⭐ 673 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[lionagi](https://github.com/khive-ai/lionagi)** (⭐ 385 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents)** (⭐ 703 | Python | {"key":"","name":"","url":""})
-- **[ai-agent-automation](https://github.com/vmDeshpande/ai-agent-automation)** (⭐ 123 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[n8n_agent](https://github.com/kingler/n8n_agent)** (⭐ 235 | JavaScript | {"key":"","name":"","url":""})
-- **[ai-automation-jsons](https://github.com/simealdana/ai-automation-jsons)** (⭐ 35 |  | {"key":"","name":"","url":""})
-- **[GlobalNews-Crawling-AgenticWorkflow](https://github.com/idoforgod/GlobalNews-Crawling-AgenticWorkflow)** (⭐ 26 | Python | {"key":"other","name":"Other","url":""})
-- **[manifold](https://github.com/intelligencedev/manifold)** (⭐ 486 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[End-to-End-Agentic-Ai-Automation-Lab](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab)** (⭐ 53 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[TRAE-Agents](https://github.com/HighMark-31/TRAE-Agents)** (⭐ 119 |  | {"key":"other","name":"Other","url":""})
-- **[openclaw-n8n-stack](https://github.com/caprihan/openclaw-n8n-stack)** (⭐ 94 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[multi-agent-squad](https://github.com/bijutharakan/multi-agent-squad)** (⭐ 81 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[n8n-automation-2025-AI-Agent-Suite](https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite)** (⭐ 35 | Python | {"key":"","name":"","url":""})
-- **[EVA](https://github.com/ARCANGEL0/EVA)** (⭐ 395 | Python | {"key":"","name":"","url":""})
-- **[claude-forge](https://github.com/sangrokjung/claude-forge)** (⭐ 621 | Shell | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[agentic-signal](https://github.com/code-forge-temple/agentic-signal)** (⭐ 144 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[flow-like](https://github.com/TM9657/flow-like)** (⭐ 618 | Rust | {"key":"other","name":"Other","url":""})
-- **[CrewAI-Agentic-Jira](https://github.com/rosidotidev/CrewAI-Agentic-Jira)** (⭐ 22 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[swarm](https://github.com/parruda/swarm)** (⭐ 1688 | Ruby | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[jat](https://github.com/joewinke/jat)** (⭐ 187 | Svelte | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[project-nova](https://github.com/dujonwalker/project-nova)** (⭐ 257 | Shell | {"key":"","name":"","url":""})
-- **[binex](https://github.com/Alexli18/binex)** (⭐ 54 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[manusmcp](https://github.com/mantrakp04/manusmcp)** (⭐ 93 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[n8n-nodes-ai-agent-langfuse](https://github.com/rorubyy/n8n-nodes-ai-agent-langfuse)** (⭐ 27 | TypeScript | {"key":"","name":"","url":""})
-- **[kaggle-Agent](https://github.com/MSNP1381/kaggle-Agent)** (⭐ 78 | Python | {"key":"","name":"","url":""})
-  Found: 50 repos
+  (No results found)
 
 ## Web Search Results
 
 ## Gap Analysis
 
 Categories with fewer than 5 tools represent opportunities:
+
+WARNING: Low repo count for topic 'best-ai-tools-for-lawyers-2026'. Consider broadening search.
 
 ## REQUIREMENTS
 1. EVERY tool MUST have a github.com URL (no exceptions)

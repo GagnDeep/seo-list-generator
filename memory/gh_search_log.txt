@@ -716,3 +716,27 @@
 2026-03-30_08:28:43 | ai agents database stars:>20 | 206
 2026-03-30_08:28:45 | ai agents alternative stars:>20 | 247
 2026-03-30_08:28:47 | ai agents workflow automation stars:>20 | 297
+2026-03-30_09:17:59 | open source ai tools for restaurants stars:>20 | 0
+2026-03-30_09:18:00 | self-hosted ai tools for restaurants stars:>20 | 0
+2026-03-30_09:18:00 | free ai tools for restaurants github stars:>20 | 0
+2026-03-30_09:18:01 | ai tools for restaurants MIT license stars:>20 | 0
+2026-03-30_09:18:02 | ai tools for restaurants API stars:>20 | 4
+2026-03-30_09:18:02 | ai tools for restaurants database stars:>20 | 4
+2026-03-30_09:18:03 | ai tools for restaurants alternative stars:>20 | 4
+2026-03-30_09:18:03 | ai tools for restaurants workflow automation stars:>20 | 4
+2026-03-30_09:25:53 | open source ai tools for teachers stars:>20 | 0
+2026-03-30_09:25:53 | self-hosted ai tools for teachers stars:>20 | 0
+2026-03-30_09:25:54 | free ai tools for teachers github stars:>20 | 0
+2026-03-30_09:25:54 | ai tools for teachers MIT license stars:>20 | 0
+2026-03-30_09:25:55 | ai tools for teachers API stars:>20 | 8
+2026-03-30_09:25:56 | ai tools for teachers database stars:>20 | 8
+2026-03-30_09:25:56 | ai tools for teachers alternative stars:>20 | 8
+2026-03-30_09:25:57 | ai tools for teachers workflow automation stars:>20 | 8
+2026-03-30_09:28:02 | open source ai tools for lawyers stars:>20 | 0
+2026-03-30_09:28:02 | self-hosted ai tools for lawyers stars:>20 | 0
+2026-03-30_09:28:03 | free ai tools for lawyers github stars:>20 | 0
+2026-03-30_09:28:03 | ai tools for lawyers MIT license stars:>20 | 0
+2026-03-30_09:28:04 | ai tools for lawyers API stars:>20 | 0
+2026-03-30_09:28:04 | ai tools for lawyers database stars:>20 | 0
+2026-03-30_09:28:04 | ai tools for lawyers alternative stars:>20 | 0
+2026-03-30_09:28:05 | ai tools for lawyers workflow automation stars:>20 | 0
