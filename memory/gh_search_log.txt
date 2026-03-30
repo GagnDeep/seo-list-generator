@@ -524,3 +524,11 @@
 2026-03-29_23:34:59 | ai tools for small businesses database stars:>20 | 0
 2026-03-29_23:35:00 | ai tools for small businesses alternative stars:>20 | 0
 2026-03-29_23:35:00 | ai tools for small businesses workflow automation stars:>20 | 0
+2026-03-30_01:18:51 | open source ai tools for lawyers stars:>20 | 0
+2026-03-30_01:18:52 | self-hosted ai tools for lawyers stars:>20 | 0
+2026-03-30_01:18:52 | free ai tools for lawyers github stars:>20 | 0
+2026-03-30_01:18:53 | ai tools for lawyers MIT license stars:>20 | 0
+2026-03-30_01:18:53 | ai tools for lawyers API stars:>20 | 0
+2026-03-30_01:18:54 | ai tools for lawyers database stars:>20 | 0
+2026-03-30_01:18:54 | ai tools for lawyers alternative stars:>20 | 0
+2026-03-30_01:18:55 | ai tools for lawyers workflow automation stars:>20 | 0

@@ -30,3 +30,6 @@ Every project has environment variables and every project has "undefined ENV_VAR
 
 ## Category
 Library
+
+## Status
+[DONE]
