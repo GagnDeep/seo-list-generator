@@ -532,3 +532,35 @@
 2026-03-30_01:18:54 | ai tools for lawyers database stars:>20 | 0
 2026-03-30_01:18:54 | ai tools for lawyers alternative stars:>20 | 0
 2026-03-30_01:18:55 | ai tools for lawyers workflow automation stars:>20 | 0
+2026-03-30_02:29:37 | open source ai tools for lawyers stars:>20 | 0
+2026-03-30_02:29:38 | self-hosted ai tools for lawyers stars:>20 | 0
+2026-03-30_02:29:38 | free ai tools for lawyers github stars:>20 | 0
+2026-03-30_02:29:39 | ai tools for lawyers MIT license stars:>20 | 0
+2026-03-30_02:29:39 | ai tools for lawyers API stars:>20 | 0
+2026-03-30_02:29:39 | ai tools for lawyers database stars:>20 | 0
+2026-03-30_02:29:40 | ai tools for lawyers alternative stars:>20 | 0
+2026-03-30_02:29:41 | ai tools for lawyers workflow automation stars:>20 | 0
+2026-03-30_02:33:41 | open source ai tools for small businesses stars:>20 | 0
+2026-03-30_02:33:42 | self-hosted ai tools for small businesses stars:>20 | 0
+2026-03-30_02:33:42 | free ai tools for small businesses github stars:>20 | 0
+2026-03-30_02:33:42 | ai tools for small businesses MIT license stars:>20 | 0
+2026-03-30_02:33:43 | ai tools for small businesses API stars:>20 | 0
+2026-03-30_02:33:43 | ai tools for small businesses database stars:>20 | 0
+2026-03-30_02:33:44 | ai tools for small businesses alternative stars:>20 | 0
+2026-03-30_02:33:44 | ai tools for small businesses workflow automation stars:>20 | 0
+2026-03-30_02:36:51 | open source ai tools for small businesses stars:>20 | 0
+2026-03-30_02:36:52 | self-hosted ai tools for small businesses stars:>20 | 0
+2026-03-30_02:36:52 | free ai tools for small businesses github stars:>20 | 0
+2026-03-30_02:36:53 | ai tools for small businesses MIT license stars:>20 | 0
+2026-03-30_02:36:53 | ai tools for small businesses API stars:>20 | 0
+2026-03-30_02:36:54 | ai tools for small businesses database stars:>20 | 0
+2026-03-30_02:36:54 | ai tools for small businesses alternative stars:>20 | 0
+2026-03-30_02:36:54 | ai tools for small businesses workflow automation stars:>20 | 0
+2026-03-30_02:42:50 | open source ai tools for restaurants stars:>20 | 0
+2026-03-30_02:42:51 | self-hosted ai tools for restaurants stars:>20 | 0
+2026-03-30_02:42:52 | free ai tools for restaurants github stars:>20 | 0
+2026-03-30_02:42:52 | ai tools for restaurants MIT license stars:>20 | 0
+2026-03-30_02:42:53 | ai tools for restaurants API stars:>20 | 4
+2026-03-30_02:42:53 | ai tools for restaurants database stars:>20 | 4
+2026-03-30_02:42:54 | ai tools for restaurants alternative stars:>20 | 4
+2026-03-30_02:42:54 | ai tools for restaurants workflow automation stars:>20 | 4

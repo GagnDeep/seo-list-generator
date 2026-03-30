@@ -1,3 +1,15 @@
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1090597
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /root/.codex/memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019d3c97-0aad-7071-a923-d2073a79cdb6
+--------
+user
 Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-small-businesses-2026"
 
 ## CRITICAL CONSTRAINTS
@@ -19,7 +31,7 @@ Create a professional, complete awesome-list repo with:
 - CONTRIBUTING.md
 
 ## REPO STRUCTURE
-Work in this directory: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1091162
+Work in this directory: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1090597
 The repo name should be: awesome-best-ai-tools-for-small-businesses-2026
 GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026
 
@@ -90,7 +102,7 @@ category: [pick best category]
 
 ## RESEARCH DATA (use this to build accurate items)
 # GitHub Repository Research for: best-ai-tools-for-small-businesses-2026
-Generated: Mon Mar 30 02:36:51 UTC 2026
+Generated: Mon Mar 30 02:33:41 UTC 2026
 
 ## GitHub Search Commands Used
 
@@ -155,3 +167,69 @@ Run: ls -la
 Run: wc -l README.md
 Count the tools in your README and verify you have 25+ entries
 Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please install bubblewrap with your package manager. Codex will use the vendored bubblewrap in the meantime.
+codex
+I’m building the repository from scratch in this workspace. I’ll first inspect the current files, then gather and verify a set of GitHub-hosted open source AI tools with current repo metadata before writing `README.md`, `LICENSE`, and `CONTRIBUTING.md`.
+exec
+/bin/bash -lc pwd in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1090597
+exec
+/bin/bash -lc 'ls -la' in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1090597
+ succeeded in 0ms:
+/tmp/awesome-best-ai-tools-for-small-businesses-2026-1090597
+
+ succeeded in 0ms:
+total 20
+drwxr-xr-x   3 root root  4096 Mar 30 02:33 .
+drwxrwxrwt 108 root root 12288 Mar 30 02:33 ..
+drwxr-xr-x   7 root root  4096 Mar 30 02:33 .git
+-rw-r--r--   1 root root     0 Mar 30 02:33 CONTRIBUTING.md
+-rw-r--r--   1 root root     0 Mar 30 02:33 LICENSE
+-rw-r--r--   1 root root     0 Mar 30 02:33 README.md
+
+web search: 
+web search: site:github.com AI customer support open source GitHub repository self-hosted
+web search: 
+web search: 
+web search: 
+web search: 'Stars' in https://github.com/chatwoot/chatwoot
+web search: 
+web search: https://github.com/chatwoot/chatwoot
+web search: 
+web search: site:github.com/chatwoot/chatwoot GitHub chatwoot
+web search: 
+web search: site:github.com/TwentyHQ/twenty GitHub TwentyHQ/twenty
+web search: 
+web search: site:github.com/AnythingLLM/AnythingLLM GitHub AnythingLLM
+web search: 
+web search: site:github.com Mintplex-Labs/anything-llm GitHub anything-llm
+web search: 
+web search: site:github.com/crewAIInc/crewAI GitHub crewAIInc/crewAI
+web search: 
+web search: site:github.com/crewAIInc/crewAI GitHub - crewAIInc/crewAI
+web search: 
+web search: site:github.com/mem0ai/mem0 GitHub mem0ai/mem0
+web search: 
+web search: site:github.com/mindsdb/mindsdb GitHub - mindsdb/mindsdb
+web search: 
+web search: site:github.com/mindsdb GitHub mindsdb organization mindsdb past year commit activity
+web search: 
+web search: site:github.com/Dataherald/dataherald GitHub Dataherald/dataherald
+web search: 
+web search: site:github.com/lobehub/lobe-chat GitHub lobehub/lobe-chat
+web search: 
+web search: site:github.com/Hexastack GitHub Hexastack organization Hexabot updated
+web search: 
+web search: site:github.com/tiledesk/tiledesk GitHub tiledesk/tiledesk
+web search: 
+web search: 'License' in https://github.com/BerriAI/litellm
+web search: 
+web search: site:github.com/danny-avila/LibreChat GitHub - danny-avila/LibreChat MIT
+web search: 
+web search: site:github.com/ggerganov/whisper.cpp GitHub whisper.cpp
+web search: 
+web search: site:github.com ggerganov whisper.cpp GitHub repository
+web search: 
+web search: site:github.com/mindsdb/mindsdb GitHub - mindsdb/mindsdb
+web search: 
+web search: 'espocrm’s past year of commit activity' in https://github.com/espocrm
