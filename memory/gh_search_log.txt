@@ -860,3 +860,11 @@
 2026-03-30_20:18:45 | ai tools for small businesses database | 0
 2026-03-30_20:18:48 | ai tools for small businesses alternative | 0
 2026-03-30_20:18:50 | ai tools for small businesses workflow automation | 0
+2026-03-30_21:15:19 | open source ai tools for small businesses | 0
+2026-03-30_21:15:22 | self-hosted ai tools for small businesses | 0
+2026-03-30_21:15:24 | free ai tools for small businesses github | 0
+2026-03-30_21:15:27 | ai tools for small businesses MIT license | 0
+2026-03-30_21:15:29 | ai tools for small businesses API | 0
+2026-03-30_21:15:32 | ai tools for small businesses database | 0
+2026-03-30_21:15:34 | ai tools for small businesses alternative | 0
+2026-03-30_21:15:36 | ai tools for small businesses workflow automation | 0
