@@ -812,3 +812,19 @@
 2026-03-30_15:13:55 | ai tools for accountants database | 0
 2026-03-30_15:13:57 | ai tools for accountants alternative | 0
 2026-03-30_15:14:00 | ai tools for accountants workflow automation | 0
+2026-03-30_16:25:56 | open source ai tools for restaurants | 0
+2026-03-30_16:25:59 | self-hosted ai tools for restaurants | 0
+2026-03-30_16:26:01 | free ai tools for restaurants github | 0
+2026-03-30_16:26:04 | ai tools for restaurants MIT license | 0
+2026-03-30_16:26:07 | ai tools for restaurants API | 0
+2026-03-30_16:26:09 | ai tools for restaurants database | 0
+2026-03-30_16:26:12 | ai tools for restaurants alternative | 0
+2026-03-30_16:26:14 | ai tools for restaurants workflow automation | 0
+2026-03-30_16:33:53 | open source ai tools for healthcare | 0
+2026-03-30_16:33:56 | self-hosted ai tools for healthcare | 0
+2026-03-30_16:33:58 | free ai tools for healthcare github | 0
+2026-03-30_16:34:01 | ai tools for healthcare MIT license | 0
+2026-03-30_16:34:03 | ai tools for healthcare API | 0
+2026-03-30_16:34:06 | ai tools for healthcare database | 0
+2026-03-30_16:34:08 | ai tools for healthcare alternative | 0
+2026-03-30_16:34:11 | ai tools for healthcare workflow automation | 0
