@@ -740,3 +740,35 @@
 2026-03-30_09:28:04 | ai tools for lawyers database stars:>20 | 0
 2026-03-30_09:28:04 | ai tools for lawyers alternative stars:>20 | 0
 2026-03-30_09:28:05 | ai tools for lawyers workflow automation stars:>20 | 0
+2026-03-30_11:11:18 | open source ai tools for restaurants stars:>20 | 0
+2026-03-30_11:11:18 | self-hosted ai tools for restaurants stars:>20 | 0
+2026-03-30_11:11:19 | free ai tools for restaurants github stars:>20 | 0
+2026-03-30_11:11:19 | ai tools for restaurants MIT license stars:>20 | 0
+2026-03-30_11:11:20 | ai tools for restaurants API stars:>20 | 4
+2026-03-30_11:11:20 | ai tools for restaurants database stars:>20 | 4
+2026-03-30_11:11:21 | ai tools for restaurants alternative stars:>20 | 4
+2026-03-30_11:11:21 | ai tools for restaurants workflow automation stars:>20 | 4
+2026-03-30_11:11:29 | open source ai tools for content creators stars:>20 | 1
+2026-03-30_11:11:30 | self-hosted ai tools for content creators stars:>20 | 1
+2026-03-30_11:11:30 | free ai tools for content creators github stars:>20 | 1
+2026-03-30_11:11:31 | ai tools for content creators MIT license stars:>20 | 1
+2026-03-30_11:11:31 | ai tools for content creators API stars:>20 | 1
+2026-03-30_11:11:32 | ai tools for content creators database stars:>20 | 1
+2026-03-30_11:11:32 | ai tools for content creators alternative stars:>20 | 1
+2026-03-30_11:11:33 | ai tools for content creators workflow automation stars:>20 | 1
+2026-03-30_11:13:32 | open source ai tools for restaurants | 0
+2026-03-30_11:13:33 | self-hosted ai tools for restaurants | 0
+2026-03-30_11:13:33 | free ai tools for restaurants github | 0
+2026-03-30_11:13:33 | ai tools for restaurants MIT license | 0
+2026-03-30_11:13:34 | ai tools for restaurants API | 0
+2026-03-30_11:13:34 | ai tools for restaurants database | 0
+2026-03-30_11:13:35 | ai tools for restaurants alternative | 0
+2026-03-30_11:13:35 | ai tools for restaurants workflow automation | 0
+2026-03-30_11:23:45 | open source AI | 50
+2026-03-30_11:23:49 | self-hosted AI | 100
+2026-03-30_11:23:52 | free AI github | 100
+2026-03-30_11:23:54 | AI MIT license | 100
+2026-03-30_11:23:59 | AI API | 150
+2026-03-30_11:24:02 | AI database | 174
+2026-03-30_11:24:05 | AI alternative | 181
+2026-03-30_11:24:08 | AI workflow automation | 190

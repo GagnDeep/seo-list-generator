@@ -1,0 +1,229 @@
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-ai-tools-for-restaurants-2026-1111394
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /root/.codex/memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019d3e73-0028-78a0-8dc1-1ec461952372
+--------
+user
+Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-restaurants-2026"
+
+## CRITICAL CONSTRAINTS
+- EVERY tool MUST have a github.com URL
+- NO proprietary SaaS tools (Stripe, Calendly Pro, Notion cloud, etc.)
+- ONLY include tools that exist as public GitHub repositories
+- Minimum 25 verified tools required (50+ preferred)
+- If a category has fewer than 5 repos, document it honestly as a gap
+
+## REPOSITORY COUNT TARGET
+Minimum: 25 verified tools
+Preferred: 50+ tools
+Currently found: 0 repos (expand research if needed)
+
+## YOUR TASK
+Create a professional, complete awesome-list repo with:
+- README.md (main content - see format below)
+- LICENSE (MIT)
+- CONTRIBUTING.md
+
+## REPO STRUCTURE
+Work in this directory: /tmp/awesome-best-ai-tools-for-restaurants-2026-1111394
+The repo name should be: awesome-best-ai-tools-for-restaurants-2026
+GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-restaurants-2026
+
+## README.md FORMAT (MUST FOLLOW EXACTLY)
+
+---
+title: "best-ai-tools-for-restaurants-2026"
+description: "[150-160 char description for SEO - make it compelling and keyword-rich]"
+icon: 📋
+category: [pick best category]
+---
+
+# [H1 Title - Primary Keyword]
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-restaurants-2026?style=social)
+
+> [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
+
+## Table of Contents
+- [TL;DR](#tldr)
+- [Why This List](#why-this-list)
+- [Open Source Tools](#open-source-tools)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [License](#license)
+
+## TL;DR
+[Quick summary - 3-5 bullet points of the best open source options]
+
+## Why This List
+[Brief section on why open source tools matter for this use case - include primary keyword naturally]
+
+## Open Source Tools
+
+### [Category 1]
+[15-30 items if possible, each with this structure:]
+
+#### [Tool Name](https://github.com/username/repo)
+> **Description:** [80-150 words from the GitHub README - what it does, key features, how it's licensed. MUST include: last commit date, stars count, primary language, license type from GitHub.]
+
+- **GitHub:** [github.com/username/repo](https://github.com/username/repo)
+- **Stars:** [number] ⭐
+- **Language:** [primary language]
+- **License:** [MIT/Apache/GPL/etc from GitHub]
+- **Last Commit:** [date]
+- **Category:** [tag1, tag2]
+- **Best for:** [specific use case]
+
+---
+
+### [Category 2]
+[more items...]
+
+## FAQ
+[5-7 questions targeting long-tail keywords]
+
+## GitHub Search Queries Used
+[Include the actual gh search commands used to find these tools]
+
+## Contributing
+[Standard contributing guide - must require GitHub repo URL for submissions]
+
+## License
+[MIT License - see LICENSE file]
+---
+
+## RESEARCH DATA (use this to build accurate items)
+# GitHub Repository Research for: best-ai-tools-for-restaurants-2026
+Generated: Mon Mar 30 11:13:32 UTC 2026
+
+## GitHub Search Commands Used
+
+### Query: open source ai tools for restaurants
+
+  (No results found)
+
+### Query: self-hosted ai tools for restaurants
+
+  (No results found)
+
+### Query: free ai tools for restaurants github
+
+  (No results found)
+
+### Query: ai tools for restaurants MIT license
+
+  (No results found)
+
+### Query: ai tools for restaurants API
+
+  (No results found)
+
+### Query: ai tools for restaurants database
+
+  (No results found)
+
+### Query: ai tools for restaurants alternative
+
+  (No results found)
+
+### Query: ai tools for restaurants workflow automation
+
+  (No results found)
+
+## Web Search Results
+
+## Gap Analysis
+
+Categories with fewer than 5 tools represent opportunities:
+
+WARNING: Low repo count for topic 'best-ai-tools-for-restaurants-2026'. Consider broadening search.
+
+## REQUIREMENTS
+1. EVERY tool MUST have a github.com URL (no exceptions)
+2. Include stars count, primary language, license from GitHub
+3. Primary keyword MUST appear in first 100 words
+4. Include 25+ items total (50+ preferred)
+5. Use semantic headings (H2, H3)
+6. Descriptions must be from actual GitHub READMEs - unique and specific
+7. Target long-tail keywords in FAQ section
+8. Format with Markdown - use tables where appropriate
+9. Include the GitHub search queries used to find these tools
+
+## OUTPUT
+After creating all files, verify the structure:
+- README.md with complete content (minimum 25 tools)
+- LICENSE file with MIT license
+- CONTRIBUTING.md file
+
+Run: ls -la
+Run: wc -l README.md
+Count the tools in your README and verify you have 25+ entries
+Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please install bubblewrap with your package manager. Codex will use the vendored bubblewrap in the meantime.
+codex
+I’m gathering GitHub-native, open-source repos that can credibly serve restaurant workflows, then I’ll build the repo files around verified metadata only. Because stars, licenses, and last-commit dates are time-sensitive, I’m checking GitHub sources before writing the list.
+web search: 
+web search: site:github.com restaurant ai github open source repo
+web search: 
+web search: https://github.com/open-webui/open-webui
+web search: 
+web search: site:github.com/open-webui/open-webui github
+web search: 
+web search: https://github.com/open-webui/open-webui/commits
+web search: 
+web search: site:github.com/FlowiseAI/Flowise github
+web search: 
+web search: site:github.com/tiledesk/tiledesk-server github
+web search: 
+web search: site:github.com/tastyigniter/TastyIgniter github
+web search: 
+web search: site:github.com/chatwoot/chatwoot github
+web search: 
+web search: site:github.com/Hexastack/Hexabot github Hexastack Hexabot
+web search: 
+web search: site:github.com/openai/whisper github
+web search: 
+web search: site:github.com/PaddlePaddle/PaddleOCR github
+web search: 
+web search: site:github.com/Nixtla/neuralforecast github
+web search: 
+web search: site:github.com/microsoft/recommenders github
+web search: 
+web search: site:github.com/microsoft/recommenders github recommenders
+web search: 
+web search: site:github.com/microsoft/recommenders github microsoft recommenders
+web search: 
+web search: https://github.com/microsoft/recommenders
+I’ve identified a GitHub-only set of restaurant-relevant open-source AI repos and am moving into writing the repository files with verified metadata and an honest gap note for restaurant-specific coverage.
+  → Finalize the verified 25-repo shortlist and map them into categories
+  • Write README.md with SEO frontmatter, tool entries, FAQ, search queries, and required sections
+  • Add MIT LICENSE and CONTRIBUTING.md
+  • Verify file structure, README line count, and tool count
+codex
+I have the shortlist structure now. Next I’m checking the workspace, then I’ll write `README.md`, `LICENSE`, and `CONTRIBUTING.md` in one pass so the repo is internally consistent.
+exec
+/bin/bash -lc 'ls -la' in /tmp/awesome-best-ai-tools-for-restaurants-2026-1111394
+ succeeded in 0ms:
+total 20
+drwxr-xr-x   3 root root  4096 Mar 30 11:13 .
+drwxrwxrwt 112 root root 12288 Mar 30 11:13 ..
+drwxr-xr-x   7 root root  4096 Mar 30 11:13 .git
+-rw-r--r--   1 root root     0 Mar 30 11:13 CONTRIBUTING.md
+-rw-r--r--   1 root root     0 Mar 30 11:13 LICENSE
+-rw-r--r--   1 root root     0 Mar 30 11:13 README.md
+
+exec
+/bin/bash -lc pwd in /tmp/awesome-best-ai-tools-for-restaurants-2026-1111394
+ succeeded in 0ms:
+/tmp/awesome-best-ai-tools-for-restaurants-2026-1111394
+
+web search: 

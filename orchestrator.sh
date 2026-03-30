@@ -172,13 +172,12 @@ research_topic() {
     
     # Run gh search commands to find repos
     for query in "${search_queries[@]}"; do
-        query="$query stars:>20"
         log "Searching: $query"
         echo "### Query: $query" >> "$research_file"
         echo "" >> "$research_file"
         
-        # Search for repos with gh CLI
-        local results=$(gh search repos "$query stars:>20" --limit 50 --json name,url,description,stargazersCount,language,license 2>/dev/null)
+        # Search for repos with gh CLI (use --stars flag, not embedded syntax)
+        local results=$(gh search repos "$query" --stars ">5" --limit 50 --json name,url,description,stargazersCount,language,license 2>/dev/null)
         
         if [ -n "$results" ] && [ "$results" != "[]" ]; then
             echo "$results" | jq -r '.[] | "- **[\(.name)](\(.url))** (⭐ \(.stargazersCount // 0) | \(.language // "N/A") | \(.license // "N/A"))"' >> "$research_file" 2>/dev/null || true
@@ -190,6 +189,9 @@ research_topic() {
         fi
         
         echo "" >> "$research_file"
+        
+        # Rate limit prevention: sleep between searches
+        sleep 2
         
         # Log to memory
         echo "$(date +%Y-%m-%d_%H:%M:%S) | $query | $total_repos" >> "$PROJECT_ROOT/memory/gh_search_log.txt"
