@@ -28,3 +28,4 @@
 - 2026-03-30: best-ai-tools-for-dentists-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-dentists-2026)
 - 2026-03-30: best-ai-tools-for-insurance-agents-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026)
 - 2026-03-30: best-ai-tools-for-small-businesses-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026)
+- 2026-03-30: best-ai-tools-for-accountants-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-accountants-2026)
