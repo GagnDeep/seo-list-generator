@@ -828,3 +828,11 @@
 2026-03-30_16:34:06 | ai tools for healthcare database | 0
 2026-03-30_16:34:08 | ai tools for healthcare alternative | 0
 2026-03-30_16:34:11 | ai tools for healthcare workflow automation | 0
+2026-03-30_17:06:51 | open source ai tools for restaurants | 0
+2026-03-30_17:06:53 | self-hosted ai tools for restaurants | 0
+2026-03-30_17:06:56 | free ai tools for restaurants github | 0
+2026-03-30_17:06:58 | ai tools for restaurants MIT license | 0
+2026-03-30_17:07:01 | ai tools for restaurants API | 0
+2026-03-30_17:07:03 | ai tools for restaurants database | 0
+2026-03-30_17:07:06 | ai tools for restaurants alternative | 0
+2026-03-30_17:07:08 | ai tools for restaurants workflow automation | 0
