@@ -780,3 +780,27 @@
 2026-03-30_12:14:13 | ai tools for restaurants database | 0
 2026-03-30_12:14:16 | ai tools for restaurants alternative | 0
 2026-03-30_12:14:18 | ai tools for restaurants workflow automation | 0
+2026-03-30_13:09:17 | open source ai tools for lawyers | 0
+2026-03-30_13:09:20 | self-hosted ai tools for lawyers | 0
+2026-03-30_13:09:22 | free ai tools for lawyers github | 0
+2026-03-30_13:09:25 | ai tools for lawyers MIT license | 0
+2026-03-30_13:09:27 | ai tools for lawyers API | 0
+2026-03-30_13:09:30 | ai tools for lawyers database | 0
+2026-03-30_13:09:32 | ai tools for lawyers alternative | 0
+2026-03-30_13:09:35 | ai tools for lawyers workflow automation | 0
+2026-03-30_13:20:02 | open source ai tools for teachers | 0
+2026-03-30_13:20:04 | self-hosted ai tools for teachers | 0
+2026-03-30_13:20:07 | free ai tools for teachers github | 0
+2026-03-30_13:20:09 | ai tools for teachers MIT license | 0
+2026-03-30_13:20:12 | ai tools for teachers API | 0
+2026-03-30_13:20:14 | ai tools for teachers database | 0
+2026-03-30_13:20:17 | ai tools for teachers alternative | 0
+2026-03-30_13:20:19 | ai tools for teachers workflow automation | 0
+2026-03-30_14:15:31 | open source ai tools for lawyers | 0
+2026-03-30_14:15:34 | self-hosted ai tools for lawyers | 0
+2026-03-30_14:15:36 | free ai tools for lawyers github | 0
+2026-03-30_14:15:39 | ai tools for lawyers MIT license | 0
+2026-03-30_14:15:41 | ai tools for lawyers API | 0
+2026-03-30_14:15:44 | ai tools for lawyers database | 0
+2026-03-30_14:15:46 | ai tools for lawyers alternative | 0
+2026-03-30_14:15:49 | ai tools for lawyers workflow automation | 0
