@@ -588,3 +588,11 @@
 2026-03-30_03:18:38 | ai tools for small businesses database stars:>20 | 0
 2026-03-30_03:18:39 | ai tools for small businesses alternative stars:>20 | 0
 2026-03-30_03:18:39 | ai tools for small businesses workflow automation stars:>20 | 0
+2026-03-30_04:54:40 | open source ai tools for real estate agents stars:>20 | 0
+2026-03-30_04:54:41 | self-hosted ai tools for real estate agents stars:>20 | 0
+2026-03-30_04:54:41 | free ai tools for real estate agents github stars:>20 | 0
+2026-03-30_04:54:42 | ai tools for real estate agents MIT license stars:>20 | 0
+2026-03-30_04:54:42 | ai tools for real estate agents API stars:>20 | 0
+2026-03-30_04:54:42 | ai tools for real estate agents database stars:>20 | 0
+2026-03-30_04:54:43 | ai tools for real estate agents alternative stars:>20 | 0
+2026-03-30_04:54:43 | ai tools for real estate agents workflow automation stars:>20 | 0
