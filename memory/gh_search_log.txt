@@ -852,3 +852,11 @@
 2026-03-30_19:20:01 | ai tools for insurance agents database | 0
 2026-03-30_19:20:04 | ai tools for insurance agents alternative | 0
 2026-03-30_19:20:06 | ai tools for insurance agents workflow automation | 0
+2026-03-30_20:18:32 | open source ai tools for small businesses | 0
+2026-03-30_20:18:35 | self-hosted ai tools for small businesses | 0
+2026-03-30_20:18:38 | free ai tools for small businesses github | 0
+2026-03-30_20:18:40 | ai tools for small businesses MIT license | 0
+2026-03-30_20:18:42 | ai tools for small businesses API | 0
+2026-03-30_20:18:45 | ai tools for small businesses database | 0
+2026-03-30_20:18:48 | ai tools for small businesses alternative | 0
+2026-03-30_20:18:50 | ai tools for small businesses workflow automation | 0
