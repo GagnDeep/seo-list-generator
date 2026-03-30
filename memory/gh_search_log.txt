@@ -596,3 +596,123 @@
 2026-03-30_04:54:42 | ai tools for real estate agents database stars:>20 | 0
 2026-03-30_04:54:43 | ai tools for real estate agents alternative stars:>20 | 0
 2026-03-30_04:54:43 | ai tools for real estate agents workflow automation stars:>20 | 0
+2026-03-30_06:33:26 | open source ai tools for content creators stars:>20 | 1
+2026-03-30_06:33:27 | self-hosted ai tools for content creators stars:>20 | 1
+2026-03-30_06:33:27 | free ai tools for content creators github stars:>20 | 1
+2026-03-30_06:33:28 | ai tools for content creators MIT license stars:>20 | 1
+2026-03-30_06:33:28 | ai tools for content creators API stars:>20 | 1
+2026-03-30_06:33:29 | ai tools for content creators database stars:>20 | 1
+2026-03-30_06:33:29 | ai tools for content creators alternative stars:>20 | 1
+2026-03-30_06:33:30 | ai tools for content creators workflow automation stars:>20 | 1
+2026-03-30_06:33:38 | open source ai tools for restaurants stars:>20 | 0
+2026-03-30_06:33:39 | self-hosted ai tools for restaurants stars:>20 | 0
+2026-03-30_06:33:39 | free ai tools for restaurants github stars:>20 | 0
+2026-03-30_06:33:40 | ai tools for restaurants MIT license stars:>20 | 0
+2026-03-30_06:33:41 | ai tools for restaurants API stars:>20 | 4
+2026-03-30_06:33:42 | ai tools for restaurants database stars:>20 | 4
+2026-03-30_06:33:42 | ai tools for restaurants alternative stars:>20 | 4
+2026-03-30_06:33:43 | ai tools for restaurants workflow automation stars:>20 | 4
+2026-03-30_06:33:48 | open source ai tools for teachers stars:>20 | 0
+2026-03-30_06:33:49 | self-hosted ai tools for teachers stars:>20 | 0
+2026-03-30_06:33:49 | free ai tools for teachers github stars:>20 | 0
+2026-03-30_06:33:50 | ai tools for teachers MIT license stars:>20 | 0
+2026-03-30_06:33:51 | ai tools for teachers API stars:>20 | 8
+2026-03-30_06:33:51 | ai tools for teachers database stars:>20 | 8
+2026-03-30_06:33:52 | ai tools for teachers alternative stars:>20 | 8
+2026-03-30_06:33:52 | ai tools for teachers workflow automation stars:>20 | 8
+2026-03-30_06:34:00 | open source ai tools for ecommerce stars:>20 | 0
+2026-03-30_06:34:01 | self-hosted ai tools for ecommerce stars:>20 | 0
+2026-03-30_06:34:02 | free ai tools for ecommerce github stars:>20 | 0
+2026-03-30_06:34:02 | ai tools for ecommerce MIT license stars:>20 | 0
+2026-03-30_06:34:02 | ai tools for ecommerce API stars:>20 | 1
+2026-03-30_06:34:03 | ai tools for ecommerce database stars:>20 | 1
+2026-03-30_06:34:03 | ai tools for ecommerce alternative stars:>20 | 1
+2026-03-30_06:34:03 | ai tools for ecommerce workflow automation stars:>20 | 1
+2026-03-30_06:35:07 | open source ai tools for data science stars:>20 | 1
+2026-03-30_06:35:07 | self-hosted ai tools for data science stars:>20 | 1
+2026-03-30_06:35:08 | free ai tools for data science github stars:>20 | 1
+2026-03-30_06:35:08 | ai tools for data science MIT license stars:>20 | 1
+2026-03-30_06:35:09 | ai tools for data science API stars:>20 | 1
+2026-03-30_06:35:09 | ai tools for data science database stars:>20 | 1
+2026-03-30_06:35:10 | ai tools for data science alternative stars:>20 | 1
+2026-03-30_06:35:10 | ai tools for data science workflow automation stars:>20 | 1
+2026-03-30_06:36:12 | open source ai tools for marketers stars:>20 | 0
+2026-03-30_06:36:12 | self-hosted ai tools for marketers stars:>20 | 0
+2026-03-30_06:36:13 | free ai tools for marketers github stars:>20 | 0
+2026-03-30_06:36:13 | ai tools for marketers MIT license stars:>20 | 0
+2026-03-30_06:36:14 | ai tools for marketers API stars:>20 | 1
+2026-03-30_06:36:14 | ai tools for marketers database stars:>20 | 1
+2026-03-30_06:36:15 | ai tools for marketers alternative stars:>20 | 1
+2026-03-30_06:36:15 | ai tools for marketers workflow automation stars:>20 | 1
+2026-03-30_06:36:25 | open source ai tools for productivity stars:>20 | 5
+2026-03-30_06:36:26 | self-hosted ai tools for productivity stars:>20 | 5
+2026-03-30_06:36:26 | free ai tools for productivity github stars:>20 | 5
+2026-03-30_06:36:27 | ai tools for productivity MIT license stars:>20 | 5
+2026-03-30_06:36:27 | ai tools for productivity API stars:>20 | 8
+2026-03-30_06:36:28 | ai tools for productivity database stars:>20 | 9
+2026-03-30_06:36:28 | ai tools for productivity alternative stars:>20 | 9
+2026-03-30_06:36:29 | ai tools for productivity workflow automation stars:>20 | 9
+2026-03-30_06:36:36 | open source ai automation tools stars:>20 | 21
+2026-03-30_06:36:37 | self-hosted ai automation tools stars:>20 | 27
+2026-03-30_06:36:37 | free ai automation tools github stars:>20 | 27
+2026-03-30_06:36:38 | ai automation tools MIT license stars:>20 | 27
+2026-03-30_06:36:39 | ai automation tools API stars:>20 | 46
+2026-03-30_06:36:39 | ai automation tools database stars:>20 | 47
+2026-03-30_06:36:40 | ai automation tools alternative stars:>20 | 51
+2026-03-30_06:36:42 | ai automation tools workflow automation stars:>20 | 93
+2026-03-30_07:51:02 | open source ai tools for restaurants stars:>20 | 0
+2026-03-30_07:51:03 | self-hosted ai tools for restaurants stars:>20 | 0
+2026-03-30_07:51:03 | free ai tools for restaurants github stars:>20 | 0
+2026-03-30_07:51:03 | ai tools for restaurants MIT license stars:>20 | 0
+2026-03-30_07:51:04 | ai tools for restaurants API stars:>20 | 4
+2026-03-30_07:51:05 | ai tools for restaurants database stars:>20 | 4
+2026-03-30_07:51:05 | ai tools for restaurants alternative stars:>20 | 4
+2026-03-30_07:51:06 | ai tools for restaurants workflow automation stars:>20 | 4
+2026-03-30_07:51:16 | open source ai tools for ecommerce stars:>20 | 0
+2026-03-30_07:51:17 | self-hosted ai tools for ecommerce stars:>20 | 0
+2026-03-30_07:51:17 | free ai tools for ecommerce github stars:>20 | 0
+2026-03-30_07:51:18 | ai tools for ecommerce MIT license stars:>20 | 0
+2026-03-30_07:51:18 | ai tools for ecommerce API stars:>20 | 1
+2026-03-30_07:51:18 | ai tools for ecommerce database stars:>20 | 1
+2026-03-30_07:51:19 | ai tools for ecommerce alternative stars:>20 | 1
+2026-03-30_07:51:19 | ai tools for ecommerce workflow automation stars:>20 | 1
+2026-03-30_07:51:25 | open source ai tools for healthcare stars:>20 | 3
+2026-03-30_07:51:26 | self-hosted ai tools for healthcare stars:>20 | 3
+2026-03-30_07:51:26 | free ai tools for healthcare github stars:>20 | 3
+2026-03-30_07:51:26 | ai tools for healthcare MIT license stars:>20 | 3
+2026-03-30_07:51:27 | ai tools for healthcare API stars:>20 | 3
+2026-03-30_07:51:27 | ai tools for healthcare database stars:>20 | 4
+2026-03-30_07:51:28 | ai tools for healthcare alternative stars:>20 | 4
+2026-03-30_07:51:28 | ai tools for healthcare workflow automation stars:>20 | 4
+2026-03-30_07:53:33 | open source ai tools for marketing stars:>20 | 2
+2026-03-30_07:53:33 | self-hosted ai tools for marketing stars:>20 | 2
+2026-03-30_07:53:34 | free ai tools for marketing github stars:>20 | 2
+2026-03-30_07:53:34 | ai tools for marketing MIT license stars:>20 | 2
+2026-03-30_07:53:35 | ai tools for marketing API stars:>20 | 3
+2026-03-30_07:53:35 | ai tools for marketing database stars:>20 | 4
+2026-03-30_07:53:36 | ai tools for marketing alternative stars:>20 | 4
+2026-03-30_07:53:36 | ai tools for marketing workflow automation stars:>20 | 5
+2026-03-30_07:53:57 | open source ai tools for students stars:>20 | 0
+2026-03-30_07:53:58 | self-hosted ai tools for students stars:>20 | 0
+2026-03-30_07:53:58 | free ai tools for students github stars:>20 | 0
+2026-03-30_07:53:59 | ai tools for students MIT license stars:>20 | 0
+2026-03-30_07:54:00 | ai tools for students API stars:>20 | 8
+2026-03-30_07:54:00 | ai tools for students database stars:>20 | 8
+2026-03-30_07:54:01 | ai tools for students alternative stars:>20 | 8
+2026-03-30_07:54:01 | ai tools for students workflow automation stars:>20 | 8
+2026-03-30_07:54:24 | open source ai automation tools stars:>20 | 21
+2026-03-30_07:54:25 | self-hosted ai automation tools stars:>20 | 27
+2026-03-30_07:54:25 | free ai automation tools github stars:>20 | 27
+2026-03-30_07:54:26 | ai automation tools MIT license stars:>20 | 27
+2026-03-30_07:54:27 | ai automation tools API stars:>20 | 46
+2026-03-30_07:54:27 | ai automation tools database stars:>20 | 47
+2026-03-30_07:54:28 | ai automation tools alternative stars:>20 | 51
+2026-03-30_07:54:29 | ai automation tools workflow automation stars:>20 | 93
+2026-03-30_08:28:35 | open source ai agents stars:>20 | 50
+2026-03-30_08:28:37 | self-hosted ai agents stars:>20 | 100
+2026-03-30_08:28:38 | free ai agents github stars:>20 | 103
+2026-03-30_08:28:39 | ai agents MIT license stars:>20 | 106
+2026-03-30_08:28:41 | ai agents API stars:>20 | 156
+2026-03-30_08:28:43 | ai agents database stars:>20 | 206
+2026-03-30_08:28:45 | ai agents alternative stars:>20 | 247
+2026-03-30_08:28:47 | ai agents workflow automation stars:>20 | 297

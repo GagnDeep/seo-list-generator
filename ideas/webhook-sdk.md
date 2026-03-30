@@ -29,5 +29,8 @@ Every developer implements webhooks differently and most get it wrong: no signat
 6. Dead letter queue for failed webhooks
 7. TypeScript types for common providers (Stripe events, GitHub events)
 
+## Status
+[DONE]
+
 ## Category
 Library
