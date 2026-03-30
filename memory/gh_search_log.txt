@@ -868,3 +868,11 @@
 2026-03-30_21:15:32 | ai tools for small businesses database | 0
 2026-03-30_21:15:34 | ai tools for small businesses alternative | 0
 2026-03-30_21:15:36 | ai tools for small businesses workflow automation | 0
+2026-03-30_22:09:02 | open source ai tools for accountants | 0
+2026-03-30_22:09:04 | self-hosted ai tools for accountants | 0
+2026-03-30_22:09:07 | free ai tools for accountants github | 0
+2026-03-30_22:09:09 | ai tools for accountants MIT license | 0
+2026-03-30_22:09:12 | ai tools for accountants API | 0
+2026-03-30_22:09:14 | ai tools for accountants database | 0
+2026-03-30_22:09:17 | ai tools for accountants alternative | 0
+2026-03-30_22:09:19 | ai tools for accountants workflow automation | 0
