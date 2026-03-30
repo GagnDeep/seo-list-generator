@@ -804,3 +804,11 @@
 2026-03-30_14:15:44 | ai tools for lawyers database | 0
 2026-03-30_14:15:46 | ai tools for lawyers alternative | 0
 2026-03-30_14:15:49 | ai tools for lawyers workflow automation | 0
+2026-03-30_15:13:42 | open source ai tools for accountants | 0
+2026-03-30_15:13:45 | self-hosted ai tools for accountants | 0
+2026-03-30_15:13:47 | free ai tools for accountants github | 0
+2026-03-30_15:13:50 | ai tools for accountants MIT license | 0
+2026-03-30_15:13:52 | ai tools for accountants API | 0
+2026-03-30_15:13:55 | ai tools for accountants database | 0
+2026-03-30_15:13:57 | ai tools for accountants alternative | 0
+2026-03-30_15:14:00 | ai tools for accountants workflow automation | 0
