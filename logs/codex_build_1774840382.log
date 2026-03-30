@@ -1,3 +1,15 @@
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /root/.codex/memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019d3cbb-0493-73b2-8821-878376950130
+--------
+user
 Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-small-businesses-2026"
 
 ## CRITICAL CONSTRAINTS
@@ -19,7 +31,7 @@ Create a professional, complete awesome-list repo with:
 - CONTRIBUTING.md
 
 ## REPO STRUCTURE
-Work in this directory: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093876
+Work in this directory: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
 The repo name should be: awesome-best-ai-tools-for-small-businesses-2026
 GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026
 
@@ -90,7 +102,7 @@ category: [pick best category]
 
 ## RESEARCH DATA (use this to build accurate items)
 # GitHub Repository Research for: best-ai-tools-for-small-businesses-2026
-Generated: Mon Mar 30 03:18:36 UTC 2026
+Generated: Mon Mar 30 03:12:58 UTC 2026
 
 ## GitHub Search Commands Used
 
@@ -155,3 +167,110 @@ Run: ls -la
 Run: wc -l README.md
 Count the tools in your README and verify you have 25+ entries
 Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please install bubblewrap with your package manager. Codex will use the vendored bubblewrap in the meantime.
+codex
+I’m building the repo in this workspace and will first inspect the directory, then gather verified GitHub repositories with enough metadata to populate the README accurately.
+exec
+/bin/bash -lc 'ls -la' in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+ succeeded in 0ms:
+total 20
+drwxr-xr-x   3 root root  4096 Mar 30 03:13 .
+drwxrwxrwt 111 root root 12288 Mar 30 03:13 ..
+drwxr-xr-x   7 root root  4096 Mar 30 03:13 .git
+-rw-r--r--   1 root root     0 Mar 30 03:13 CONTRIBUTING.md
+-rw-r--r--   1 root root     0 Mar 30 03:13 LICENSE
+-rw-r--r--   1 root root     0 Mar 30 03:13 README.md
+
+exec
+/bin/bash -lc pwd in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+ succeeded in 0ms:
+/tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+
+web search: 
+web search: site:github.com open source AI customer support GitHub repo
+web search: 
+web search: https://api.github.com/repos/langgenius/dify
+web search: 
+web search: https://raw.githubusercontent.com/langgenius/dify/main/README.md
+web search: 
+web search: site:github.com simstudio ai github repo
+web search: 
+web search: site:github.com labring/FastGPT GitHub repo
+codex
+The workspace is empty except for placeholder files. I’m now verifying a concrete set of GitHub repos and their metadata so the list stays within your constraints instead of turning into a generic AI roundup.
+exec
+/bin/bash -lc 'curl -I -s https://api.github.com/repos/langgenius/dify | head' in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+ succeeded in 0ms:
+exec
+/bin/bash -lc "python - <<'PY'
+import urllib.request
+try:
+    with urllib.request.urlopen('https://api.github.com/repos/langgenius/dify', timeout=10) as r:
+        print(r.status)
+        print(r.read(120).decode())
+except Exception as e:
+    print('ERR', e)
+PY" in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+ exited 127 in 0ms:
+/bin/bash: line 1: python: command not found
+
+exec
+/bin/bash -lc "python3 - <<'PY'
+import urllib.request
+try:
+    with urllib.request.urlopen('https://api.github.com/repos/langgenius/dify', timeout=10) as r:
+        print(r.status)
+        print(r.read(120).decode())
+except Exception as e:
+    print('ERR', e)
+PY" in /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093166
+ succeeded in 0ms:
+ERR <urlopen error [Errno -3] Temporary failure in name resolution>
+
+web search: 
+web search: QAnything GitHub NetEase
+web search: 
+web search: https://api.github.com/repos/langflow-ai/langflow
+web search: 
+web search: GitHub FlowiseAI/Flowise
+web search: 
+web search: GitHub langgenius/dify
+web search: 
+web search: GitHub langgenius/dify
+web search: 
+web search: GitHub LibreChat/LibreChat
+web search: 
+web search: GitHub LibreChat/LibreChat
+web search: 
+web search: GitHub LibreChat LibreChat repo
+web search: 
+web search: GitHub LibreChat/LibreChat repo
+web search: 
+web search: GitHub BerriAI/litellm repo
+web search: 
+web search: GitHub LibreChat-AI/LibreChat
+web search: 
+web search: site:github.com LibreChat-AI/LibreChat GitHub
+web search: 
+web search: site:github.com/danny-avila/LibreChat GitHub
+web search: 
+web search: danny-avila LibreChat updated GitHub
+web search: 
+web search: GitHub 1Panel-dev/CordysCRM
+codex
+I have a verified pool of 25 GitHub repos with public URLs and GitHub metadata. Next I’m turning that research into the repo itself: a README with five categories of five tools, plus MIT `LICENSE` and a contribution guide that enforces GitHub repo URLs for submissions.
+web search: 
+web search: FlowiseAI Flowise updated GitHub
+web search: 
+web search: lobehub GitHub updated lobe-chat
+web search: 
+web search: netease-youdao updated QAnything GitHub
+web search: 
+web search: site:github.com/netease-youdao/QAnything "Updated"
+web search: 
+web search: danny-avila GitHub repositories LibreChat updated
+web search: 
+web search: GitHub BerriAI/litellm exact repo
+codex
+I’m writing the repository files now. The README will keep the structure you specified exactly, while the tool descriptions stay tied to what each GitHub README and repo page explicitly says.

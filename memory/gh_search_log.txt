@@ -564,3 +564,27 @@
 2026-03-30_02:42:53 | ai tools for restaurants database stars:>20 | 4
 2026-03-30_02:42:54 | ai tools for restaurants alternative stars:>20 | 4
 2026-03-30_02:42:54 | ai tools for restaurants workflow automation stars:>20 | 4
+2026-03-30_03:11:41 | open source ai tools for small businesses stars:>20 | 0
+2026-03-30_03:11:41 | self-hosted ai tools for small businesses stars:>20 | 0
+2026-03-30_03:11:42 | free ai tools for small businesses github stars:>20 | 0
+2026-03-30_03:11:42 | ai tools for small businesses MIT license stars:>20 | 0
+2026-03-30_03:11:43 | ai tools for small businesses API stars:>20 | 0
+2026-03-30_03:11:43 | ai tools for small businesses database stars:>20 | 0
+2026-03-30_03:11:44 | ai tools for small businesses alternative stars:>20 | 0
+2026-03-30_03:11:44 | ai tools for small businesses workflow automation stars:>20 | 0
+2026-03-30_03:12:59 | open source ai tools for small businesses stars:>20 | 0
+2026-03-30_03:12:59 | self-hosted ai tools for small businesses stars:>20 | 0
+2026-03-30_03:13:00 | free ai tools for small businesses github stars:>20 | 0
+2026-03-30_03:13:00 | ai tools for small businesses MIT license stars:>20 | 0
+2026-03-30_03:13:01 | ai tools for small businesses API stars:>20 | 0
+2026-03-30_03:13:01 | ai tools for small businesses database stars:>20 | 0
+2026-03-30_03:13:01 | ai tools for small businesses alternative stars:>20 | 0
+2026-03-30_03:13:02 | ai tools for small businesses workflow automation stars:>20 | 0
+2026-03-30_03:18:36 | open source ai tools for small businesses stars:>20 | 0
+2026-03-30_03:18:37 | self-hosted ai tools for small businesses stars:>20 | 0
+2026-03-30_03:18:37 | free ai tools for small businesses github stars:>20 | 0
+2026-03-30_03:18:38 | ai tools for small businesses MIT license stars:>20 | 0
+2026-03-30_03:18:38 | ai tools for small businesses API stars:>20 | 0
+2026-03-30_03:18:38 | ai tools for small businesses database stars:>20 | 0
+2026-03-30_03:18:39 | ai tools for small businesses alternative stars:>20 | 0
+2026-03-30_03:18:39 | ai tools for small businesses workflow automation stars:>20 | 0

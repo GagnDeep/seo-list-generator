@@ -1,3 +1,15 @@
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1092657
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /root/.codex/memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019d3cb9-d7be-7992-9382-4b1305d706ff
+--------
+user
 Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-small-businesses-2026"
 
 ## CRITICAL CONSTRAINTS
@@ -19,7 +31,7 @@ Create a professional, complete awesome-list repo with:
 - CONTRIBUTING.md
 
 ## REPO STRUCTURE
-Work in this directory: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1093876
+Work in this directory: /tmp/awesome-best-ai-tools-for-small-businesses-2026-1092657
 The repo name should be: awesome-best-ai-tools-for-small-businesses-2026
 GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-small-businesses-2026
 
@@ -90,7 +102,7 @@ category: [pick best category]
 
 ## RESEARCH DATA (use this to build accurate items)
 # GitHub Repository Research for: best-ai-tools-for-small-businesses-2026
-Generated: Mon Mar 30 03:18:36 UTC 2026
+Generated: Mon Mar 30 03:11:40 UTC 2026
 
 ## GitHub Search Commands Used
 
@@ -155,3 +167,16 @@ Run: ls -la
 Run: wc -l README.md
 Count the tools in your README and verify you have 25+ entries
 Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please install bubblewrap with your package manager. Codex will use the vendored bubblewrap in the meantime.
+codex
+I’m building the repo in this workspace and starting with repository research so the README only includes public GitHub projects with verifiable metadata. Next I’m collecting a vetted set of open-source AI tools that small businesses can actually self-host or adopt without proprietary SaaS lock-in.
+web search: 
+web search: site:github.com open source AI customer support GitHub self hosted
+web search: 
+web search: https://github.com/chatwoot/chatwoot
+web search: 
+web search: https://github.com/chatwoot/chatwoot/commits/develop/
+web search: 
+web search: 
+web search: 
