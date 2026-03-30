@@ -27,5 +27,8 @@ Starting a new project means creating the same 10 files over and over: `.gitigno
 4. Optional: creates GitHub repo via `gh` CLI and pushes
 5. Help output: `--help` with all options documented
 
+## Status
+[DONE] — Implemented at `/root/Projects/seo-list-generator/built/ghrepo/`
+
 ## Category
 CLI

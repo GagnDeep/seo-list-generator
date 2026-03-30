@@ -1,4 +1,4 @@
-Build a complete SEO-optimized GitHub awesome-list repository for: "best-AI-2026"
+Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-restaurants-2026"
 
 ## CRITICAL CONSTRAINTS
 - EVERY tool MUST have a github.com URL
@@ -19,14 +19,14 @@ Create a professional, complete awesome-list repo with:
 - CONTRIBUTING.md
 
 ## REPO STRUCTURE
-Work in this directory: /tmp/awesome-best-ai-2026-1113121
-The repo name should be: awesome-best-ai-2026
-GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-2026
+Work in this directory: /tmp/awesome-best-ai-tools-for-restaurants-2026-1114869
+The repo name should be: awesome-best-ai-tools-for-restaurants-2026
+GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-restaurants-2026
 
 ## README.md FORMAT (MUST FOLLOW EXACTLY)
 
 ---
-title: "best-AI-2026"
+title: "best-ai-tools-for-restaurants-2026"
 description: "[150-160 char description for SEO - make it compelling and keyword-rich]"
 icon: 📋
 category: [pick best category]
@@ -36,7 +36,7 @@ category: [pick best category]
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-2026?style=social)
+![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-restaurants-2026?style=social)
 
 > [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
 
@@ -89,238 +89,50 @@ category: [pick best category]
 ---
 
 ## RESEARCH DATA (use this to build accurate items)
-# GitHub Repository Research for: best-AI-2026
-Generated: Mon Mar 30 11:23:41 UTC 2026
+# GitHub Repository Research for: best-ai-tools-for-restaurants-2026
+Generated: Mon Mar 30 12:13:58 UTC 2026
 
 ## GitHub Search Commands Used
 
-### Query: open source AI
-
-- **[rowboat](https://github.com/rowboatlabs/rowboat)** (⭐ 9333 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[cookbook](https://github.com/huggingface/cookbook)** (⭐ 2632 | Jupyter Notebook | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[gemini-cli](https://github.com/google-gemini/gemini-cli)** (⭐ 99506 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[qwen-code](https://github.com/QwenLM/qwen-code)** (⭐ 21320 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)** (⭐ 1623 | TeX | {"key":"other","name":"Other","url":""})
-- **[strix](https://github.com/usestrix/strix)** (⭐ 22759 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[aide](https://github.com/codestoryai/aide)** (⭐ 2199 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[OpenSource-Ai-Glasses](https://github.com/Iam5tillLearning/OpenSource-Ai-Glasses)** (⭐ 131 | C | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[waveterm](https://github.com/wavetermdev/waveterm)** (⭐ 18936 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[onyx](https://github.com/onyx-dot-app/onyx)** (⭐ 20160 | Python | {"key":"other","name":"Other","url":""})
-- **[upscayl](https://github.com/upscayl/upscayl)** (⭐ 44279 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[plandex](https://github.com/plandex-ai/plandex)** (⭐ 15168 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ottomator-agents](https://github.com/coleam00/ottomator-agents)** (⭐ 5478 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[presenton](https://github.com/presenton/presenton)** (⭐ 4508 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[WriteHERE](https://github.com/principia-ai/WriteHERE)** (⭐ 860 | Python | {"key":"","name":"","url":""})
-- **[photoshot](https://github.com/premieroctet/photoshot)** (⭐ 3888 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly)** (⭐ 673 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** (⭐ 12621 | C | {"key":"other","name":"Other","url":""})
-- **[FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)** (⭐ 6514 | Jupyter Notebook | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[LocalAI](https://github.com/mudler/LocalAI)** (⭐ 44589 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Auto-Analyst](https://github.com/FireBird-Technologies/Auto-Analyst)** (⭐ 682 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Intervo](https://github.com/Intervo/Intervo)** (⭐ 352 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[todoist-clone-todovex](https://github.com/kulkarniankita/todoist-clone-todovex)** (⭐ 308 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Chaterm](https://github.com/chaterm/Chaterm)** (⭐ 2538 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies)** (⭐ 142 |  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://api.github.com/licenses/cc0-1.0"})
-- **[polis](https://github.com/compdemocracy/polis)** (⭐ 1139 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[dyad](https://github.com/dyad-sh/dyad)** (⭐ 20013 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[AI-Math-Notes](https://github.com/ayushpai/AI-Math-Notes)** (⭐ 502 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[onlook](https://github.com/onlook-dev/onlook)** (⭐ 24985 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[openakita](https://github.com/openakita/openakita)** (⭐ 1497 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[easy-llm-cli](https://github.com/ConardLi/easy-llm-cli)** (⭐ 1289 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[awesome-open-source-ai](https://github.com/suncloudsmoon/awesome-open-source-ai)** (⭐ 304 |  | {"key":"cc0-1.0","name":"Creative Commons Zero v1.0 Universal","url":"https://api.github.com/licenses/cc0-1.0"})
-- **[goclaw](https://github.com/smallnest/goclaw)** (⭐ 436 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[aipage.dev](https://github.com/zinedkaloc/aipage.dev)** (⭐ 350 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[slideflow](https://github.com/slideflow/slideflow)** (⭐ 357 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[TheAgenticBrowser](https://github.com/TheAgenticAI/TheAgenticBrowser)** (⭐ 392 | Python | {"key":"other","name":"Other","url":""})
-- **[awesome-opensource-ai](https://github.com/alvinunreal/awesome-opensource-ai)** (⭐ 1975 |  | {"key":"other","name":"Other","url":""})
-- **[stackwise](https://github.com/stackwiseai/stackwise)** (⭐ 185 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[octree](https://github.com/octree-labs/octree)** (⭐ 242 | TypeScript | {"key":"lgpl-3.0","name":"GNU Lesser General Public License v3.0","url":"https://api.github.com/licenses/lgpl-3.0"})
-- **[Watcher](https://github.com/thalesgroup-cert/Watcher)** (⭐ 1259 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[supercharger](https://github.com/catid/supercharger)** (⭐ 349 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[OSHW-reCamera-Series](https://github.com/Seeed-Studio/OSHW-reCamera-Series)** (⭐ 396 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[pear-landing-page](https://github.com/trypear/pear-landing-page)** (⭐ 116 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[midjourney-ui](https://github.com/erictik/midjourney-ui)** (⭐ 357 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[chat0](https://github.com/senbo1/chat0)** (⭐ 751 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AVA-AI-Voice-Agent-for-Asterisk](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)** (⭐ 1023 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[clawport-ui](https://github.com/JohnRiceML/clawport-ui)** (⭐ 780 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[superexpert-ai](https://github.com/Superexpert/superexpert-ai)** (⭐ 92 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[presentation-ai](https://github.com/allweonedev/presentation-ai)** (⭐ 2696 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[enthusiast](https://github.com/upsidelab/enthusiast)** (⭐ 166 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-  Found: 50 repos
-
-### Query: self-hosted AI
-
-- **[tabby](https://github.com/TabbyML/tabby)** (⭐ 33233 | Rust | {"key":"other","name":"Other","url":""})
-- **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)** (⭐ 14494 |  | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[Scriberr](https://github.com/rishikanthc/Scriberr)** (⭐ 2530 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[TaxHacker](https://github.com/vas3k/TaxHacker)** (⭐ 3151 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AI-Voice-Agent](https://github.com/Anil-matcha/AI-Voice-Agent)** (⭐ 129 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[bytebot](https://github.com/bytebot-ai/bytebot)** (⭐ 10698 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[conduit](https://github.com/cogwheel0/conduit)** (⭐ 1248 | Dart | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[openreview](https://github.com/vercel-labs/openreview)** (⭐ 1235 | TypeScript | {"key":"","name":"","url":""})
-- **[selfhostedAI](https://github.com/josStorer/selfhostedAI)** (⭐ 417 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[mission-control](https://github.com/builderz-labs/mission-control)** (⭐ 3587 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[nosia](https://github.com/dilolabs/nosia)** (⭐ 205 | Ruby | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[opencrabs](https://github.com/adolfousier/opencrabs)** (⭐ 583 | Rust | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[openplaud](https://github.com/openplaud/openplaud)** (⭐ 88 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[skyflo](https://github.com/skyflo-ai/skyflo)** (⭐ 105 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[skyeye](https://github.com/dharmab/skyeye)** (⭐ 105 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[n8n-install](https://github.com/kossakovsky/n8n-install)** (⭐ 785 | Shell | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[gru](https://github.com/zscole/gru)** (⭐ 217 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Tetora](https://github.com/TakumaLee/Tetora)** (⭐ 25 | Go | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[ragrabbit](https://github.com/madarco/ragrabbit)** (⭐ 132 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)** (⭐ 843 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[logwhisperer](https://github.com/binary-knight/logwhisperer)** (⭐ 246 | Python | {"key":"other","name":"Other","url":""})
-- **[aegra](https://github.com/ibbybuilds/aegra)** (⭐ 735 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home)** (⭐ 489 | JavaScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[pinchy](https://github.com/heypinchy/pinchy)** (⭐ 136 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[ciana-parrot](https://github.com/emanueleielo/ciana-parrot)** (⭐ 70 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Open-Relay](https://github.com/Ichigo3766/Open-Relay)** (⭐ 89 | Swift | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[self-hosted-ai-starter-kit-2](https://github.com/tuyenhm68/self-hosted-ai-starter-kit-2)** (⭐ 8 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[matrixhub](https://github.com/matrixhub-ai/matrixhub)** (⭐ 63 | Go | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[GoGogot](https://github.com/aspasskiy/GoGogot)** (⭐ 120 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[wardrowbe](https://github.com/Anyesh/wardrowbe)** (⭐ 51 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[self-hosted-ai-domain-kit](https://github.com/aieeiee/self-hosted-ai-domain-kit)** (⭐ 15 | Python | {"key":"","name":"","url":""})
-- **[LocalAGI](https://github.com/mudler/LocalAGI)** (⭐ 1693 | Go | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[owliabot](https://github.com/owliabot/owliabot)** (⭐ 26 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[goclaw](https://github.com/sausheong/goclaw)** (⭐ 82 | Go | {"key":"","name":"","url":""})
-- **[self-hosted-ai-starter-kit-with-ngrok](https://github.com/DevilUpperCase/self-hosted-ai-starter-kit-with-ngrok)** (⭐ 34 |  | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[ziya](https://github.com/ziya-ai/ziya)** (⭐ 35 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[deepshell](https://github.com/Abyss-c0re/deepshell)** (⭐ 37 | Python | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[OpenTranscribe](https://github.com/davidamacey/OpenTranscribe)** (⭐ 40 | Python | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[Alive](https://github.com/TopSea/Alive)** (⭐ 91 |  | {"key":"","name":"","url":""})
-- **[agent-smith](https://github.com/holgerleichsenring/agent-smith)** (⭐ 13 | C# | {"key":"","name":"","url":""})
-- **[revu](https://github.com/proDreams/revu)** (⭐ 23 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[CollabAI](https://github.com/sjinnovation/CollabAI)** (⭐ 118 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[n8n-ai-instagram-scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)** (⭐ 30 | Python | {"key":"","name":"","url":""})
-- **[kinbot](https://github.com/MarlBurroW/kinbot)** (⭐ 28 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[self-hosting-ai-models](https://github.com/Ujstor/self-hosting-ai-models)** (⭐ 29 | Makefile | {"key":"","name":"","url":""})
-- **[research-claw](https://github.com/nanoAgentTeam/research-claw)** (⭐ 58 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[tradesight](https://github.com/rmbell09-lang/tradesight)** (⭐ 29 | Python | {"key":"","name":"","url":""})
-- **[affine_ai_helper](https://github.com/axcode07/affine_ai_helper)** (⭐ 15 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[self-hosted-ai](https://github.com/qdrtech/self-hosted-ai)** (⭐ 28 |  | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[firecoder](https://github.com/FireCoderAI/firecoder)** (⭐ 42 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-  Found: 50 repos
-
-### Query: free AI github
+### Query: open source ai tools for restaurants
 
   (No results found)
 
-### Query: AI MIT license
+### Query: self-hosted ai tools for restaurants
 
   (No results found)
 
-### Query: AI API
+### Query: free ai tools for restaurants github
 
-- **[OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet)** (⭐ 1896 | C# | {"key":"other","name":"Other","url":""})
-- **[cortex.cpp](https://github.com/janhq/cortex.cpp)** (⭐ 2763 | C++ | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal)** (⭐ 769 | C++ | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[nodejs_wx_aipay_api](https://github.com/xiexinze/nodejs_wx_aipay_api)** (⭐ 18 | JavaScript | {"key":"","name":"","url":""})
-- **[aistplusplus_api](https://github.com/google/aistplusplus_api)** (⭐ 391 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[meta-ai-api](https://github.com/Strvm/meta-ai-api)** (⭐ 397 | Python | {"key":"","name":"","url":""})
-- **[aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec)** (⭐ 226 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AirAPI_Windows](https://github.com/MSmithDev/AirAPI_Windows)** (⭐ 136 | C++ | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[OpenAi-Api-Unity](https://github.com/hexthedev/OpenAi-Api-Unity)** (⭐ 341 | C# | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis)** (⭐ 212 | Dart | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[stability-sdk](https://github.com/Stability-AI/stability-sdk)** (⭐ 2440 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[aiocr-api](https://github.com/walijoy/aiocr-api)** (⭐ 131 | PHP | {"key":"","name":"","url":""})
-- **[hume-api-examples](https://github.com/HumeAI/hume-api-examples)** (⭐ 241 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[susi_api_wrapper](https://github.com/fossasia/susi_api_wrapper)** (⭐ 1487 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[aitrados-api](https://github.com/aitrados/aitrados-api)** (⭐ 112 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[ComfyUI-OllamaGemini](https://github.com/al-swaiti/ComfyUI-OllamaGemini)** (⭐ 171 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ais-api](https://github.com/transparency-everywhere/ais-api)** (⭐ 79 | JavaScript | {"key":"","name":"","url":""})
-- **[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/sunnysavita10/Automated-MCQ-Generator-Using-Langchain-OpenAI-API)** (⭐ 73 | Jupyter Notebook | {"key":"","name":"","url":""})
-- **[bun-ai-api](https://github.com/midudev/bun-ai-api)** (⭐ 60 | TypeScript | {"key":"","name":"","url":""})
-- **[ai-blog-writer-openai](https://github.com/skolo-online/ai-blog-writer-openai)** (⭐ 213 | HTML | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[phish-ai-api](https://github.com/phishai/phish-ai-api)** (⭐ 174 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[OpenAiApiBase](https://github.com/XingYu-Zhong/OpenAiApiBase)** (⭐ 14 | JavaScript | {"key":"","name":"","url":""})
-- **[ComfyUI-LumaAI-API](https://github.com/lumalabs/ComfyUI-LumaAI-API)** (⭐ 209 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[airbrake-api](https://github.com/stve/airbrake-api)** (⭐ 45 | Ruby | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[airflow_api_plugin](https://github.com/airflow-plugins/airflow_api_plugin)** (⭐ 61 | Python | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[openai-cpp](https://github.com/olrea/openai-cpp)** (⭐ 315 | C++ | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[airbyte-api-python-sdk](https://github.com/airbytehq/airbyte-api-python-sdk)** (⭐ 62 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ComfyUI-KLingAI-API](https://github.com/KlingAIResearch/ComfyUI-KLingAI-API)** (⭐ 167 | Python | {"key":"","name":"","url":""})
-- **[airtable_api_proxy](https://github.com/Airtable/airtable_api_proxy)** (⭐ 72 | JavaScript | {"key":"","name":"","url":""})
-- **[purple_air_api](https://github.com/ReagentX/purple_air_api)** (⭐ 53 | Python | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[last-airbender-api](https://github.com/paigeegorry/last-airbender-api)** (⭐ 44 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[aion_api](https://github.com/aionnetwork/aion_api)** (⭐ 20 | Java | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[OpenAI-APIKey-Query](https://github.com/Ai-Yolo/OpenAI-APIKey-Query)** (⭐ 82 | JavaScript | {"key":"","name":"","url":""})
-- **[airbnb-api](https://github.com/nomadcoders/airbnb-api)** (⭐ 24 | Python | {"key":"","name":"","url":""})
-- **[lmrouter](https://github.com/LMRouter/lmrouter)** (⭐ 293 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[sider-ai-api](https://github.com/pypy66/sider-ai-api)** (⭐ 49 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[airconsole-api](https://github.com/AirConsole/airconsole-api)** (⭐ 111 | JavaScript | {"key":"","name":"","url":""})
-- **[chat-ai-api](https://github.com/bradtraversy/chat-ai-api)** (⭐ 25 | TypeScript | {"key":"","name":"","url":""})
-- **[OpenAI_API_Tests](https://github.com/johntango/OpenAI_API_Tests)** (⭐ 8 | Jupyter Notebook | {"key":"","name":"","url":""})
-- **[OpenAI-API-Web-Apps](https://github.com/MaxineXiong/OpenAI-API-Web-Apps)** (⭐ 46 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[airfoil-api](https://github.com/jnewland/airfoil-api)** (⭐ 27 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks)** (⭐ 88 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AI2API](https://github.com/BlueSkyXN/AI2API)** (⭐ 46 | Go | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[MCP-Airflow-API](https://github.com/call518/MCP-Airflow-API)** (⭐ 44 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AIPhoneAgentwithOpenAIRealtimeAPI](https://github.com/AlozieAI/AIPhoneAgentwithOpenAIRealtimeAPI)** (⭐ 32 | Python | {"key":"","name":"","url":""})
-- **[OpenAIIOSRealtimeAPIDemo](https://github.com/fuwei007/OpenAIIOSRealtimeAPIDemo)** (⭐ 31 | Swift | {"key":"","name":"","url":""})
-- **[openai](https://github.com/load1n9/openai)** (⭐ 73 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[awesome-free-ai-apis](https://github.com/yakovexplorer/awesome-free-ai-apis)** (⭐ 8 |  | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[super-me-photo-ai-api](https://github.com/codingforentrepreneurs/super-me-photo-ai-api)** (⭐ 42 | Jupyter Notebook | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[dev-examples](https://github.com/heurist-network/dev-examples)** (⭐ 44 | Python | {"key":"","name":"","url":""})
-  Found: 50 repos
+  (No results found)
 
-### Query: AI database
+### Query: ai tools for restaurants MIT license
 
-- **[oracle-db-examples](https://github.com/oracle-samples/oracle-db-examples)** (⭐ 1411 | Java | {"key":"other","name":"Other","url":""})
-- **[AirfoilDatabase](https://github.com/usuaero/AirfoilDatabase)** (⭐ 42 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[oci-oracle-free](https://github.com/gvenzl/oci-oracle-free)** (⭐ 226 | Shell | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[MyScaleDB](https://github.com/OriginHubAI/MyScaleDB)** (⭐ 206 | C++ | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[AI-Database_Recovery](https://github.com/Mokoenamosotho/AI-Database_Recovery)** (⭐ 10 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AI-database-query-bot](https://github.com/virajbhutada/AI-database-query-bot)** (⭐ 18 | Python | {"key":"","name":"","url":""})
-- **[oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)** (⭐ 158 | Jupyter Notebook | {"key":"","name":"","url":""})
-- **[Airbnb-Database](https://github.com/raisaat/Airbnb-Database)** (⭐ 27 |  | {"key":"","name":"","url":""})
-- **[Oracle-AI-Database-26ai-Free-on-Docker](https://github.com/shakiyam/Oracle-AI-Database-26ai-Free-on-Docker)** (⭐ 12 | Shell | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[dblab](https://github.com/dblabai/dblab)** (⭐ 35 |  | {"key":"","name":"","url":""})
-- **[Airbnb_Database](https://github.com/niteshpalcode/Airbnb_Database)** (⭐ 6 | Java | {"key":"","name":"","url":""})
-- **[experimentalAirfoilDatabase](https://github.com/dciliberti/experimentalAirfoilDatabase)** (⭐ 18 | MATLAB | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[voicesummary](https://github.com/DrDroidLab/voicesummary)** (⭐ 24 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[aio-databases](https://github.com/klen/aio-databases)** (⭐ 19 | Python | {"key":"","name":"","url":""})
-- **[QueryGPT](https://github.com/MoonMao42/QueryGPT)** (⭐ 29 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[airportmap-database](https://github.com/komed3/airportmap-database)** (⭐ 13 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[AucoDB](https://github.com/datascienceworld-kan/AucoDB)** (⭐ 15 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[picooraclaw](https://github.com/jasperan/picooraclaw)** (⭐ 26 | Go | {"key":"other","name":"Other","url":""})
-- **[Airlines_Database_Design](https://github.com/jitendra3109/Airlines_Database_Design)** (⭐ 7 |  | {"key":"","name":"","url":""})
-- **[alx-airbnb-database](https://github.com/MohamedAhmed-SUT/alx-airbnb-database)** (⭐ 6 |  | {"key":"","name":"","url":""})
-- **[Ai-Database-agent](https://github.com/pouyabrn/Ai-Database-agent)** (⭐ 6 | Python | {"key":"","name":"","url":""})
-- **[ragcli](https://github.com/jasperan/ragcli)** (⭐ 10 | Jupyter Notebook | {"key":"gpl-3.0","name":"GNU General Public License v3.0","url":"https://api.github.com/licenses/gpl-3.0"})
-- **[brainy](https://github.com/soulcraftlabs/brainy)** (⭐ 6 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[petp](https://github.com/lorisunjunbin/petp)** (⭐ 6 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-  Found: 24 repos
+  (No results found)
 
-### Query: AI alternative
+### Query: ai tools for restaurants API
 
-- **[openroleplay.ai](https://github.com/brekkanegg/openroleplay.ai)** (⭐ 15 |  | {"key":"other","name":"Other","url":""})
-- **[efficient-recorder](https://github.com/janwilmake/efficient-recorder)** (⭐ 231 | JavaScript | {"key":"","name":"","url":""})
-- **[natively-cluely-ai-assistant](https://github.com/evinjohnn/natively-cluely-ai-assistant)** (⭐ 821 | TypeScript | {"key":"agpl-3.0","name":"GNU Affero General Public License v3.0","url":"https://api.github.com/licenses/agpl-3.0"})
-- **[awesome-heygen-ai-alternatives](https://github.com/furudo-erika/awesome-heygen-ai-alternatives)** (⭐ 14 |  | {"key":"","name":"","url":""})
-- **[OpenAI_alternative_api](https://github.com/hoshino-koya/OpenAI_alternative_api)** (⭐ 8 | TypeScript | {"key":"apache-2.0","name":"Apache License 2.0","url":"https://api.github.com/licenses/apache-2.0"})
-- **[MindWhisperAI-Cluely-Free-Alternative](https://github.com/SaimNadeemdev/MindWhisperAI-Cluely-Free-Alternative)** (⭐ 35 |  | {"key":"","name":"","url":""})
-- **[HyperMixer](https://github.com/ChristophReich1996/HyperMixer)** (⭐ 18 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-  Found: 7 repos
+  (No results found)
 
-### Query: AI workflow automation
+### Query: ai tools for restaurants database
 
-- **[workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)** (⭐ 1074 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[activepieces](https://github.com/activepieces/activepieces)** (⭐ 21482 | TypeScript | {"key":"other","name":"Other","url":""})
-- **[AI-Workflow-Automations](https://github.com/fares-automation/AI-Workflow-Automations)** (⭐ 13 |  | {"key":"","name":"","url":""})
-- **[AI-Workflow-Automations-Tool](https://github.com/vibhor544/AI-Workflow-Automations-Tool)** (⭐ 6 | JavaScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[CRM_AI_workflow_automation_to_handle_and_respond_customer_emails](https://github.com/DashankaNadeeshanDeSilva/CRM_AI_workflow_automation_to_handle_and_respond_customer_emails)** (⭐ 12 | Python | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[image-worker-mcp](https://github.com/BoomLinkAi/image-worker-mcp)** (⭐ 18 | TypeScript | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[n8n-ai-unified-infrastructure-suite](https://github.com/pjawz/n8n-ai-unified-infrastructure-suite)** (⭐ 7 |  | {"key":"mit","name":"MIT License","url":"https://api.github.com/licenses/mit"})
-- **[Awesome-Agentic-Workflow](https://github.com/irfanfadhullah/Awesome-Agentic-Workflow)** (⭐ 8 |  | {"key":"","name":"","url":""})
-- **[m8m](https://github.com/rohitdevsol/m8m)** (⭐ 18 | TypeScript | {"key":"","name":"","url":""})
-  Found: 9 repos
+  (No results found)
+
+### Query: ai tools for restaurants alternative
+
+  (No results found)
+
+### Query: ai tools for restaurants workflow automation
+
+  (No results found)
 
 ## Web Search Results
 
 ## Gap Analysis
 
 Categories with fewer than 5 tools represent opportunities:
+
+WARNING: Low repo count for topic 'best-ai-tools-for-restaurants-2026'. Consider broadening search.
 
 ## REQUIREMENTS
 1. EVERY tool MUST have a github.com URL (no exceptions)

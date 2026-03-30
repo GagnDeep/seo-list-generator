@@ -9,7 +9,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | # | Idea | Category | Status |
 |---|------|----------|--------|
 | 1 | **NextJS SaaS Auth Component** | [Component] | [READY] |
-| 2 | **GitHub Repo CLI** | [CLI] | [READY] |
+| 2 | **GitHub Repo CLI** | [CLI] | [DONE] |
 | 3 | **Env Schema Validator** | [Library] | [IMPLEMENTED] |
 | 4 | **Webhook SDK** | [Library] | [IMPLEMENTED] |
 | 5 | **Open Source Stripe Webhook** | [Library] | [READY] |
