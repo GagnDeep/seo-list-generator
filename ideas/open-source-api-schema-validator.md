@@ -30,3 +30,6 @@ Teams with OpenAPI specs still have runtime type mismatches between frontend and
 
 ## Category
 Library
+-e 
+## Status
+[DONE] (built: /root/Projects/seo-list-generator/built/openapi-schema-validator)

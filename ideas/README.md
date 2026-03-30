@@ -19,7 +19,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 9 | **AI Code Reviewer CLI** | [CLI] | [READY] |
 | 10 | **NextJS Blog Starter** | [Template] | [READY] |
 | 11 | **GitHub Activity README** | [Tool] | [READY] |
-| 12 | **Open Source API Schema Validator** | [Library] | [READY] |
+| 12 | **Open Source API Schema Validator** | [Library] | [DONE] |
 
 ---
 

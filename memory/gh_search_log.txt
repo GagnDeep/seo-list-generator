@@ -836,3 +836,19 @@
 2026-03-30_17:07:03 | ai tools for restaurants database | 0
 2026-03-30_17:07:06 | ai tools for restaurants alternative | 0
 2026-03-30_17:07:08 | ai tools for restaurants workflow automation | 0
+2026-03-30_18:34:56 | open source ai tools for dentists | 0
+2026-03-30_18:34:59 | self-hosted ai tools for dentists | 0
+2026-03-30_18:35:01 | free ai tools for dentists github | 0
+2026-03-30_18:35:04 | ai tools for dentists MIT license | 0
+2026-03-30_18:35:06 | ai tools for dentists API | 0
+2026-03-30_18:35:09 | ai tools for dentists database | 0
+2026-03-30_18:35:11 | ai tools for dentists alternative | 0
+2026-03-30_18:35:14 | ai tools for dentists workflow automation | 0
+2026-03-30_19:19:48 | open source ai tools for insurance agents | 0
+2026-03-30_19:19:51 | self-hosted ai tools for insurance agents | 0
+2026-03-30_19:19:53 | free ai tools for insurance agents github | 0
+2026-03-30_19:19:56 | ai tools for insurance agents MIT license | 0
+2026-03-30_19:19:59 | ai tools for insurance agents API | 0
+2026-03-30_19:20:01 | ai tools for insurance agents database | 0
+2026-03-30_19:20:04 | ai tools for insurance agents alternative | 0
+2026-03-30_19:20:06 | ai tools for insurance agents workflow automation | 0
