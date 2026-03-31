@@ -932,3 +932,11 @@
 2026-03-31_01:09:09 | ai tools for restaurants database | 0
 2026-03-31_01:09:12 | ai tools for restaurants alternative | 0
 2026-03-31_01:09:14 | ai tools for restaurants workflow automation | 0
+2026-03-31_02:23:08 | open source ai tools for tax professionals | 0
+2026-03-31_02:23:10 | self-hosted ai tools for tax professionals | 0
+2026-03-31_02:23:13 | free ai tools for tax professionals github | 0
+2026-03-31_02:23:15 | ai tools for tax professionals MIT license | 0
+2026-03-31_02:23:18 | ai tools for tax professionals API | 0
+2026-03-31_02:23:20 | ai tools for tax professionals database | 0
+2026-03-31_02:23:23 | ai tools for tax professionals alternative | 0
+2026-03-31_02:23:25 | ai tools for tax professionals workflow automation | 0
