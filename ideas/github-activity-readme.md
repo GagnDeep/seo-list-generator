@@ -32,3 +32,6 @@ Every developer wants an impressive GitHub profile but most README stats tools a
 
 ## Category
 Tool
+
+## Status
+[DONE]
