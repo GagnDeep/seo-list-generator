@@ -41,3 +41,4 @@
 - 2026-03-31: best-ai-tools-for-photographers-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-photographers-2026)
 - 2026-03-31: best-ai-tools-for-recruiters-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-recruiters-2026)
 - 2026-03-31: best-ai-tools-for-social-media-managers-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-social-media-managers-2026)
+- 2026-03-31: best-ai-tools-for-content-creators-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-content-creators-2026)
