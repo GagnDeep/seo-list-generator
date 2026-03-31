@@ -32,3 +32,6 @@ Developers want AI code review but don't want to send proprietary code to third-
 
 ## Category
 CLI
+
+## Status
+[DONE]
