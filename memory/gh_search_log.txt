@@ -940,3 +940,11 @@
 2026-03-31_02:23:20 | ai tools for tax professionals database | 0
 2026-03-31_02:23:23 | ai tools for tax professionals alternative | 0
 2026-03-31_02:23:25 | ai tools for tax professionals workflow automation | 0
+2026-03-31_03:10:45 | open source ai tools for recruiters | 0
+2026-03-31_03:10:48 | self-hosted ai tools for recruiters | 0
+2026-03-31_03:10:50 | free ai tools for recruiters github | 0
+2026-03-31_03:10:53 | ai tools for recruiters MIT license | 0
+2026-03-31_03:10:55 | ai tools for recruiters API | 0
+2026-03-31_03:10:58 | ai tools for recruiters database | 0
+2026-03-31_03:11:00 | ai tools for recruiters alternative | 0
+2026-03-31_03:11:03 | ai tools for recruiters workflow automation | 0
