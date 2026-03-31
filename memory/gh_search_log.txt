@@ -876,3 +876,27 @@
 2026-03-30_22:09:14 | ai tools for accountants database | 0
 2026-03-30_22:09:17 | ai tools for accountants alternative | 0
 2026-03-30_22:09:19 | ai tools for accountants workflow automation | 0
+2026-03-30_23:27:22 | open source ai tools for restaurants | 0
+2026-03-30_23:27:25 | self-hosted ai tools for restaurants | 0
+2026-03-30_23:27:27 | free ai tools for restaurants github | 0
+2026-03-30_23:27:30 | ai tools for restaurants MIT license | 0
+2026-03-30_23:27:32 | ai tools for restaurants API | 0
+2026-03-30_23:27:35 | ai tools for restaurants database | 0
+2026-03-30_23:27:37 | ai tools for restaurants alternative | 0
+2026-03-30_23:27:40 | ai tools for restaurants workflow automation | 0
+2026-03-30_23:35:56 | open source ai tools for lawyers | 0
+2026-03-30_23:35:58 | self-hosted ai tools for lawyers | 0
+2026-03-30_23:36:01 | free ai tools for lawyers github | 0
+2026-03-30_23:36:03 | ai tools for lawyers MIT license | 0
+2026-03-30_23:36:06 | ai tools for lawyers API | 0
+2026-03-30_23:36:08 | ai tools for lawyers database | 0
+2026-03-30_23:36:11 | ai tools for lawyers alternative | 0
+2026-03-30_23:36:13 | ai tools for lawyers workflow automation | 0
+2026-03-30_23:42:53 | open source ai tools for ecommerce | 0
+2026-03-30_23:42:56 | self-hosted ai tools for ecommerce | 0
+2026-03-30_23:42:58 | free ai tools for ecommerce github | 0
+2026-03-30_23:43:01 | ai tools for ecommerce MIT license | 0
+2026-03-30_23:43:03 | ai tools for ecommerce API | 0
+2026-03-30_23:43:06 | ai tools for ecommerce database | 0
+2026-03-30_23:43:08 | ai tools for ecommerce alternative | 0
+2026-03-30_23:43:11 | ai tools for ecommerce workflow automation | 0
