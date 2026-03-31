@@ -956,3 +956,11 @@
 2026-03-31_04:22:35 | ai tools for photographers database | 0
 2026-03-31_04:22:38 | ai tools for photographers alternative | 0
 2026-03-31_04:22:40 | ai tools for photographers workflow automation | 0
+2026-03-31_05:13:00 | open source ai tools for recruiters | 0
+2026-03-31_05:13:03 | self-hosted ai tools for recruiters | 0
+2026-03-31_05:13:05 | free ai tools for recruiters github | 0
+2026-03-31_05:13:08 | ai tools for recruiters MIT license | 0
+2026-03-31_05:13:10 | ai tools for recruiters API | 0
+2026-03-31_05:13:13 | ai tools for recruiters database | 0
+2026-03-31_05:13:16 | ai tools for recruiters alternative | 0
+2026-03-31_05:13:19 | ai tools for recruiters workflow automation | 0
