@@ -33,3 +33,4 @@
 - 2026-03-30: best-ai-tools-for-lawyers-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-lawyers-2026)
 - 2026-03-30: best-ai-tools-for-ecommerce-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-ecommerce-2026)
 - 2026-03-31: best-ai-tools-for-ecommerce-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-ecommerce-2026)
+- 2026-03-31: best-ai-tools-for-restaurants-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-restaurants-2026)
