@@ -205,9 +205,5 @@ export function createTunnelServer(options: TunnelServerOptions): Server {
     console.log(`[server] HTTP tunnel gateway listening on port ${options.httpPort}`);
   });
 
-  wss.listen(options.port, () => {
-    console.log(`[server] WebSocket server listening on port ${options.port}`);
-  });
-
   return httpServer;
 }

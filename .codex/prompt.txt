@@ -1,4 +1,4 @@
-Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-insurance-agents-2026"
+Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-travel-agents-2026"
 
 ## CRITICAL CONSTRAINTS
 - EVERY tool MUST have a github.com URL
@@ -19,14 +19,14 @@ Create a professional, complete awesome-list repo with:
 - CONTRIBUTING.md
 
 ## REPO STRUCTURE
-Work in this directory: /tmp/awesome-best-ai-tools-for-insurance-agents-2026-1359349
-The repo name should be: awesome-best-ai-tools-for-insurance-agents-2026
-GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026
+Work in this directory: /tmp/awesome-best-ai-tools-for-travel-agents-2026-1373668
+The repo name should be: awesome-best-ai-tools-for-travel-agents-2026
+GitHub URL will be: https://github.com/GagnDeep/awesome-best-ai-tools-for-travel-agents-2026
 
 ## README.md FORMAT (MUST FOLLOW EXACTLY)
 
 ---
-title: "best-ai-tools-for-insurance-agents-2026"
+title: "best-ai-tools-for-travel-agents-2026"
 description: "[150-160 char description for SEO - make it compelling and keyword-rich]"
 icon: 📋
 category: [pick best category]
@@ -36,7 +36,7 @@ category: [pick best category]
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026?style=social)
+![Topics](https://img.shields.io/github/stars/GagnDeep/awesome-best-ai-tools-for-travel-agents-2026?style=social)
 
 > [Compelling intro - 2-3 sentences, primary keyword in first 100 words]
 
@@ -89,40 +89,40 @@ category: [pick best category]
 ---
 
 ## RESEARCH DATA (use this to build accurate items)
-# GitHub Repository Research for: best-ai-tools-for-insurance-agents-2026
-Generated: Wed Apr  1 08:18:04 UTC 2026
+# GitHub Repository Research for: best-ai-tools-for-travel-agents-2026
+Generated: Wed Apr  1 12:21:04 UTC 2026
 
 ## GitHub Search Commands Used
 
-### Query: open source ai tools for insurance agents
+### Query: open source ai tools for travel agents
 
   (No results found)
 
-### Query: self-hosted ai tools for insurance agents
+### Query: self-hosted ai tools for travel agents
 
   (No results found)
 
-### Query: free ai tools for insurance agents github
+### Query: free ai tools for travel agents github
 
   (No results found)
 
-### Query: ai tools for insurance agents MIT license
+### Query: ai tools for travel agents MIT license
 
   (No results found)
 
-### Query: ai tools for insurance agents API
+### Query: ai tools for travel agents API
 
   (No results found)
 
-### Query: ai tools for insurance agents database
+### Query: ai tools for travel agents database
 
   (No results found)
 
-### Query: ai tools for insurance agents alternative
+### Query: ai tools for travel agents alternative
 
   (No results found)
 
-### Query: ai tools for insurance agents workflow automation
+### Query: ai tools for travel agents workflow automation
 
   (No results found)
 
@@ -132,7 +132,7 @@ Generated: Wed Apr  1 08:18:04 UTC 2026
 
 Categories with fewer than 5 tools represent opportunities:
 
-WARNING: Low repo count for topic 'best-ai-tools-for-insurance-agents-2026'. Consider broadening search.
+WARNING: Low repo count for topic 'best-ai-tools-for-travel-agents-2026'. Consider broadening search.
 
 ## REQUIREMENTS
 1. EVERY tool MUST have a github.com URL (no exceptions)

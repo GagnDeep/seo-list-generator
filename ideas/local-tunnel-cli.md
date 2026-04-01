@@ -32,3 +32,13 @@ Every developer needs to share a local webhook, test OAuth callbacks, or demo to
 
 ## Category
 CLI
+
+## Status
+[DONE] — Implemented at `/root/Projects/seo-list-generator/built/localtunnel/`
+
+## Bugs Fixed
+- `wss.listen()` was being called incorrectly on `WebSocketServer` (which has no `.listen()` method). Removed the spurious WS listen call.
+- Duplicate `import { WebSocket }` statement in `client.ts`.
+- Test suite was using CommonJS `require()` in ESM project. Rewrote tests to use dynamic `import()`.
+- TypeScript errors: removed unused variables, fixed incorrect `httpProxy.IncomingMessage` type reference, fixed type compatibility issues.
+- Added `strict: true`, `noUnusedLocals`, `noUnusedParameters` to `tsconfig.json`.

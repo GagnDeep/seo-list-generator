@@ -22,23 +22,18 @@ export interface TunnelInfo {
 }
 
 interface ProxyMessage {
-  type: "request" | "response" | "error";
-  id: number;
+  type: "welcome" | "request" | "response" | "error";
+  id?: number;
   method?: string;
   url?: string;
-  headers?: httpProxy.IncomingMessage["headers"];
+  headers?: IncomingMessage["headers"];
   body?: string;
   statusCode?: number;
   data?: string;
   error?: string;
 }
 
-const pendingRequests = new Map<
-  number,
-  { req: IncomingMessage; res: ServerResponse }
->();
 
-let requestId = 0;
 
 export function createTunnelClient(
   options: TunnelClientOptions
@@ -91,7 +86,7 @@ export function createTunnelClient(
             url: msg.url,
             headers: msg.headers || {},
             body: msg.body,
-          } as IncomingMessage;
+          } as unknown as IncomingMessage;
 
           const res = new MockServerResponse(msg.id, client, msg.statusCode);
 
