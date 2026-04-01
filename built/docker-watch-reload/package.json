@@ -1,0 +1,50 @@
+{
+  "name": "@seo-list/docker-watch-reload",
+  "version": "0.1.0",
+  "description": "Watch source files and automatically rebuild Docker containers on change",
+  "license": "MIT",
+  "author": "seo-list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seo-list/docker-watch-reload"
+  },
+  "keywords": [
+    "docker",
+    "watch",
+    "reload",
+    "hot-reload",
+    "docker-compose",
+    "development"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "docker-watch": "./bin/cli.js"
+  },
+  "files": [
+    "dist",
+    "bin"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "vitest",
+    "test:ci": "vitest run"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "commander": "^12.1.0",
+    "js-yaml": "^4.1.0",
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
