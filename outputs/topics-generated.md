@@ -47,3 +47,4 @@
 - 2026-03-31: best AI tools for lawyers 2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-lawyers-2026)
 - 2026-04-01: best-ai-tools-for-insurance-agents-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026)
 - 2026-04-01: best-ai-tools-for-insurance-agents-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026)
+- 2026-04-01: best-ai-tools-for-insurance-agents-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026)
