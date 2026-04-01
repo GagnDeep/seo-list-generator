@@ -20,6 +20,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 10 | **NextJS Blog Starter** | [Template] | [READY] |
 | 11 | **GitHub Activity README** | [Tool] | [DONE] |
 | 12 | **Open Source API Schema Validator** | [Library] | [DONE] |
+| 13 | **Self-Hosted AI Agent CLI** | [CLI] | [READY] |
 
 ---
 
@@ -37,6 +38,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 - [`nextjs-blog-starter.md`](./nextjs-blog-starter.md) — Production-ready Next.js blog
 - [`github-activity-readme.md`](./github-activity-readme.md) — GitHub Profile README generator
 - [`open-source-api-schema-validator.md`](./open-source-api-schema-validator.md) — OpenAPI runtime validator
+- [`self-hosted-ai-agent-cli.md`](./self-hosted-ai-agent-cli.md) — Deploy self-hosted AI agents in one command
 
 ---
 
