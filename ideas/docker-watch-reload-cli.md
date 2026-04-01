@@ -31,3 +31,6 @@ Every developer using Docker for local development wastes time on manual rebuild
 
 ## Category
 CLI
+
+## Status
+[DONE]
