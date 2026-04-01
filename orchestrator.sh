@@ -681,13 +681,28 @@ create_github_repo() {
     git add -A
     git commit -m "Initial commit: $topic awesome list"
     
-    # Create GitHub repo (public)
+    # Create GitHub repo (public) or push to existing
     if gh repo create "$repo_name" --public --source=. --push 2>&1; then
         success "GitHub repo created and pushed!"
         echo "https://github.com/$GITHUB_USER/$repo_name"
         return 0
     else
-        error "Failed to create GitHub repo"
+        # Repo already exists - clone it, replace files, force push
+        warn "Repo exists, force pushing..."
+        cd /tmp
+        rm -rf "$repo_name" 2>/dev/null
+        if git clone "https://github.com/$GITHUB_USER/$repo_name.git" "$repo_name" 2>&1; then
+            cd "$repo_name"
+            cp "$temp_dir/README.md" "$temp_dir/LICENSE" "$temp_dir/CONTRIBUTING.md" .
+            git add -A
+            git commit -m "Update: $topic awesome list $(date +%Y-%m-%d)"
+            if git push -f origin master 2>&1; then
+                success "GitHub repo force updated!"
+                echo "https://github.com/$GITHUB_USER/$repo_name"
+                return 0
+            fi
+        fi
+        error "Failed to push to GitHub repo"
         return 1
     fi
 }
