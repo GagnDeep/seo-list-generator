@@ -31,3 +31,6 @@ Developers want Vercel's one-command deployment experience but need to self-host
 
 ## Category
 CLI
+
+## Status
+[DONE]

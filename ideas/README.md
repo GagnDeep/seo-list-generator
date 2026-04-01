@@ -13,7 +13,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 3 | **Env Schema Validator** | [Library] | [IMPLEMENTED] |
 | 4 | **Webhook SDK** | [Library] | [IMPLEMENTED] |
 | 5 | **Open Source Stripe Webhook** | [Library] | [DONE] |
-| 6 | **Dead Simple Deploy CLI** | [CLI] | [READY] |
+| 6 | **Dead Simple Deploy CLI** | [CLI] | [DONE] |
 | 7 | **Local Tunnel CLI** | [CLI] | [READY] |
 | 8 | **Docker Watch Reload CLI** | [CLI] | [READY] |
 | 9 | **AI Code Reviewer CLI** | [CLI] | [READY] |
