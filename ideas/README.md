@@ -23,6 +23,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 13 | **AI Ops CLI** | [CLI] | [DONE] |
 | 14 | **MCP Server SDK** | [Library] | [DONE] |
 | 15 | **Self-Hosted AI Agent CLI** | [CLI] | [DONE] |
+| 16 | **Self-Hosted Feature Flag CLI** | [CLI] | [READY] |
 
 ---
 
