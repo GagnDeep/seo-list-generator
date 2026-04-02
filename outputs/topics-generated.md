@@ -55,3 +55,4 @@
 - 2026-04-02: best-ai-tools-for-accountants-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-accountants-2026)
 - 2026-04-02: best-ai-tools-for-teachers-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-teachers-2026)
 - 2026-04-02: best-ai-tools-for-llm-development-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-llm-development-2026)
+- 2026-04-02: best-ai-tools-for-knowledge-management-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-knowledge-management-2026)
