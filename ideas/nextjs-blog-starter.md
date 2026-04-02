@@ -34,3 +34,6 @@ Developers waste 2-3 days setting up a blog: MDX pipeline, syntax highlighting, 
 
 ## Category
 Template
+
+## Status
+[DONE]
