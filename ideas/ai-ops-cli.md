@@ -1,5 +1,8 @@
 # AI Ops CLI — Self-Hosted AI Cost & Performance Monitor
 
+## Status
+[DONE] — Built at `/root/Projects/seo-list-generator/built/ai-ops-cli/`
+
 ## What It Would Be
 
 A CLI tool + self-hosted dashboard for monitoring AI API usage, costs, latency, and error rates across all AI providers in one place.

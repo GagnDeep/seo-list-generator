@@ -20,7 +20,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 10 | **NextJS Blog Starter** | [Template] | [DONE] |
 | 11 | **GitHub Activity README** | [Tool] | [DONE] |
 | 12 | **Open Source API Schema Validator** | [Library] | [DONE] |
-| 13 | **AI Ops CLI** | [CLI] | [READY] |
+| 13 | **AI Ops CLI** | [CLI] | [DONE] |
 | 14 | **MCP Server SDK** | [Library] | [DONE] |
 | 15 | **Self-Hosted AI Agent CLI** | [CLI] | [DONE] |
 
