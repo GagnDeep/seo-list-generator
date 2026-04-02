@@ -1116,3 +1116,11 @@
 2026-04-02_12:53:13 | ai tools for knowledge management database | 0
 2026-04-02_12:53:15 | ai tools for knowledge management alternative | 0
 2026-04-02_12:53:18 | ai tools for knowledge management workflow automation | 0
+2026-04-02_16:14:06 | open source ai tools for restaurants | 0
+2026-04-02_16:14:08 | self-hosted ai tools for restaurants | 0
+2026-04-02_16:14:11 | free ai tools for restaurants github | 0
+2026-04-02_16:14:13 | ai tools for restaurants MIT license | 0
+2026-04-02_16:14:16 | ai tools for restaurants API | 0
+2026-04-02_16:14:18 | ai tools for restaurants database | 0
+2026-04-02_16:14:21 | ai tools for restaurants alternative | 0
+2026-04-02_16:14:24 | ai tools for restaurants workflow automation | 0
