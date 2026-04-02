@@ -51,3 +51,4 @@
 - 2026-04-01: best-ai-tools-for-insurance-agents-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-insurance-agents-2026)
 - 2026-04-01: best-ai-tools-for-travel-agents-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-travel-agents-2026)
 - 2026-04-02: best-ai-tools-for-interior-designers-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-interior-designers-2026)
+- 2026-04-02: best-ai-tools-for-restaurants-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-restaurants-2026)
