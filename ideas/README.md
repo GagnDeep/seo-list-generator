@@ -14,10 +14,10 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 4 | **Webhook SDK** | [Library] | [IMPLEMENTED] |
 | 5 | **Open Source Stripe Webhook** | [Library] | [DONE] |
 | 6 | **Dead Simple Deploy CLI** | [CLI] | [DONE] |
-| 7 | **Local Tunnel CLI** | [CLI] | [READY] |
-| 8 | **Docker Watch Reload CLI** | [CLI] | [READY] |
-| 9 | **AI Code Reviewer CLI** | [CLI] | [READY] |
-| 10 | **NextJS Blog Starter** | [Template] | [READY] |
+| 7 | **Local Tunnel CLI** | [CLI] | [DONE] |
+| 8 | **Docker Watch Reload CLI** | [CLI] | [DONE] |
+| 9 | **AI Code Reviewer CLI** | [CLI] | [DONE] |
+| 10 | **NextJS Blog Starter** | [Template] | [DONE] |
 | 11 | **GitHub Activity README** | [Tool] | [DONE] |
 | 12 | **Open Source API Schema Validator** | [Library] | [DONE] |
 | 13 | **Self-Hosted AI Agent CLI** | [CLI] | [READY] |
