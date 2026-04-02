@@ -1,0 +1,51 @@
+{
+  "name": "@openclaw/ai-ops-cli",
+  "version": "0.1.0",
+  "description": "Self-hosted AI cost and performance monitor for OpenAI, Anthropic, and other AI providers",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "bin": {
+    "ai-ops": "./dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "ai",
+    "cost",
+    "monitoring",
+    "openai",
+    "anthropic",
+    "ops",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/ai-ops-cli"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.0"
+  }
+}
