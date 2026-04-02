@@ -1068,3 +1068,51 @@
 2026-04-02_00:14:07 | ai tools for interior designers database | 0
 2026-04-02_00:14:10 | ai tools for interior designers alternative | 0
 2026-04-02_00:14:12 | ai tools for interior designers workflow automation | 0
+2026-04-02_12:15:57 | open source ai tools for real estate agents | 0
+2026-04-02_12:15:59 | self-hosted ai tools for real estate agents | 0
+2026-04-02_12:16:02 | free ai tools for real estate agents github | 0
+2026-04-02_12:16:04 | ai tools for real estate agents MIT license | 0
+2026-04-02_12:16:07 | ai tools for real estate agents API | 0
+2026-04-02_12:16:09 | ai tools for real estate agents database | 0
+2026-04-02_12:16:12 | ai tools for real estate agents alternative | 0
+2026-04-02_12:16:15 | ai tools for real estate agents workflow automation | 0
+2026-04-02_12:27:55 | open source ai tools for restaurants | 0
+2026-04-02_12:27:57 | self-hosted ai tools for restaurants | 0
+2026-04-02_12:28:00 | free ai tools for restaurants github | 0
+2026-04-02_12:28:02 | ai tools for restaurants MIT license | 0
+2026-04-02_12:28:05 | ai tools for restaurants API | 0
+2026-04-02_12:28:08 | ai tools for restaurants database | 0
+2026-04-02_12:28:10 | ai tools for restaurants alternative | 0
+2026-04-02_12:28:13 | ai tools for restaurants workflow automation | 0
+2026-04-02_12:33:18 | open source ai tools for accountants | 0
+2026-04-02_12:33:20 | self-hosted ai tools for accountants | 0
+2026-04-02_12:33:23 | free ai tools for accountants github | 0
+2026-04-02_12:33:25 | ai tools for accountants MIT license | 0
+2026-04-02_12:33:28 | ai tools for accountants API | 0
+2026-04-02_12:33:30 | ai tools for accountants database | 0
+2026-04-02_12:33:33 | ai tools for accountants alternative | 0
+2026-04-02_12:33:35 | ai tools for accountants workflow automation | 0
+2026-04-02_12:38:55 | open source ai tools for teachers | 0
+2026-04-02_12:38:58 | self-hosted ai tools for teachers | 0
+2026-04-02_12:39:00 | free ai tools for teachers github | 0
+2026-04-02_12:39:03 | ai tools for teachers MIT license | 0
+2026-04-02_12:39:05 | ai tools for teachers API | 0
+2026-04-02_12:39:08 | ai tools for teachers database | 0
+2026-04-02_12:39:10 | ai tools for teachers alternative | 0
+2026-04-02_12:39:13 | ai tools for teachers workflow automation | 0
+2026-04-02_12:49:27 | open source ai tools for llm development | 0
+2026-04-02_12:49:30 | self-hosted ai tools for llm development | 0
+2026-04-02_12:49:32 | free ai tools for llm development github | 0
+2026-04-02_12:49:35 | ai tools for llm development MIT license | 0
+2026-04-02_12:49:37 | ai tools for llm development API | 0
+2026-04-02_12:49:40 | ai tools for llm development database | 0
+2026-04-02_12:49:42 | ai tools for llm development alternative | 0
+2026-04-02_12:49:45 | ai tools for llm development workflow automation | 0
+2026-04-02_12:53:00 | open source ai tools for knowledge management | 0
+2026-04-02_12:53:03 | self-hosted ai tools for knowledge management | 0
+2026-04-02_12:53:05 | free ai tools for knowledge management github | 0
+2026-04-02_12:53:08 | ai tools for knowledge management MIT license | 0
+2026-04-02_12:53:10 | ai tools for knowledge management API | 0
+2026-04-02_12:53:13 | ai tools for knowledge management database | 0
+2026-04-02_12:53:15 | ai tools for knowledge management alternative | 0
+2026-04-02_12:53:18 | ai tools for knowledge management workflow automation | 0
