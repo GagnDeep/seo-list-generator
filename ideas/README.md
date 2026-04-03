@@ -23,7 +23,8 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 13 | **AI Ops CLI** | [CLI] | [DONE] |
 | 14 | **MCP Server SDK** | [Library] | [DONE] |
 | 15 | **Self-Hosted AI Agent CLI** | [CLI] | [DONE] |
-| 16 | **Self-Hosted Feature Flag CLI** | [CLI] | [READY] |
+| 16 | **Self-Hosted Feature Flag CLI** | [CLI] | [DONE] |
+| 17 | **Self-Hosted Git History Analyzer CLI** | [CLI] | [READY] |
 
 ---
 
@@ -43,6 +44,8 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 - [`open-source-api-schema-validator.md`](./open-source-api-schema-validator.md) — OpenAPI runtime validator
 - [`ai-ops-cli.md`](./ai-ops-cli.md) — Self-hosted AI cost & performance monitor
 - [`self-hosted-ai-agent-cli.md`](./self-hosted-ai-agent-cli.md) — Deploy self-hosted AI agents in one command
+- [`self-hosted-feature-flag-cli.md`](./self-hosted-feature-flag-cli.md) — SQLite/PostgreSQL-backed feature flags CLI
+- [`self-hosted-git-history-analyzer-cli.md`](./self-hosted-git-history-analyzer-cli.md) — Analyze git history for coupling, blast radius
 
 ---
 
@@ -54,6 +57,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 - Local Tunnel CLI
 - Docker Watch Reload CLI
 - AI Code Reviewer CLI
+- Self-Hosted Git History Analyzer CLI
 
 ### Libraries
 - Env Schema Validator

@@ -60,3 +60,7 @@ The middle ground is empty: a **zero-dependency, single-binary CLI** that runs a
 - Open source (MIT) — core tool is free forever
 - **Paid tier**: Multi-environment config sync, team permissions, audit log, Webhooks — delivered as a lightweight paid SaaS on top (featureflag.sh)
 - GitHub Sponsors / Open Collective for the core tool
+
+## Status
+
+[DONE] — Built at `/root/Projects/seo-list-generator/built/feature-flag/`
