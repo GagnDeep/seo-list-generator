@@ -58,3 +58,4 @@
 - 2026-04-02: best-ai-tools-for-knowledge-management-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-knowledge-management-2026)
 - 2026-04-02: best-ai-tools-for-restaurants-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-restaurants-2026)
 - 2026-04-03: best-ai-tools-for-podcasters-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-podcasters-2026)
+- 2026-04-03: best-ai-tools-for-video-editors-2026 (https://github.com/GagnDeep/awesome-best-ai-tools-for-video-editors-2026)
