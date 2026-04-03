@@ -53,7 +53,7 @@ The niche is "local-first webhook debugging" — a self-contained CLI with a com
 
 ## Status
 
-[READY]
+[DONE] — Built at `/root/Projects/seo-list-generator/built/whook/`
 
 ## Implementation Notes
 
