@@ -1148,3 +1148,11 @@
 2026-04-04_00:14:07 | ai tools for recruiters database | 0
 2026-04-04_00:14:09 | ai tools for recruiters alternative | 0
 2026-04-04_00:14:12 | ai tools for recruiters workflow automation | 0
+2026-04-04_12:16:17 | open source ai tools for real estate agents | 0
+2026-04-04_12:16:19 | self-hosted ai tools for real estate agents | 0
+2026-04-04_12:16:22 | free ai tools for real estate agents github | 0
+2026-04-04_12:16:24 | ai tools for real estate agents MIT license | 0
+2026-04-04_12:16:26 | ai tools for real estate agents API | 0
+2026-04-04_12:16:29 | ai tools for real estate agents database | 0
+2026-04-04_12:16:31 | ai tools for real estate agents alternative | 0
+2026-04-04_12:16:34 | ai tools for real estate agents workflow automation | 0
