@@ -1,3 +1,15 @@
+OpenAI Codex v0.117.0 (research preview)
+--------
+workdir: /tmp/awesome-best-ai-tools-for-recruiters-2026-1889518
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /root/.codex/memories]
+reasoning effort: none
+reasoning summaries: none
+session id: 019d55d7-1a9a-7b71-b5d0-d54c92e43c1b
+--------
+user
 Build a complete SEO-optimized GitHub awesome-list repository for: "best-ai-tools-for-recruiters-2026"
 
 ## CRITICAL CONSTRAINTS
@@ -155,3 +167,7 @@ Run: ls -la
 Run: wc -l README.md
 Count the tools in your README and verify you have 25+ entries
 Report: DONE with repo URL and tool count
+
+warning: Codex could not find system bubblewrap at /usr/bin/bwrap. Please install bubblewrap with your package manager. Codex will use the vendored bubblewrap in the meantime.
+ERROR: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 12:36 AM.
+ERROR: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 12:36 AM.
