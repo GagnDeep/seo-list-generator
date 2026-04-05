@@ -1156,3 +1156,11 @@
 2026-04-04_12:16:29 | ai tools for real estate agents database | 0
 2026-04-04_12:16:31 | ai tools for real estate agents alternative | 0
 2026-04-04_12:16:34 | ai tools for real estate agents workflow automation | 0
+2026-04-05_00:15:05 | open source ai tools for lawyers | 0
+2026-04-05_00:15:07 | self-hosted ai tools for lawyers | 0
+2026-04-05_00:15:10 | free ai tools for lawyers github | 0
+2026-04-05_00:15:12 | ai tools for lawyers MIT license | 0
+2026-04-05_00:15:14 | ai tools for lawyers API | 0
+2026-04-05_00:15:17 | ai tools for lawyers database | 0
+2026-04-05_00:15:19 | ai tools for lawyers alternative | 0
+2026-04-05_00:15:22 | ai tools for lawyers workflow automation | 0
