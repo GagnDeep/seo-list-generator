@@ -25,6 +25,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 | 15 | **Self-Hosted AI Agent CLI** | [CLI] | [DONE] |
 | 16 | **Self-Hosted Feature Flag CLI** | [CLI] | [DONE] |
 | 17 | **Self-Hosted Git History Analyzer CLI** | [CLI] | [READY] |
+| 18 | **Self-Hosted API Documentation Generator CLI** | [CLI] | [READY] |
 
 ---
 
@@ -46,6 +47,7 @@ Production-grade developer utilities, libraries, CLI tools, and Next.js packages
 - [`self-hosted-ai-agent-cli.md`](./self-hosted-ai-agent-cli.md) — Deploy self-hosted AI agents in one command
 - [`self-hosted-feature-flag-cli.md`](./self-hosted-feature-flag-cli.md) — SQLite/PostgreSQL-backed feature flags CLI
 - [`self-hosted-git-history-analyzer-cli.md`](./self-hosted-git-history-analyzer-cli.md) — Analyze git history for coupling, blast radius
+- [`self-hosted-api-documentation-generator-cli.md`](./self-hosted-api-documentation-generator-cli.md) — Generate API docs from TypeScript annotations
 
 ---
 
