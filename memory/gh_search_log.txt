@@ -1172,3 +1172,11 @@
 2026-04-06_12:16:36 | ai tools for ecommerce database | 0
 2026-04-06_12:16:39 | ai tools for ecommerce alternative | 0
 2026-04-06_12:16:41 | ai tools for ecommerce workflow automation | 0
+2026-04-07_00:09:04 | open source ai tools for email marketers | 0
+2026-04-07_00:09:07 | self-hosted ai tools for email marketers | 0
+2026-04-07_00:09:09 | free ai tools for email marketers github | 0
+2026-04-07_00:09:12 | ai tools for email marketers MIT license | 0
+2026-04-07_00:09:14 | ai tools for email marketers API | 0
+2026-04-07_00:09:17 | ai tools for email marketers database | 0
+2026-04-07_00:09:19 | ai tools for email marketers alternative | 0
+2026-04-07_00:09:22 | ai tools for email marketers workflow automation | 0
