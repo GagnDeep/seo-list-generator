@@ -1180,3 +1180,11 @@
 2026-04-07_00:09:17 | ai tools for email marketers database | 0
 2026-04-07_00:09:19 | ai tools for email marketers alternative | 0
 2026-04-07_00:09:22 | ai tools for email marketers workflow automation | 0
+2026-04-07_12:13:30 | open source ai tools for lawyers | 0
+2026-04-07_12:13:33 | self-hosted ai tools for lawyers | 0
+2026-04-07_12:13:35 | free ai tools for lawyers github | 0
+2026-04-07_12:13:38 | ai tools for lawyers MIT license | 0
+2026-04-07_12:13:40 | ai tools for lawyers API | 0
+2026-04-07_12:13:43 | ai tools for lawyers database | 0
+2026-04-07_12:13:45 | ai tools for lawyers alternative | 0
+2026-04-07_12:13:48 | ai tools for lawyers workflow automation | 0
