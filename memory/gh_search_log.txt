@@ -1188,3 +1188,11 @@
 2026-04-07_12:13:43 | ai tools for lawyers database | 0
 2026-04-07_12:13:45 | ai tools for lawyers alternative | 0
 2026-04-07_12:13:48 | ai tools for lawyers workflow automation | 0
+2026-04-08_00:14:34 | open source ai tools for photographers | 0
+2026-04-08_00:14:37 | self-hosted ai tools for photographers | 0
+2026-04-08_00:14:39 | free ai tools for photographers github | 0
+2026-04-08_00:14:41 | ai tools for photographers MIT license | 0
+2026-04-08_00:14:44 | ai tools for photographers API | 0
+2026-04-08_00:14:46 | ai tools for photographers database | 0
+2026-04-08_00:14:49 | ai tools for photographers alternative | 0
+2026-04-08_00:14:51 | ai tools for photographers workflow automation | 0
